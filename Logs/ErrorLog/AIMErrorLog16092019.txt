@@ -1,0 +1,16 @@
+Time: 16/09/2019 04:42:06 PM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at DataAcessLayer.AIMDAL.AIMDAL.UpdateEinPc(AIMEntity objDATA) in e:\SWP_Services\App_Code\DAL\AIM_DAL\AIMDAL.cs:line 63
+Source: App_Code.fnbn0flr
+TargetSite: EntityLayer.AIMEntity.AIMStatusResponse UpdateEinPc(EntityLayer.AIMEntity.AIMEntity)
+-----------------------------------------------------------
+
+Time: 16/09/2019 04:43:45 PM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at DataAcessLayer.AIMDAL.AIMDAL.UpdateEinPc(AIMEntity objDATA) in e:\SWP_Services\App_Code\DAL\AIM_DAL\AIMDAL.cs:line 63
+Source: App_Code.fnbn0flr
+TargetSite: EntityLayer.AIMEntity.AIMStatusResponse UpdateEinPc(EntityLayer.AIMEntity.AIMEntity)
+-----------------------------------------------------------
+

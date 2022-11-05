@@ -1,0 +1,6 @@
+Time: 07/04/2021 09:52:49 AM For RequestMethod: NSWSLoginAuthentication
+InputOutput: (Request)--- PAN No :- AAABB1234M.  -->>> INPUT JSON STRING :- {"SecurityKey":"6EE32F3E-9B14-4789-9DEF-0EC458F7EB28","PAN":"AAABB1234M","ApplicantName":null,"ApplicantAddress":null,"MobileNo":null,"EmailId":null,"UnitName":null,"InvestmentLevel":0,"SiteLocation":null,"EinIemType":null,"EinIemNo":null,"EinIemDoc":null,"DistrictCode":0,"BlockCode":0,"SectorCode":0,"SubSectorCode":0,"GSTIN":null,"InvestorSWSId":140}
+-----------------------------------------------------------
+Time: 07/04/2021 09:52:53 AM For RequestMethod: NSWSLoginAuthentication
+InputOutput: (Response)--- Status :- 0 OUTPUT JSON STRING:- {"Status":2,"RedirectUrl":"http://192.168.201.129/swp_new/SSOLoginNSWS.aspx?nparam=mhJwmRcCSPR0L/hhwPmRfaAVXRKpa/p2m1ikUCEs5M8POIaoKMMYag==","OutMessage":"Success."}
+-----------------------------------------------------------

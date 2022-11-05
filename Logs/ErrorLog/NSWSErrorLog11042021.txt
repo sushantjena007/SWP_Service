@@ -1,0 +1,64 @@
+Time: 11/04/2021 09:49:01 AM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at DataAcessLayer.NSWSDAL.NSWSDAL.NSWSUserRegistration(NSWSEntity objNsws) in d:\CSMPROJECTS\SWP_Services\App_Code\DAL\NSWS_DAL\NSWSDAL.cs:line 49
+Source: App_Code.lylpp_7i
+TargetSite: System.Collections.Generic.List`1[EntityLayer.NSWSEntity.clsOutput1] NSWSUserRegistration(EntityLayer.NSWSEntity.NSWSEntity)
+-----------------------------------------------------------
+
+Time: 11/04/2021 09:50:41 AM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at DataAcessLayer.NSWSDAL.NSWSDAL.NSWSUserRegistration(NSWSEntity objNsws) in d:\CSMPROJECTS\SWP_Services\App_Code\DAL\NSWS_DAL\NSWSDAL.cs:line 49
+Source: App_Code.lylpp_7i
+TargetSite: System.Collections.Generic.List`1[EntityLayer.NSWSEntity.clsOutput1] NSWSUserRegistration(EntityLayer.NSWSEntity.NSWSEntity)
+-----------------------------------------------------------
+
+Time: 11/04/2021 09:53:54 AM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at DataAcessLayer.NSWSDAL.NSWSDAL.NSWSUserRegistration(NSWSEntity objNsws) in d:\CSMPROJECTS\SWP_Services\App_Code\DAL\NSWS_DAL\NSWSDAL.cs:line 49
+Source: App_Code.lylpp_7i
+TargetSite: System.Collections.Generic.List`1[EntityLayer.NSWSEntity.clsOutput1] NSWSUserRegistration(EntityLayer.NSWSEntity.NSWSEntity)
+-----------------------------------------------------------
+
+Time: 11/04/2021 09:54:51 AM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at DataAcessLayer.NSWSDAL.NSWSDAL.NSWSUserRegistration(NSWSEntity objNsws) in d:\CSMPROJECTS\SWP_Services\App_Code\DAL\NSWS_DAL\NSWSDAL.cs:line 49
+Source: App_Code.lylpp_7i
+TargetSite: System.Collections.Generic.List`1[EntityLayer.NSWSEntity.clsOutput1] NSWSUserRegistration(EntityLayer.NSWSEntity.NSWSEntity)
+-----------------------------------------------------------
+
+Time: 11/04/2021 09:56:31 AM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at DataAcessLayer.NSWSDAL.NSWSDAL.NSWSUserRegistration(NSWSEntity objNsws) in d:\CSMPROJECTS\SWP_Services\App_Code\DAL\NSWS_DAL\NSWSDAL.cs:line 49
+Source: App_Code.lylpp_7i
+TargetSite: System.Collections.Generic.List`1[EntityLayer.NSWSEntity.clsOutput1] NSWSUserRegistration(EntityLayer.NSWSEntity.NSWSEntity)
+-----------------------------------------------------------
+
+Time: 11/04/2021 09:57:07 AM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at DataAcessLayer.NSWSDAL.NSWSDAL.NSWSUserRegistration(NSWSEntity objNsws) in d:\CSMPROJECTS\SWP_Services\App_Code\DAL\NSWS_DAL\NSWSDAL.cs:line 59
+Source: App_Code.lensp7vc
+TargetSite: System.Collections.Generic.List`1[EntityLayer.NSWSEntity.clsOutput1] NSWSUserRegistration(EntityLayer.NSWSEntity.NSWSEntity)
+-----------------------------------------------------------
+
+Time: 11/04/2021 10:01:53 AM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at DataAcessLayer.NSWSDAL.NSWSDAL.NSWSUserRegistration(NSWSEntity objNsws) in d:\CSMPROJECTS\SWP_Services\App_Code\DAL\NSWS_DAL\NSWSDAL.cs:line 65
+Source: App_Code.lensp7vc
+TargetSite: System.Collections.Generic.List`1[EntityLayer.NSWSEntity.clsOutput1] NSWSUserRegistration(EntityLayer.NSWSEntity.NSWSEntity)
+-----------------------------------------------------------
+
+Time: 11/04/2021 10:07:47 AM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at DataAcessLayer.NSWSDAL.NSWSDAL.NSWSUserRegistration(NSWSEntity objNsws) in d:\CSMPROJECTS\SWP_Services\App_Code\DAL\NSWS_DAL\NSWSDAL.cs:line 59
+Source: App_Code.lensp7vc
+TargetSite: System.Collections.Generic.List`1[EntityLayer.NSWSEntity.clsOutput1] NSWSUserRegistration(EntityLayer.NSWSEntity.NSWSEntity)
+-----------------------------------------------------------
+

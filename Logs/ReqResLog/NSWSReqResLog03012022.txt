@@ -1,0 +1,21 @@
+Time: 03/01/2022 07:20:43 PM For RequestMethod: NSWSUserRegistration
+InputOutput: (REQUEST_FROM_NSWS)--[REQUEST_JSON_STRING]:- {"SecurityKey":"NSWSA4A8-69A8-4060-82EA-DF29B9F05D2C","PAN":"BAOPJ1968F","ApplicantName":"vijay","ApplicantAddress":"hh,ok,121210,Karnataka,India","MobileNo":"7899625285","EmailId":"jvijay285@gmail.com","UnitName":"ok","InvestmentLevel":2,"SiteLocation":"No","EinIemType":"EIN","EinIemNo":"6767","EinIemDoc":"[{\"fileName\":\"25112021162755-approved (1).pdf\",\"type\":\"\",\"value\":\"SW7862304809-4195:F00809:S-10:F-199:SFK-1\"}]","DistrictCode":2,"BlockCode":250,"SectorCode":37,"SubSectorCode":132,"GSTIN":"29AAACC1206D2ZB","InvestorSWSId":"SW7862304809"}
+-----------------------------------------------------------
+Time: 03/01/2022 07:20:43 PM For RequestMethod: NSWSUserRegistration
+InputOutput: (RESPONSE_FROM_GOSWIFT)--[INPUT_VALIDITY_STATUS]:- 1 <----> [RESPONSE_JSON_STRING]:- {"Status":1,"SSOId":null,"OutMessage":"Invalid security key."}
+-----------------------------------------------------------
+Time: 03/01/2022 07:21:20 PM For RequestMethod: NSWSUserRegistration
+InputOutput: (REQUEST_FROM_NSWS)--[REQUEST_JSON_STRING]:- {"SecurityKey":"6EE32F3E-9B14-4789-9DEF-0EC458F7EB28","PAN":"BAOPJ1968F","ApplicantName":"vijay","ApplicantAddress":"hh,ok,121210,Karnataka,India","MobileNo":"7899625285","EmailId":"jvijay285@gmail.com","UnitName":"ok","InvestmentLevel":2,"SiteLocation":"No","EinIemType":"EIN","EinIemNo":"6767","EinIemDoc":"[{\"fileName\":\"25112021162755-approved (1).pdf\",\"type\":\"\",\"value\":\"SW7862304809-4195:F00809:S-10:F-199:SFK-1\"}]","DistrictCode":2,"BlockCode":250,"SectorCode":37,"SubSectorCode":132,"GSTIN":"29AAACC1206D2ZB","InvestorSWSId":"SW7862304809"}
+-----------------------------------------------------------
+Time: 03/01/2022 07:21:26 PM For RequestMethod: DownloadDocument
+InputOutput: (REQUEST_FROM_GOSWIFT)--[REQUEST_JSON_STRING]:- {"contentId":["SW7862304809-4195:F00809:S-10:F-199:SFK-1"]} <----> (RESPONSE_FROM_NSWS)--[RESPONSE_JSON_STRING]:- 
+-----------------------------------------------------------
+Time: 03/01/2022 07:21:26 PM For RequestMethod: NSWSUserRegistration
+InputOutput: (RESPONSE_FROM_GOSWIFT)--[INPUT_VALIDITY_STATUS]:- 1 <----> [RESPONSE_JSON_STRING]:- {"Status":1,"SSOId":null,"OutMessage":"No file found for download."}
+-----------------------------------------------------------
+Time: 03/01/2022 08:14:00 PM For RequestMethod: NSWSUserRegistration
+InputOutput: (REQUEST_FROM_NSWS)--[REQUEST_JSON_STRING]:- {"SecurityKey":"NSWSA4A8-69A8-4060-82EA-DF29B9F05D2C","PAN":"BAOPJ1968F","ApplicantName":"vijay","ApplicantAddress":"hh,ok,121210,Karnataka,India","MobileNo":"7899625285","EmailId":"jvijay285@gmail.com","UnitName":"ok","InvestmentLevel":2,"SiteLocation":"No","EinIemType":"EIN","EinIemNo":"6767","EinIemDoc":"[{\"fileName\":\"25112021162755-approved (1).pdf\",\"type\":\"\",\"value\":\"SW7862304809-4195:F00809:S-10:F-199:SFK-1\"}]","DistrictCode":2,"BlockCode":250,"SectorCode":37,"SubSectorCode":132,"GSTIN":"29AAACC1206D2ZB","InvestorSWSId":"SW7862304809"}
+-----------------------------------------------------------
+Time: 03/01/2022 08:14:00 PM For RequestMethod: NSWSUserRegistration
+InputOutput: (RESPONSE_FROM_GOSWIFT)--[INPUT_VALIDITY_STATUS]:- 1 <----> [RESPONSE_JSON_STRING]:- {"Status":1,"SSOId":null,"OutMessage":"Invalid security key."}
+-----------------------------------------------------------

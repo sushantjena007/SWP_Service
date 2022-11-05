@@ -1,0 +1,360 @@
+Time: 19/01/2021 06:07:41 PM For RequestMethod: ServiceCalling
+InputOutput: [Service Name]:- ~/pareshramservice.svc ---- [Remote Address]:- ::1 ---- [Absolute Uri]:- http://localhost/swp_service/PAReSHRAMService.svc/help
+-----------------------------------------------------------
+Time: 19/01/2021 06:07:41 PM For RequestMethod: ServiceResponse
+InputOutput: [Status]:- Unsuccess because IP is not allowed.
+-----------------------------------------------------------
+Time: 19/01/2021 06:07:41 PM For RequestMethod: ServiceCalling
+InputOutput: [Service Name]:- ~/pareshramservice.svc ---- [Remote Address]:- ::1 ---- [Absolute Uri]:- http://localhost/swp_service/PAReSHRAMService.svc/UnAuthorizeAccess.aspx
+-----------------------------------------------------------
+Time: 19/01/2021 06:07:41 PM For RequestMethod: ServiceResponse
+InputOutput: [Status]:- Unsuccess because IP is not allowed.
+-----------------------------------------------------------
+Time: 19/01/2021 06:07:41 PM For RequestMethod: ServiceCalling
+InputOutput: [Service Name]:- ~/pareshramservice.svc ---- [Remote Address]:- ::1 ---- [Absolute Uri]:- http://localhost/swp_service/PAReSHRAMService.svc/UnAuthorizeAccess.aspx
+-----------------------------------------------------------
+Time: 19/01/2021 06:07:41 PM For RequestMethod: ServiceResponse
+InputOutput: [Status]:- Unsuccess because IP is not allowed.
+-----------------------------------------------------------
+Time: 19/01/2021 06:07:41 PM For RequestMethod: ServiceCalling
+InputOutput: [Service Name]:- ~/pareshramservice.svc ---- [Remote Address]:- ::1 ---- [Absolute Uri]:- http://localhost/swp_service/PAReSHRAMService.svc/UnAuthorizeAccess.aspx
+-----------------------------------------------------------
+Time: 19/01/2021 06:07:41 PM For RequestMethod: ServiceResponse
+InputOutput: [Status]:- Unsuccess because IP is not allowed.
+-----------------------------------------------------------
+Time: 19/01/2021 06:07:41 PM For RequestMethod: ServiceCalling
+InputOutput: [Service Name]:- ~/pareshramservice.svc ---- [Remote Address]:- ::1 ---- [Absolute Uri]:- http://localhost/swp_service/PAReSHRAMService.svc/UnAuthorizeAccess.aspx
+-----------------------------------------------------------
+Time: 19/01/2021 06:07:41 PM For RequestMethod: ServiceResponse
+InputOutput: [Status]:- Unsuccess because IP is not allowed.
+-----------------------------------------------------------
+Time: 19/01/2021 06:07:41 PM For RequestMethod: ServiceCalling
+InputOutput: [Service Name]:- ~/pareshramservice.svc ---- [Remote Address]:- ::1 ---- [Absolute Uri]:- http://localhost/swp_service/PAReSHRAMService.svc/UnAuthorizeAccess.aspx
+-----------------------------------------------------------
+Time: 19/01/2021 06:07:41 PM For RequestMethod: ServiceResponse
+InputOutput: [Status]:- Unsuccess because IP is not allowed.
+-----------------------------------------------------------
+Time: 19/01/2021 06:07:41 PM For RequestMethod: ServiceCalling
+InputOutput: [Service Name]:- ~/pareshramservice.svc ---- [Remote Address]:- ::1 ---- [Absolute Uri]:- http://localhost/swp_service/PAReSHRAMService.svc/UnAuthorizeAccess.aspx
+-----------------------------------------------------------
+Time: 19/01/2021 06:07:41 PM For RequestMethod: ServiceResponse
+InputOutput: [Status]:- Unsuccess because IP is not allowed.
+-----------------------------------------------------------
+Time: 19/01/2021 06:07:41 PM For RequestMethod: ServiceCalling
+InputOutput: [Service Name]:- ~/pareshramservice.svc ---- [Remote Address]:- ::1 ---- [Absolute Uri]:- http://localhost/swp_service/PAReSHRAMService.svc/UnAuthorizeAccess.aspx
+-----------------------------------------------------------
+Time: 19/01/2021 06:07:41 PM For RequestMethod: ServiceResponse
+InputOutput: [Status]:- Unsuccess because IP is not allowed.
+-----------------------------------------------------------
+Time: 19/01/2021 06:07:41 PM For RequestMethod: ServiceCalling
+InputOutput: [Service Name]:- ~/pareshramservice.svc ---- [Remote Address]:- ::1 ---- [Absolute Uri]:- http://localhost/swp_service/PAReSHRAMService.svc/UnAuthorizeAccess.aspx
+-----------------------------------------------------------
+Time: 19/01/2021 06:07:41 PM For RequestMethod: ServiceResponse
+InputOutput: [Status]:- Unsuccess because IP is not allowed.
+-----------------------------------------------------------
+Time: 19/01/2021 06:07:41 PM For RequestMethod: ServiceCalling
+InputOutput: [Service Name]:- ~/pareshramservice.svc ---- [Remote Address]:- ::1 ---- [Absolute Uri]:- http://localhost/swp_service/PAReSHRAMService.svc/UnAuthorizeAccess.aspx
+-----------------------------------------------------------
+Time: 19/01/2021 06:07:41 PM For RequestMethod: ServiceResponse
+InputOutput: [Status]:- Unsuccess because IP is not allowed.
+-----------------------------------------------------------
+Time: 19/01/2021 06:07:41 PM For RequestMethod: ServiceCalling
+InputOutput: [Service Name]:- ~/pareshramservice.svc ---- [Remote Address]:- ::1 ---- [Absolute Uri]:- http://localhost/swp_service/PAReSHRAMService.svc/UnAuthorizeAccess.aspx
+-----------------------------------------------------------
+Time: 19/01/2021 06:07:41 PM For RequestMethod: ServiceResponse
+InputOutput: [Status]:- Unsuccess because IP is not allowed.
+-----------------------------------------------------------
+Time: 19/01/2021 06:07:41 PM For RequestMethod: ServiceCalling
+InputOutput: [Service Name]:- ~/pareshramservice.svc ---- [Remote Address]:- ::1 ---- [Absolute Uri]:- http://localhost/swp_service/PAReSHRAMService.svc/UnAuthorizeAccess.aspx
+-----------------------------------------------------------
+Time: 19/01/2021 06:07:41 PM For RequestMethod: ServiceResponse
+InputOutput: [Status]:- Unsuccess because IP is not allowed.
+-----------------------------------------------------------
+Time: 19/01/2021 06:07:41 PM For RequestMethod: ServiceCalling
+InputOutput: [Service Name]:- ~/pareshramservice.svc ---- [Remote Address]:- ::1 ---- [Absolute Uri]:- http://localhost/swp_service/PAReSHRAMService.svc/UnAuthorizeAccess.aspx
+-----------------------------------------------------------
+Time: 19/01/2021 06:07:41 PM For RequestMethod: ServiceResponse
+InputOutput: [Status]:- Unsuccess because IP is not allowed.
+-----------------------------------------------------------
+Time: 19/01/2021 06:07:41 PM For RequestMethod: ServiceCalling
+InputOutput: [Service Name]:- ~/pareshramservice.svc ---- [Remote Address]:- ::1 ---- [Absolute Uri]:- http://localhost/swp_service/PAReSHRAMService.svc/UnAuthorizeAccess.aspx
+-----------------------------------------------------------
+Time: 19/01/2021 06:07:41 PM For RequestMethod: ServiceResponse
+InputOutput: [Status]:- Unsuccess because IP is not allowed.
+-----------------------------------------------------------
+Time: 19/01/2021 06:07:41 PM For RequestMethod: ServiceCalling
+InputOutput: [Service Name]:- ~/pareshramservice.svc ---- [Remote Address]:- ::1 ---- [Absolute Uri]:- http://localhost/swp_service/PAReSHRAMService.svc/UnAuthorizeAccess.aspx
+-----------------------------------------------------------
+Time: 19/01/2021 06:07:41 PM For RequestMethod: ServiceResponse
+InputOutput: [Status]:- Unsuccess because IP is not allowed.
+-----------------------------------------------------------
+Time: 19/01/2021 06:07:41 PM For RequestMethod: ServiceCalling
+InputOutput: [Service Name]:- ~/pareshramservice.svc ---- [Remote Address]:- ::1 ---- [Absolute Uri]:- http://localhost/swp_service/PAReSHRAMService.svc/UnAuthorizeAccess.aspx
+-----------------------------------------------------------
+Time: 19/01/2021 06:07:41 PM For RequestMethod: ServiceResponse
+InputOutput: [Status]:- Unsuccess because IP is not allowed.
+-----------------------------------------------------------
+Time: 19/01/2021 06:07:41 PM For RequestMethod: ServiceCalling
+InputOutput: [Service Name]:- ~/pareshramservice.svc ---- [Remote Address]:- ::1 ---- [Absolute Uri]:- http://localhost/swp_service/PAReSHRAMService.svc/UnAuthorizeAccess.aspx
+-----------------------------------------------------------
+Time: 19/01/2021 06:07:41 PM For RequestMethod: ServiceResponse
+InputOutput: [Status]:- Unsuccess because IP is not allowed.
+-----------------------------------------------------------
+Time: 19/01/2021 06:07:41 PM For RequestMethod: ServiceCalling
+InputOutput: [Service Name]:- ~/pareshramservice.svc ---- [Remote Address]:- ::1 ---- [Absolute Uri]:- http://localhost/swp_service/PAReSHRAMService.svc/UnAuthorizeAccess.aspx
+-----------------------------------------------------------
+Time: 19/01/2021 06:07:41 PM For RequestMethod: ServiceResponse
+InputOutput: [Status]:- Unsuccess because IP is not allowed.
+-----------------------------------------------------------
+Time: 19/01/2021 06:07:41 PM For RequestMethod: ServiceCalling
+InputOutput: [Service Name]:- ~/pareshramservice.svc ---- [Remote Address]:- ::1 ---- [Absolute Uri]:- http://localhost/swp_service/PAReSHRAMService.svc/UnAuthorizeAccess.aspx
+-----------------------------------------------------------
+Time: 19/01/2021 06:07:41 PM For RequestMethod: ServiceResponse
+InputOutput: [Status]:- Unsuccess because IP is not allowed.
+-----------------------------------------------------------
+Time: 19/01/2021 06:07:41 PM For RequestMethod: ServiceCalling
+InputOutput: [Service Name]:- ~/pareshramservice.svc ---- [Remote Address]:- ::1 ---- [Absolute Uri]:- http://localhost/swp_service/PAReSHRAMService.svc/UnAuthorizeAccess.aspx
+-----------------------------------------------------------
+Time: 19/01/2021 06:07:41 PM For RequestMethod: ServiceResponse
+InputOutput: [Status]:- Unsuccess because IP is not allowed.
+-----------------------------------------------------------
+Time: 19/01/2021 06:07:42 PM For RequestMethod: ServiceCalling
+InputOutput: [Service Name]:- ~/pareshramservice.svc ---- [Remote Address]:- ::1 ---- [Absolute Uri]:- http://localhost/swp_service/PAReSHRAMService.svc/UnAuthorizeAccess.aspx
+-----------------------------------------------------------
+Time: 19/01/2021 06:07:42 PM For RequestMethod: ServiceResponse
+InputOutput: [Status]:- Unsuccess because IP is not allowed.
+-----------------------------------------------------------
+Time: 19/01/2021 06:07:42 PM For RequestMethod: ServiceCalling
+InputOutput: [Service Name]:- ~/pareshramservice.svc ---- [Remote Address]:- ::1 ---- [Absolute Uri]:- http://localhost/swp_service/PAReSHRAMService.svc/UnAuthorizeAccess.aspx
+-----------------------------------------------------------
+Time: 19/01/2021 06:07:42 PM For RequestMethod: ServiceResponse
+InputOutput: [Status]:- Unsuccess because IP is not allowed.
+-----------------------------------------------------------
+Time: 19/01/2021 06:07:42 PM For RequestMethod: ServiceCalling
+InputOutput: [Service Name]:- ~/pareshramservice.svc ---- [Remote Address]:- ::1 ---- [Absolute Uri]:- http://localhost/swp_service/PAReSHRAMService.svc/UnAuthorizeAccess.aspx
+-----------------------------------------------------------
+Time: 19/01/2021 06:07:42 PM For RequestMethod: ServiceResponse
+InputOutput: [Status]:- Unsuccess because IP is not allowed.
+-----------------------------------------------------------
+Time: 19/01/2021 06:07:42 PM For RequestMethod: ServiceCalling
+InputOutput: [Service Name]:- ~/pareshramservice.svc ---- [Remote Address]:- ::1 ---- [Absolute Uri]:- http://localhost/swp_service/PAReSHRAMService.svc/UnAuthorizeAccess.aspx
+-----------------------------------------------------------
+Time: 19/01/2021 06:07:42 PM For RequestMethod: ServiceResponse
+InputOutput: [Status]:- Unsuccess because IP is not allowed.
+-----------------------------------------------------------
+Time: 19/01/2021 06:07:42 PM For RequestMethod: ServiceCalling
+InputOutput: [Service Name]:- ~/pareshramservice.svc ---- [Remote Address]:- ::1 ---- [Absolute Uri]:- http://localhost/swp_service/PAReSHRAMService.svc/UnAuthorizeAccess.aspx
+-----------------------------------------------------------
+Time: 19/01/2021 06:07:42 PM For RequestMethod: ServiceResponse
+InputOutput: [Status]:- Unsuccess because IP is not allowed.
+-----------------------------------------------------------
+Time: 19/01/2021 06:07:42 PM For RequestMethod: ServiceCalling
+InputOutput: [Service Name]:- ~/pareshramservice.svc ---- [Remote Address]:- ::1 ---- [Absolute Uri]:- http://localhost/swp_service/PAReSHRAMService.svc/UnAuthorizeAccess.aspx
+-----------------------------------------------------------
+Time: 19/01/2021 06:07:42 PM For RequestMethod: ServiceResponse
+InputOutput: [Status]:- Unsuccess because IP is not allowed.
+-----------------------------------------------------------
+Time: 19/01/2021 06:07:42 PM For RequestMethod: ServiceCalling
+InputOutput: [Service Name]:- ~/pareshramservice.svc ---- [Remote Address]:- ::1 ---- [Absolute Uri]:- http://localhost/swp_service/PAReSHRAMService.svc/UnAuthorizeAccess.aspx
+-----------------------------------------------------------
+Time: 19/01/2021 06:07:42 PM For RequestMethod: ServiceResponse
+InputOutput: [Status]:- Unsuccess because IP is not allowed.
+-----------------------------------------------------------
+Time: 19/01/2021 06:07:42 PM For RequestMethod: ServiceCalling
+InputOutput: [Service Name]:- ~/pareshramservice.svc ---- [Remote Address]:- ::1 ---- [Absolute Uri]:- http://localhost/swp_service/PAReSHRAMService.svc/UnAuthorizeAccess.aspx
+-----------------------------------------------------------
+Time: 19/01/2021 06:07:42 PM For RequestMethod: ServiceResponse
+InputOutput: [Status]:- Unsuccess because IP is not allowed.
+-----------------------------------------------------------
+Time: 19/01/2021 06:07:42 PM For RequestMethod: ServiceCalling
+InputOutput: [Service Name]:- ~/pareshramservice.svc ---- [Remote Address]:- ::1 ---- [Absolute Uri]:- http://localhost/swp_service/PAReSHRAMService.svc/UnAuthorizeAccess.aspx
+-----------------------------------------------------------
+Time: 19/01/2021 06:07:42 PM For RequestMethod: ServiceResponse
+InputOutput: [Status]:- Unsuccess because IP is not allowed.
+-----------------------------------------------------------
+Time: 19/01/2021 06:07:42 PM For RequestMethod: ServiceCalling
+InputOutput: [Service Name]:- ~/pareshramservice.svc ---- [Remote Address]:- ::1 ---- [Absolute Uri]:- http://localhost/swp_service/PAReSHRAMService.svc/UnAuthorizeAccess.aspx
+-----------------------------------------------------------
+Time: 19/01/2021 06:07:42 PM For RequestMethod: ServiceResponse
+InputOutput: [Status]:- Unsuccess because IP is not allowed.
+-----------------------------------------------------------
+Time: 19/01/2021 06:07:42 PM For RequestMethod: ServiceCalling
+InputOutput: [Service Name]:- ~/pareshramservice.svc ---- [Remote Address]:- ::1 ---- [Absolute Uri]:- http://localhost/swp_service/PAReSHRAMService.svc/UnAuthorizeAccess.aspx
+-----------------------------------------------------------
+Time: 19/01/2021 06:07:42 PM For RequestMethod: ServiceResponse
+InputOutput: [Status]:- Unsuccess because IP is not allowed.
+-----------------------------------------------------------
+Time: 19/01/2021 06:07:42 PM For RequestMethod: ServiceCalling
+InputOutput: [Service Name]:- ~/pareshramservice.svc ---- [Remote Address]:- ::1 ---- [Absolute Uri]:- http://localhost/swp_service/PAReSHRAMService.svc/UnAuthorizeAccess.aspx
+-----------------------------------------------------------
+Time: 19/01/2021 06:07:42 PM For RequestMethod: ServiceResponse
+InputOutput: [Status]:- Unsuccess because IP is not allowed.
+-----------------------------------------------------------
+Time: 19/01/2021 06:07:42 PM For RequestMethod: ServiceCalling
+InputOutput: [Service Name]:- ~/pareshramservice.svc ---- [Remote Address]:- ::1 ---- [Absolute Uri]:- http://localhost/swp_service/PAReSHRAMService.svc/UnAuthorizeAccess.aspx
+-----------------------------------------------------------
+Time: 19/01/2021 06:07:42 PM For RequestMethod: ServiceResponse
+InputOutput: [Status]:- Unsuccess because IP is not allowed.
+-----------------------------------------------------------
+Time: 19/01/2021 06:07:42 PM For RequestMethod: ServiceCalling
+InputOutput: [Service Name]:- ~/pareshramservice.svc ---- [Remote Address]:- ::1 ---- [Absolute Uri]:- http://localhost/swp_service/PAReSHRAMService.svc/UnAuthorizeAccess.aspx
+-----------------------------------------------------------
+Time: 19/01/2021 06:07:42 PM For RequestMethod: ServiceResponse
+InputOutput: [Status]:- Unsuccess because IP is not allowed.
+-----------------------------------------------------------
+Time: 19/01/2021 06:07:42 PM For RequestMethod: ServiceCalling
+InputOutput: [Service Name]:- ~/pareshramservice.svc ---- [Remote Address]:- ::1 ---- [Absolute Uri]:- http://localhost/swp_service/PAReSHRAMService.svc/UnAuthorizeAccess.aspx
+-----------------------------------------------------------
+Time: 19/01/2021 06:07:42 PM For RequestMethod: ServiceResponse
+InputOutput: [Status]:- Unsuccess because IP is not allowed.
+-----------------------------------------------------------
+Time: 19/01/2021 06:07:42 PM For RequestMethod: ServiceCalling
+InputOutput: [Service Name]:- ~/pareshramservice.svc ---- [Remote Address]:- ::1 ---- [Absolute Uri]:- http://localhost/swp_service/PAReSHRAMService.svc/UnAuthorizeAccess.aspx
+-----------------------------------------------------------
+Time: 19/01/2021 06:07:42 PM For RequestMethod: ServiceResponse
+InputOutput: [Status]:- Unsuccess because IP is not allowed.
+-----------------------------------------------------------
+Time: 19/01/2021 06:07:42 PM For RequestMethod: ServiceCalling
+InputOutput: [Service Name]:- ~/pareshramservice.svc ---- [Remote Address]:- ::1 ---- [Absolute Uri]:- http://localhost/swp_service/PAReSHRAMService.svc/UnAuthorizeAccess.aspx
+-----------------------------------------------------------
+Time: 19/01/2021 06:07:42 PM For RequestMethod: ServiceResponse
+InputOutput: [Status]:- Unsuccess because IP is not allowed.
+-----------------------------------------------------------
+Time: 19/01/2021 06:07:42 PM For RequestMethod: ServiceCalling
+InputOutput: [Service Name]:- ~/pareshramservice.svc ---- [Remote Address]:- ::1 ---- [Absolute Uri]:- http://localhost/swp_service/PAReSHRAMService.svc/UnAuthorizeAccess.aspx
+-----------------------------------------------------------
+Time: 19/01/2021 06:07:42 PM For RequestMethod: ServiceResponse
+InputOutput: [Status]:- Unsuccess because IP is not allowed.
+-----------------------------------------------------------
+Time: 19/01/2021 06:07:42 PM For RequestMethod: ServiceCalling
+InputOutput: [Service Name]:- ~/pareshramservice.svc ---- [Remote Address]:- ::1 ---- [Absolute Uri]:- http://localhost/swp_service/PAReSHRAMService.svc/UnAuthorizeAccess.aspx
+-----------------------------------------------------------
+Time: 19/01/2021 06:07:42 PM For RequestMethod: ServiceResponse
+InputOutput: [Status]:- Unsuccess because IP is not allowed.
+-----------------------------------------------------------
+Time: 19/01/2021 06:07:42 PM For RequestMethod: ServiceCalling
+InputOutput: [Service Name]:- ~/pareshramservice.svc ---- [Remote Address]:- ::1 ---- [Absolute Uri]:- http://localhost/swp_service/PAReSHRAMService.svc/UnAuthorizeAccess.aspx
+-----------------------------------------------------------
+Time: 19/01/2021 06:07:42 PM For RequestMethod: ServiceResponse
+InputOutput: [Status]:- Unsuccess because IP is not allowed.
+-----------------------------------------------------------
+Time: 19/01/2021 06:07:47 PM For RequestMethod: ServiceCalling
+InputOutput: [Service Name]:- ~/pareshramservice.svc ---- [Remote Address]:- ::1 ---- [Absolute Uri]:- http://localhost/swp_service/PAReSHRAMService.svc/UnAuthorizeAccess.aspx
+-----------------------------------------------------------
+Time: 19/01/2021 06:07:47 PM For RequestMethod: ServiceResponse
+InputOutput: [Status]:- Unsuccess because IP is not allowed.
+-----------------------------------------------------------
+Time: 19/01/2021 06:07:47 PM For RequestMethod: ServiceCalling
+InputOutput: [Service Name]:- ~/pareshramservice.svc ---- [Remote Address]:- ::1 ---- [Absolute Uri]:- http://localhost/swp_service/PAReSHRAMService.svc/UnAuthorizeAccess.aspx
+-----------------------------------------------------------
+Time: 19/01/2021 06:07:47 PM For RequestMethod: ServiceResponse
+InputOutput: [Status]:- Unsuccess because IP is not allowed.
+-----------------------------------------------------------
+Time: 19/01/2021 06:07:47 PM For RequestMethod: ServiceCalling
+InputOutput: [Service Name]:- ~/pareshramservice.svc ---- [Remote Address]:- ::1 ---- [Absolute Uri]:- http://localhost/swp_service/PAReSHRAMService.svc/UnAuthorizeAccess.aspx
+-----------------------------------------------------------
+Time: 19/01/2021 06:07:47 PM For RequestMethod: ServiceResponse
+InputOutput: [Status]:- Unsuccess because IP is not allowed.
+-----------------------------------------------------------
+Time: 19/01/2021 06:07:47 PM For RequestMethod: ServiceCalling
+InputOutput: [Service Name]:- ~/pareshramservice.svc ---- [Remote Address]:- ::1 ---- [Absolute Uri]:- http://localhost/swp_service/PAReSHRAMService.svc/UnAuthorizeAccess.aspx
+-----------------------------------------------------------
+Time: 19/01/2021 06:07:47 PM For RequestMethod: ServiceResponse
+InputOutput: [Status]:- Unsuccess because IP is not allowed.
+-----------------------------------------------------------
+Time: 19/01/2021 06:07:47 PM For RequestMethod: ServiceCalling
+InputOutput: [Service Name]:- ~/pareshramservice.svc ---- [Remote Address]:- ::1 ---- [Absolute Uri]:- http://localhost/swp_service/PAReSHRAMService.svc/UnAuthorizeAccess.aspx
+-----------------------------------------------------------
+Time: 19/01/2021 06:07:47 PM For RequestMethod: ServiceResponse
+InputOutput: [Status]:- Unsuccess because IP is not allowed.
+-----------------------------------------------------------
+Time: 19/01/2021 06:07:47 PM For RequestMethod: ServiceCalling
+InputOutput: [Service Name]:- ~/pareshramservice.svc ---- [Remote Address]:- ::1 ---- [Absolute Uri]:- http://localhost/swp_service/PAReSHRAMService.svc/UnAuthorizeAccess.aspx
+-----------------------------------------------------------
+Time: 19/01/2021 06:07:47 PM For RequestMethod: ServiceResponse
+InputOutput: [Status]:- Unsuccess because IP is not allowed.
+-----------------------------------------------------------
+Time: 19/01/2021 06:07:47 PM For RequestMethod: ServiceCalling
+InputOutput: [Service Name]:- ~/pareshramservice.svc ---- [Remote Address]:- ::1 ---- [Absolute Uri]:- http://localhost/swp_service/PAReSHRAMService.svc/UnAuthorizeAccess.aspx
+-----------------------------------------------------------
+Time: 19/01/2021 06:07:47 PM For RequestMethod: ServiceResponse
+InputOutput: [Status]:- Unsuccess because IP is not allowed.
+-----------------------------------------------------------
+Time: 19/01/2021 06:07:47 PM For RequestMethod: ServiceCalling
+InputOutput: [Service Name]:- ~/pareshramservice.svc ---- [Remote Address]:- ::1 ---- [Absolute Uri]:- http://localhost/swp_service/PAReSHRAMService.svc/UnAuthorizeAccess.aspx
+-----------------------------------------------------------
+Time: 19/01/2021 06:07:47 PM For RequestMethod: ServiceResponse
+InputOutput: [Status]:- Unsuccess because IP is not allowed.
+-----------------------------------------------------------
+Time: 19/01/2021 06:07:47 PM For RequestMethod: ServiceCalling
+InputOutput: [Service Name]:- ~/pareshramservice.svc ---- [Remote Address]:- ::1 ---- [Absolute Uri]:- http://localhost/swp_service/PAReSHRAMService.svc/UnAuthorizeAccess.aspx
+-----------------------------------------------------------
+Time: 19/01/2021 06:07:47 PM For RequestMethod: ServiceResponse
+InputOutput: [Status]:- Unsuccess because IP is not allowed.
+-----------------------------------------------------------
+Time: 19/01/2021 06:07:47 PM For RequestMethod: ServiceCalling
+InputOutput: [Service Name]:- ~/pareshramservice.svc ---- [Remote Address]:- ::1 ---- [Absolute Uri]:- http://localhost/swp_service/PAReSHRAMService.svc/UnAuthorizeAccess.aspx
+-----------------------------------------------------------
+Time: 19/01/2021 06:07:47 PM For RequestMethod: ServiceResponse
+InputOutput: [Status]:- Unsuccess because IP is not allowed.
+-----------------------------------------------------------
+Time: 19/01/2021 06:07:47 PM For RequestMethod: ServiceCalling
+InputOutput: [Service Name]:- ~/pareshramservice.svc ---- [Remote Address]:- ::1 ---- [Absolute Uri]:- http://localhost/swp_service/PAReSHRAMService.svc/UnAuthorizeAccess.aspx
+-----------------------------------------------------------
+Time: 19/01/2021 06:07:47 PM For RequestMethod: ServiceResponse
+InputOutput: [Status]:- Unsuccess because IP is not allowed.
+-----------------------------------------------------------
+Time: 19/01/2021 06:07:47 PM For RequestMethod: ServiceCalling
+InputOutput: [Service Name]:- ~/pareshramservice.svc ---- [Remote Address]:- ::1 ---- [Absolute Uri]:- http://localhost/swp_service/PAReSHRAMService.svc/UnAuthorizeAccess.aspx
+-----------------------------------------------------------
+Time: 19/01/2021 06:07:47 PM For RequestMethod: ServiceResponse
+InputOutput: [Status]:- Unsuccess because IP is not allowed.
+-----------------------------------------------------------
+Time: 19/01/2021 06:07:47 PM For RequestMethod: ServiceCalling
+InputOutput: [Service Name]:- ~/pareshramservice.svc ---- [Remote Address]:- ::1 ---- [Absolute Uri]:- http://localhost/swp_service/PAReSHRAMService.svc/UnAuthorizeAccess.aspx
+-----------------------------------------------------------
+Time: 19/01/2021 06:07:47 PM For RequestMethod: ServiceResponse
+InputOutput: [Status]:- Unsuccess because IP is not allowed.
+-----------------------------------------------------------
+Time: 19/01/2021 06:07:47 PM For RequestMethod: ServiceCalling
+InputOutput: [Service Name]:- ~/pareshramservice.svc ---- [Remote Address]:- ::1 ---- [Absolute Uri]:- http://localhost/swp_service/PAReSHRAMService.svc/UnAuthorizeAccess.aspx
+-----------------------------------------------------------
+Time: 19/01/2021 06:07:47 PM For RequestMethod: ServiceResponse
+InputOutput: [Status]:- Unsuccess because IP is not allowed.
+-----------------------------------------------------------
+Time: 19/01/2021 06:07:47 PM For RequestMethod: ServiceCalling
+InputOutput: [Service Name]:- ~/pareshramservice.svc ---- [Remote Address]:- ::1 ---- [Absolute Uri]:- http://localhost/swp_service/PAReSHRAMService.svc/UnAuthorizeAccess.aspx
+-----------------------------------------------------------
+Time: 19/01/2021 06:07:47 PM For RequestMethod: ServiceResponse
+InputOutput: [Status]:- Unsuccess because IP is not allowed.
+-----------------------------------------------------------
+Time: 19/01/2021 06:07:47 PM For RequestMethod: ServiceCalling
+InputOutput: [Service Name]:- ~/pareshramservice.svc ---- [Remote Address]:- ::1 ---- [Absolute Uri]:- http://localhost/swp_service/PAReSHRAMService.svc/UnAuthorizeAccess.aspx
+-----------------------------------------------------------
+Time: 19/01/2021 06:07:47 PM For RequestMethod: ServiceResponse
+InputOutput: [Status]:- Unsuccess because IP is not allowed.
+-----------------------------------------------------------
+Time: 19/01/2021 06:07:47 PM For RequestMethod: ServiceCalling
+InputOutput: [Service Name]:- ~/pareshramservice.svc ---- [Remote Address]:- ::1 ---- [Absolute Uri]:- http://localhost/swp_service/PAReSHRAMService.svc/UnAuthorizeAccess.aspx
+-----------------------------------------------------------
+Time: 19/01/2021 06:07:47 PM For RequestMethod: ServiceResponse
+InputOutput: [Status]:- Unsuccess because IP is not allowed.
+-----------------------------------------------------------
+Time: 19/01/2021 06:07:47 PM For RequestMethod: ServiceCalling
+InputOutput: [Service Name]:- ~/pareshramservice.svc ---- [Remote Address]:- ::1 ---- [Absolute Uri]:- http://localhost/swp_service/PAReSHRAMService.svc/UnAuthorizeAccess.aspx
+-----------------------------------------------------------
+Time: 19/01/2021 06:07:47 PM For RequestMethod: ServiceResponse
+InputOutput: [Status]:- Unsuccess because IP is not allowed.
+-----------------------------------------------------------
+Time: 19/01/2021 06:07:47 PM For RequestMethod: ServiceCalling
+InputOutput: [Service Name]:- ~/pareshramservice.svc ---- [Remote Address]:- ::1 ---- [Absolute Uri]:- http://localhost/swp_service/PAReSHRAMService.svc/UnAuthorizeAccess.aspx
+-----------------------------------------------------------
+Time: 19/01/2021 06:07:47 PM For RequestMethod: ServiceResponse
+InputOutput: [Status]:- Unsuccess because IP is not allowed.
+-----------------------------------------------------------
+Time: 19/01/2021 06:07:47 PM For RequestMethod: ServiceCalling
+InputOutput: [Service Name]:- ~/pareshramservice.svc ---- [Remote Address]:- ::1 ---- [Absolute Uri]:- http://localhost/swp_service/PAReSHRAMService.svc/UnAuthorizeAccess.aspx
+-----------------------------------------------------------
+Time: 19/01/2021 06:07:47 PM For RequestMethod: ServiceResponse
+InputOutput: [Status]:- Unsuccess because IP is not allowed.
+-----------------------------------------------------------

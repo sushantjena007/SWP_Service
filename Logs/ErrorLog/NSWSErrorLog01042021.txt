@@ -1,0 +1,45 @@
+Time: 01/04/2021 03:04:06 PM
+-----------------------------------------------------------
+Message: Specified key is not a valid size for this algorithm.
+StackTrace:    at EncryptDecryptQueryString.Encrypt(String stringToEncrypt, String SEncryptionKey) in d:\CSMPROJECTS\SWP_Services\App_Code\Other\EncryptDecryptQueryString.cs:line 53
+   at DataAcessLayer.NSWSDAL.NSWSDAL.NSWSLoginAuthentication(NSWSEntity objNsws) in d:\CSMPROJECTS\SWP_Services\App_Code\DAL\NSWS_DAL\NSWSDAL.cs:line 459
+Source: App_Code.otlsa3kh
+TargetSite: System.String Encrypt(System.String, System.String)
+-----------------------------------------------------------
+
+Time: 01/04/2021 03:06:34 PM
+-----------------------------------------------------------
+Message: Specified key is not a valid size for this algorithm.
+StackTrace:    at EncryptDecryptQueryString.Encrypt(String stringToEncrypt, String SEncryptionKey) in d:\CSMPROJECTS\SWP_Services\App_Code\Other\EncryptDecryptQueryString.cs:line 53
+   at DataAcessLayer.NSWSDAL.NSWSDAL.NSWSLoginAuthentication(NSWSEntity objNsws) in d:\CSMPROJECTS\SWP_Services\App_Code\DAL\NSWS_DAL\NSWSDAL.cs:line 459
+Source: App_Code.dq1hi_o0
+TargetSite: System.String Encrypt(System.String, System.String)
+-----------------------------------------------------------
+
+Time: 01/04/2021 03:08:15 PM
+-----------------------------------------------------------
+Message: Specified key is not a valid size for this algorithm.
+StackTrace:    at EncryptDecryptQueryString.Encrypt(String stringToEncrypt, String SEncryptionKey) in d:\CSMPROJECTS\SWP_Services\App_Code\Other\EncryptDecryptQueryString.cs:line 53
+   at DataAcessLayer.NSWSDAL.NSWSDAL.NSWSLoginAuthentication(NSWSEntity objNsws) in d:\CSMPROJECTS\SWP_Services\App_Code\DAL\NSWS_DAL\NSWSDAL.cs:line 459
+Source: App_Code.t4py7pbv
+TargetSite: System.String Encrypt(System.String, System.String)
+-----------------------------------------------------------
+
+Time: 01/04/2021 03:12:10 PM
+-----------------------------------------------------------
+Message: Specified key is not a valid size for this algorithm.
+StackTrace:    at EncryptDecryptQueryString.Encrypt(String stringToEncrypt, String SEncryptionKey) in d:\CSMPROJECTS\SWP_Services\App_Code\Other\EncryptDecryptQueryString.cs:line 53
+   at DataAcessLayer.NSWSDAL.NSWSDAL.NSWSLoginAuthentication(NSWSEntity objNsws) in d:\CSMPROJECTS\SWP_Services\App_Code\DAL\NSWS_DAL\NSWSDAL.cs:line 459
+Source: App_Code.okngrtda
+TargetSite: System.String Encrypt(System.String, System.String)
+-----------------------------------------------------------
+
+Time: 01/04/2021 03:13:21 PM
+-----------------------------------------------------------
+Message: Specified key is not a valid size for this algorithm.
+StackTrace:    at EncryptDecryptQueryString.Encrypt(String stringToEncrypt, String SEncryptionKey) in d:\CSMPROJECTS\SWP_Services\App_Code\Other\EncryptDecryptQueryString.cs:line 53
+   at DataAcessLayer.NSWSDAL.NSWSDAL.NSWSLoginAuthentication(NSWSEntity objNsws) in d:\CSMPROJECTS\SWP_Services\App_Code\DAL\NSWS_DAL\NSWSDAL.cs:line 459
+Source: App_Code.okngrtda
+TargetSite: System.String Encrypt(System.String, System.String)
+-----------------------------------------------------------
+

@@ -1,0 +1,18 @@
+Time: 27/09/2019 03:33:20 PM For RequestMethod: UpdateEinPc
+InputOutput: (Request)---Unique ID :- B2693FE1-746B-447C-85E0-2858AF151C0D Security Key:- 17AA0C97-29BF-448C-8C3A-02CD813F322D1
+-----------------------------------------------------------
+Time: 27/09/2019 03:33:20 PM For RequestMethod: UpdateEinPc
+InputOutput: (Response)--- Status :- 1 OutputString:- {"strStatusMsg":"Invalid Security Key.","intStatus":2}
+-----------------------------------------------------------
+Time: 27/09/2019 03:33:28 PM For RequestMethod: UpdateEinPc
+InputOutput: (Request)---Unique ID :- B2693FE1-746B-447C-85E0-2858AF151C0D Security Key:- 17AA0C97-29BF-448C-8C3A-02CD813F322D
+-----------------------------------------------------------
+Time: 27/09/2019 03:33:28 PM For RequestMethod: UpdateEinPc
+InputOutput: (Response)--- Status :- 1 OutputString:- {"strStatusMsg":"EIN/PC type name is not correct.","intStatus":1}
+-----------------------------------------------------------
+Time: 27/09/2019 03:33:44 PM For RequestMethod: UpdateEinPc
+InputOutput: (Request)---Unique ID :- B2693FE1-746B-447C-85E0-2858AF151C0D1 Security Key:- 17AA0C97-29BF-448C-8C3A-02CD813F322D
+-----------------------------------------------------------
+Time: 27/09/2019 03:33:46 PM For RequestMethod: UpdateEinPc
+InputOutput: (Response)--- Status :- 0 OutputString:- {"strStatusMsg":"Invalid Unique Id.","intStatus":5}
+-----------------------------------------------------------

@@ -1,0 +1,576 @@
+Time: 14/01/2021 12:48:14 PM For RequestMethod: ServiceCalling
+InputOutput: [Service Name]:- ~/pollutioncontrol.svc ---- [Remote Address]:- 192.168.201.129 ---- [Absolute Uri]:- http://192.168.201.129/SWP_Service/PollutionControl.svc/GetUserProfilesPM
+-----------------------------------------------------------
+Time: 14/01/2021 12:48:21 PM For RequestMethod: ServiceResponse
+InputOutput: [Status]:- Unsuccess because Method is not allowed.
+-----------------------------------------------------------
+Time: 14/01/2021 12:49:48 PM For RequestMethod: ServiceCalling
+InputOutput: [Service Name]:- ~/pollutioncontrol.svc ---- [Remote Address]:- 192.168.201.129 ---- [Absolute Uri]:- http://192.168.201.129/SWP_Service/PollutionControl.svc/GetUserProfilesPM
+-----------------------------------------------------------
+Time: 14/01/2021 12:49:48 PM For RequestMethod: ServiceResponse
+InputOutput: [Status]:- Success
+-----------------------------------------------------------
+Time: 14/01/2021 12:50:32 PM For RequestMethod: ServiceCalling
+InputOutput: [Service Name]:- ~/pollutioncontrol.svc ---- [Remote Address]:- 192.168.201.129 ---- [Absolute Uri]:- http://192.168.201.129/SWP_Service/PollutionControl.svc/GetUserProfilesPM
+-----------------------------------------------------------
+Time: 14/01/2021 12:50:32 PM For RequestMethod: ServiceResponse
+InputOutput: [Status]:- Success
+-----------------------------------------------------------
+Time: 14/01/2021 12:58:36 PM For RequestMethod: ServiceCalling
+InputOutput: [Service Name]:- ~/gosmileservice.svc ---- [Remote Address]:- 172.27.29.230 ---- [Absolute Uri]:- http://192.168.201.129/SWP_Service/GOSMILEService.svc/FetchPaymentDetails
+-----------------------------------------------------------
+Time: 14/01/2021 12:58:36 PM For RequestMethod: ServiceResponse
+InputOutput: [Status]:- Unsuccess because IP is not allowed.
+-----------------------------------------------------------
+Time: 14/01/2021 12:58:36 PM For RequestMethod: ServiceResponse
+InputOutput: [Status]:- Success
+-----------------------------------------------------------
+Time: 14/01/2021 12:59:19 PM For RequestMethod: ServiceCalling
+InputOutput: [Service Name]:- ~/gosmileservice.svc ---- [Remote Address]:- 172.27.29.230 ---- [Absolute Uri]:- http://192.168.201.129/SWP_Service/GOSMILEService.svc/FetchPaymentDetails
+-----------------------------------------------------------
+Time: 14/01/2021 12:59:19 PM For RequestMethod: ServiceResponse
+InputOutput: [Status]:- Unsuccess because IP is not allowed.
+-----------------------------------------------------------
+Time: 14/01/2021 12:59:19 PM For RequestMethod: ServiceResponse
+InputOutput: [Status]:- Success
+-----------------------------------------------------------
+Time: 14/01/2021 01:00:06 PM For RequestMethod: ServiceCalling
+InputOutput: [Service Name]:- ~/gosmileservice.svc ---- [Remote Address]:- 172.27.29.230 ---- [Absolute Uri]:- http://192.168.201.129/SWP_Service/GOSMILEService.svc/FetchPaymentDetails
+-----------------------------------------------------------
+Time: 14/01/2021 01:00:06 PM For RequestMethod: ServiceResponse
+InputOutput: [Status]:- Unsuccess because IP is not allowed.
+-----------------------------------------------------------
+Time: 14/01/2021 01:00:06 PM For RequestMethod: ServiceResponse
+InputOutput: [Status]:- Success
+-----------------------------------------------------------
+Time: 14/01/2021 01:01:06 PM For RequestMethod: ServiceCalling
+InputOutput: [Service Name]:- ~/gosmileservice.svc ---- [Remote Address]:- 172.27.29.230 ---- [Absolute Uri]:- http://192.168.201.129/SWP_Service/GOSMILEService.svc/FetchPaymentDetails
+-----------------------------------------------------------
+Time: 14/01/2021 01:01:06 PM For RequestMethod: ServiceResponse
+InputOutput: [Status]:- Unsuccess because IP is not allowed.
+-----------------------------------------------------------
+Time: 14/01/2021 01:01:06 PM For RequestMethod: ServiceResponse
+InputOutput: [Status]:- Success
+-----------------------------------------------------------
+Time: 14/01/2021 01:02:06 PM For RequestMethod: ServiceCalling
+InputOutput: [Service Name]:- ~/gosmileservice.svc ---- [Remote Address]:- 172.27.29.230 ---- [Absolute Uri]:- http://192.168.201.129/SWP_Service/GOSMILEService.svc/FetchPaymentDetails
+-----------------------------------------------------------
+Time: 14/01/2021 01:02:06 PM For RequestMethod: ServiceResponse
+InputOutput: [Status]:- Unsuccess because IP is not allowed.
+-----------------------------------------------------------
+Time: 14/01/2021 01:02:06 PM For RequestMethod: ServiceResponse
+InputOutput: [Status]:- Success
+-----------------------------------------------------------
+Time: 14/01/2021 01:03:06 PM For RequestMethod: ServiceCalling
+InputOutput: [Service Name]:- ~/gosmileservice.svc ---- [Remote Address]:- 172.27.29.230 ---- [Absolute Uri]:- http://192.168.201.129/SWP_Service/GOSMILEService.svc/FetchPaymentDetails
+-----------------------------------------------------------
+Time: 14/01/2021 01:03:06 PM For RequestMethod: ServiceResponse
+InputOutput: [Status]:- Unsuccess because IP is not allowed.
+-----------------------------------------------------------
+Time: 14/01/2021 01:03:06 PM For RequestMethod: ServiceResponse
+InputOutput: [Status]:- Success
+-----------------------------------------------------------
+Time: 14/01/2021 01:04:06 PM For RequestMethod: ServiceCalling
+InputOutput: [Service Name]:- ~/gosmileservice.svc ---- [Remote Address]:- 172.27.29.230 ---- [Absolute Uri]:- http://192.168.201.129/SWP_Service/GOSMILEService.svc/FetchPaymentDetails
+-----------------------------------------------------------
+Time: 14/01/2021 01:04:06 PM For RequestMethod: ServiceResponse
+InputOutput: [Status]:- Unsuccess because IP is not allowed.
+-----------------------------------------------------------
+Time: 14/01/2021 01:04:06 PM For RequestMethod: ServiceResponse
+InputOutput: [Status]:- Success
+-----------------------------------------------------------
+Time: 14/01/2021 01:05:06 PM For RequestMethod: ServiceCalling
+InputOutput: [Service Name]:- ~/gosmileservice.svc ---- [Remote Address]:- 172.27.29.230 ---- [Absolute Uri]:- http://192.168.201.129/SWP_Service/GOSMILEService.svc/FetchPaymentDetails
+-----------------------------------------------------------
+Time: 14/01/2021 01:05:06 PM For RequestMethod: ServiceResponse
+InputOutput: [Status]:- Unsuccess because IP is not allowed.
+-----------------------------------------------------------
+Time: 14/01/2021 01:05:06 PM For RequestMethod: ServiceResponse
+InputOutput: [Status]:- Success
+-----------------------------------------------------------
+Time: 14/01/2021 01:06:06 PM For RequestMethod: ServiceCalling
+InputOutput: [Service Name]:- ~/gosmileservice.svc ---- [Remote Address]:- 172.27.29.230 ---- [Absolute Uri]:- http://192.168.201.129/SWP_Service/GOSMILEService.svc/FetchPaymentDetails
+-----------------------------------------------------------
+Time: 14/01/2021 01:06:06 PM For RequestMethod: ServiceResponse
+InputOutput: [Status]:- Unsuccess because IP is not allowed.
+-----------------------------------------------------------
+Time: 14/01/2021 01:06:06 PM For RequestMethod: ServiceResponse
+InputOutput: [Status]:- Success
+-----------------------------------------------------------
+Time: 14/01/2021 01:07:06 PM For RequestMethod: ServiceCalling
+InputOutput: [Service Name]:- ~/gosmileservice.svc ---- [Remote Address]:- 172.27.29.230 ---- [Absolute Uri]:- http://192.168.201.129/SWP_Service/GOSMILEService.svc/FetchPaymentDetails
+-----------------------------------------------------------
+Time: 14/01/2021 01:07:06 PM For RequestMethod: ServiceResponse
+InputOutput: [Status]:- Unsuccess because IP is not allowed.
+-----------------------------------------------------------
+Time: 14/01/2021 01:07:06 PM For RequestMethod: ServiceResponse
+InputOutput: [Status]:- Success
+-----------------------------------------------------------
+Time: 14/01/2021 01:08:06 PM For RequestMethod: ServiceCalling
+InputOutput: [Service Name]:- ~/gosmileservice.svc ---- [Remote Address]:- 172.27.29.230 ---- [Absolute Uri]:- http://192.168.201.129/SWP_Service/GOSMILEService.svc/FetchPaymentDetails
+-----------------------------------------------------------
+Time: 14/01/2021 01:08:06 PM For RequestMethod: ServiceResponse
+InputOutput: [Status]:- Unsuccess because IP is not allowed.
+-----------------------------------------------------------
+Time: 14/01/2021 01:08:06 PM For RequestMethod: ServiceResponse
+InputOutput: [Status]:- Success
+-----------------------------------------------------------
+Time: 14/01/2021 01:09:06 PM For RequestMethod: ServiceCalling
+InputOutput: [Service Name]:- ~/gosmileservice.svc ---- [Remote Address]:- 172.27.29.230 ---- [Absolute Uri]:- http://192.168.201.129/SWP_Service/GOSMILEService.svc/FetchPaymentDetails
+-----------------------------------------------------------
+Time: 14/01/2021 01:09:06 PM For RequestMethod: ServiceResponse
+InputOutput: [Status]:- Unsuccess because IP is not allowed.
+-----------------------------------------------------------
+Time: 14/01/2021 01:09:06 PM For RequestMethod: ServiceResponse
+InputOutput: [Status]:- Success
+-----------------------------------------------------------
+Time: 14/01/2021 01:10:06 PM For RequestMethod: ServiceCalling
+InputOutput: [Service Name]:- ~/gosmileservice.svc ---- [Remote Address]:- 172.27.29.230 ---- [Absolute Uri]:- http://192.168.201.129/SWP_Service/GOSMILEService.svc/FetchPaymentDetails
+-----------------------------------------------------------
+Time: 14/01/2021 01:10:06 PM For RequestMethod: ServiceResponse
+InputOutput: [Status]:- Unsuccess because IP is not allowed.
+-----------------------------------------------------------
+Time: 14/01/2021 01:10:06 PM For RequestMethod: ServiceResponse
+InputOutput: [Status]:- Success
+-----------------------------------------------------------
+Time: 14/01/2021 01:11:06 PM For RequestMethod: ServiceCalling
+InputOutput: [Service Name]:- ~/gosmileservice.svc ---- [Remote Address]:- 172.27.29.230 ---- [Absolute Uri]:- http://192.168.201.129/SWP_Service/GOSMILEService.svc/FetchPaymentDetails
+-----------------------------------------------------------
+Time: 14/01/2021 01:11:06 PM For RequestMethod: ServiceResponse
+InputOutput: [Status]:- Unsuccess because IP is not allowed.
+-----------------------------------------------------------
+Time: 14/01/2021 01:11:06 PM For RequestMethod: ServiceResponse
+InputOutput: [Status]:- Success
+-----------------------------------------------------------
+Time: 14/01/2021 01:12:06 PM For RequestMethod: ServiceCalling
+InputOutput: [Service Name]:- ~/gosmileservice.svc ---- [Remote Address]:- 172.27.29.230 ---- [Absolute Uri]:- http://192.168.201.129/SWP_Service/GOSMILEService.svc/FetchPaymentDetails
+-----------------------------------------------------------
+Time: 14/01/2021 01:12:06 PM For RequestMethod: ServiceResponse
+InputOutput: [Status]:- Unsuccess because IP is not allowed.
+-----------------------------------------------------------
+Time: 14/01/2021 01:12:06 PM For RequestMethod: ServiceResponse
+InputOutput: [Status]:- Success
+-----------------------------------------------------------
+Time: 14/01/2021 01:13:06 PM For RequestMethod: ServiceCalling
+InputOutput: [Service Name]:- ~/gosmileservice.svc ---- [Remote Address]:- 172.27.29.230 ---- [Absolute Uri]:- http://192.168.201.129/SWP_Service/GOSMILEService.svc/FetchPaymentDetails
+-----------------------------------------------------------
+Time: 14/01/2021 01:13:06 PM For RequestMethod: ServiceResponse
+InputOutput: [Status]:- Unsuccess because IP is not allowed.
+-----------------------------------------------------------
+Time: 14/01/2021 01:13:06 PM For RequestMethod: ServiceResponse
+InputOutput: [Status]:- Success
+-----------------------------------------------------------
+Time: 14/01/2021 01:14:06 PM For RequestMethod: ServiceCalling
+InputOutput: [Service Name]:- ~/gosmileservice.svc ---- [Remote Address]:- 172.27.29.230 ---- [Absolute Uri]:- http://192.168.201.129/SWP_Service/GOSMILEService.svc/FetchPaymentDetails
+-----------------------------------------------------------
+Time: 14/01/2021 01:14:06 PM For RequestMethod: ServiceResponse
+InputOutput: [Status]:- Unsuccess because IP is not allowed.
+-----------------------------------------------------------
+Time: 14/01/2021 01:14:06 PM For RequestMethod: ServiceResponse
+InputOutput: [Status]:- Success
+-----------------------------------------------------------
+Time: 14/01/2021 01:15:06 PM For RequestMethod: ServiceCalling
+InputOutput: [Service Name]:- ~/gosmileservice.svc ---- [Remote Address]:- 172.27.29.230 ---- [Absolute Uri]:- http://192.168.201.129/SWP_Service/GOSMILEService.svc/FetchPaymentDetails
+-----------------------------------------------------------
+Time: 14/01/2021 01:15:06 PM For RequestMethod: ServiceResponse
+InputOutput: [Status]:- Unsuccess because IP is not allowed.
+-----------------------------------------------------------
+Time: 14/01/2021 01:15:06 PM For RequestMethod: ServiceResponse
+InputOutput: [Status]:- Success
+-----------------------------------------------------------
+Time: 14/01/2021 01:16:06 PM For RequestMethod: ServiceCalling
+InputOutput: [Service Name]:- ~/gosmileservice.svc ---- [Remote Address]:- 172.27.29.230 ---- [Absolute Uri]:- http://192.168.201.129/SWP_Service/GOSMILEService.svc/FetchPaymentDetails
+-----------------------------------------------------------
+Time: 14/01/2021 01:16:06 PM For RequestMethod: ServiceResponse
+InputOutput: [Status]:- Unsuccess because IP is not allowed.
+-----------------------------------------------------------
+Time: 14/01/2021 01:16:06 PM For RequestMethod: ServiceResponse
+InputOutput: [Status]:- Success
+-----------------------------------------------------------
+Time: 14/01/2021 01:17:06 PM For RequestMethod: ServiceCalling
+InputOutput: [Service Name]:- ~/gosmileservice.svc ---- [Remote Address]:- 172.27.29.230 ---- [Absolute Uri]:- http://192.168.201.129/SWP_Service/GOSMILEService.svc/FetchPaymentDetails
+-----------------------------------------------------------
+Time: 14/01/2021 01:17:06 PM For RequestMethod: ServiceResponse
+InputOutput: [Status]:- Unsuccess because IP is not allowed.
+-----------------------------------------------------------
+Time: 14/01/2021 01:17:06 PM For RequestMethod: ServiceResponse
+InputOutput: [Status]:- Success
+-----------------------------------------------------------
+Time: 14/01/2021 01:18:06 PM For RequestMethod: ServiceCalling
+InputOutput: [Service Name]:- ~/gosmileservice.svc ---- [Remote Address]:- 172.27.29.230 ---- [Absolute Uri]:- http://192.168.201.129/SWP_Service/GOSMILEService.svc/FetchPaymentDetails
+-----------------------------------------------------------
+Time: 14/01/2021 01:18:06 PM For RequestMethod: ServiceResponse
+InputOutput: [Status]:- Unsuccess because IP is not allowed.
+-----------------------------------------------------------
+Time: 14/01/2021 01:18:06 PM For RequestMethod: ServiceResponse
+InputOutput: [Status]:- Success
+-----------------------------------------------------------
+Time: 14/01/2021 01:19:06 PM For RequestMethod: ServiceCalling
+InputOutput: [Service Name]:- ~/gosmileservice.svc ---- [Remote Address]:- 172.27.29.230 ---- [Absolute Uri]:- http://192.168.201.129/SWP_Service/GOSMILEService.svc/FetchPaymentDetails
+-----------------------------------------------------------
+Time: 14/01/2021 01:19:06 PM For RequestMethod: ServiceResponse
+InputOutput: [Status]:- Unsuccess because IP is not allowed.
+-----------------------------------------------------------
+Time: 14/01/2021 01:19:06 PM For RequestMethod: ServiceResponse
+InputOutput: [Status]:- Success
+-----------------------------------------------------------
+Time: 14/01/2021 01:20:06 PM For RequestMethod: ServiceCalling
+InputOutput: [Service Name]:- ~/gosmileservice.svc ---- [Remote Address]:- 172.27.29.230 ---- [Absolute Uri]:- http://192.168.201.129/SWP_Service/GOSMILEService.svc/FetchPaymentDetails
+-----------------------------------------------------------
+Time: 14/01/2021 01:20:06 PM For RequestMethod: ServiceResponse
+InputOutput: [Status]:- Unsuccess because IP is not allowed.
+-----------------------------------------------------------
+Time: 14/01/2021 01:20:06 PM For RequestMethod: ServiceResponse
+InputOutput: [Status]:- Success
+-----------------------------------------------------------
+Time: 14/01/2021 01:21:06 PM For RequestMethod: ServiceCalling
+InputOutput: [Service Name]:- ~/gosmileservice.svc ---- [Remote Address]:- 172.27.29.230 ---- [Absolute Uri]:- http://192.168.201.129/SWP_Service/GOSMILEService.svc/FetchPaymentDetails
+-----------------------------------------------------------
+Time: 14/01/2021 01:21:06 PM For RequestMethod: ServiceResponse
+InputOutput: [Status]:- Unsuccess because IP is not allowed.
+-----------------------------------------------------------
+Time: 14/01/2021 01:21:06 PM For RequestMethod: ServiceResponse
+InputOutput: [Status]:- Success
+-----------------------------------------------------------
+Time: 14/01/2021 01:22:06 PM For RequestMethod: ServiceCalling
+InputOutput: [Service Name]:- ~/gosmileservice.svc ---- [Remote Address]:- 172.27.29.230 ---- [Absolute Uri]:- http://192.168.201.129/SWP_Service/GOSMILEService.svc/FetchPaymentDetails
+-----------------------------------------------------------
+Time: 14/01/2021 01:22:06 PM For RequestMethod: ServiceResponse
+InputOutput: [Status]:- Unsuccess because IP is not allowed.
+-----------------------------------------------------------
+Time: 14/01/2021 01:22:06 PM For RequestMethod: ServiceResponse
+InputOutput: [Status]:- Success
+-----------------------------------------------------------
+Time: 14/01/2021 01:23:06 PM For RequestMethod: ServiceCalling
+InputOutput: [Service Name]:- ~/gosmileservice.svc ---- [Remote Address]:- 172.27.29.230 ---- [Absolute Uri]:- http://192.168.201.129/SWP_Service/GOSMILEService.svc/FetchPaymentDetails
+-----------------------------------------------------------
+Time: 14/01/2021 01:23:06 PM For RequestMethod: ServiceResponse
+InputOutput: [Status]:- Unsuccess because IP is not allowed.
+-----------------------------------------------------------
+Time: 14/01/2021 01:23:06 PM For RequestMethod: ServiceResponse
+InputOutput: [Status]:- Success
+-----------------------------------------------------------
+Time: 14/01/2021 01:24:06 PM For RequestMethod: ServiceCalling
+InputOutput: [Service Name]:- ~/gosmileservice.svc ---- [Remote Address]:- 172.27.29.230 ---- [Absolute Uri]:- http://192.168.201.129/SWP_Service/GOSMILEService.svc/FetchPaymentDetails
+-----------------------------------------------------------
+Time: 14/01/2021 01:24:06 PM For RequestMethod: ServiceResponse
+InputOutput: [Status]:- Unsuccess because IP is not allowed.
+-----------------------------------------------------------
+Time: 14/01/2021 01:24:06 PM For RequestMethod: ServiceResponse
+InputOutput: [Status]:- Success
+-----------------------------------------------------------
+Time: 14/01/2021 01:25:06 PM For RequestMethod: ServiceCalling
+InputOutput: [Service Name]:- ~/gosmileservice.svc ---- [Remote Address]:- 172.27.29.230 ---- [Absolute Uri]:- http://192.168.201.129/SWP_Service/GOSMILEService.svc/FetchPaymentDetails
+-----------------------------------------------------------
+Time: 14/01/2021 01:25:06 PM For RequestMethod: ServiceResponse
+InputOutput: [Status]:- Unsuccess because IP is not allowed.
+-----------------------------------------------------------
+Time: 14/01/2021 01:25:06 PM For RequestMethod: ServiceResponse
+InputOutput: [Status]:- Success
+-----------------------------------------------------------
+Time: 14/01/2021 01:26:06 PM For RequestMethod: ServiceCalling
+InputOutput: [Service Name]:- ~/gosmileservice.svc ---- [Remote Address]:- 172.27.29.230 ---- [Absolute Uri]:- http://192.168.201.129/SWP_Service/GOSMILEService.svc/FetchPaymentDetails
+-----------------------------------------------------------
+Time: 14/01/2021 01:26:06 PM For RequestMethod: ServiceResponse
+InputOutput: [Status]:- Unsuccess because IP is not allowed.
+-----------------------------------------------------------
+Time: 14/01/2021 01:26:06 PM For RequestMethod: ServiceResponse
+InputOutput: [Status]:- Success
+-----------------------------------------------------------
+Time: 14/01/2021 01:27:06 PM For RequestMethod: ServiceCalling
+InputOutput: [Service Name]:- ~/gosmileservice.svc ---- [Remote Address]:- 172.27.29.230 ---- [Absolute Uri]:- http://192.168.201.129/SWP_Service/GOSMILEService.svc/FetchPaymentDetails
+-----------------------------------------------------------
+Time: 14/01/2021 01:27:06 PM For RequestMethod: ServiceResponse
+InputOutput: [Status]:- Unsuccess because IP is not allowed.
+-----------------------------------------------------------
+Time: 14/01/2021 01:27:06 PM For RequestMethod: ServiceResponse
+InputOutput: [Status]:- Success
+-----------------------------------------------------------
+Time: 14/01/2021 01:28:06 PM For RequestMethod: ServiceCalling
+InputOutput: [Service Name]:- ~/gosmileservice.svc ---- [Remote Address]:- 172.27.29.230 ---- [Absolute Uri]:- http://192.168.201.129/SWP_Service/GOSMILEService.svc/FetchPaymentDetails
+-----------------------------------------------------------
+Time: 14/01/2021 01:28:06 PM For RequestMethod: ServiceResponse
+InputOutput: [Status]:- Unsuccess because IP is not allowed.
+-----------------------------------------------------------
+Time: 14/01/2021 01:28:06 PM For RequestMethod: ServiceResponse
+InputOutput: [Status]:- Success
+-----------------------------------------------------------
+Time: 14/01/2021 01:29:06 PM For RequestMethod: ServiceCalling
+InputOutput: [Service Name]:- ~/gosmileservice.svc ---- [Remote Address]:- 172.27.29.230 ---- [Absolute Uri]:- http://192.168.201.129/SWP_Service/GOSMILEService.svc/FetchPaymentDetails
+-----------------------------------------------------------
+Time: 14/01/2021 01:29:06 PM For RequestMethod: ServiceResponse
+InputOutput: [Status]:- Unsuccess because IP is not allowed.
+-----------------------------------------------------------
+Time: 14/01/2021 01:29:06 PM For RequestMethod: ServiceResponse
+InputOutput: [Status]:- Success
+-----------------------------------------------------------
+Time: 14/01/2021 01:30:06 PM For RequestMethod: ServiceCalling
+InputOutput: [Service Name]:- ~/gosmileservice.svc ---- [Remote Address]:- 172.27.29.230 ---- [Absolute Uri]:- http://192.168.201.129/SWP_Service/GOSMILEService.svc/FetchPaymentDetails
+-----------------------------------------------------------
+Time: 14/01/2021 01:30:06 PM For RequestMethod: ServiceResponse
+InputOutput: [Status]:- Unsuccess because IP is not allowed.
+-----------------------------------------------------------
+Time: 14/01/2021 01:30:06 PM For RequestMethod: ServiceResponse
+InputOutput: [Status]:- Success
+-----------------------------------------------------------
+Time: 14/01/2021 01:33:11 PM For RequestMethod: ServiceCalling
+InputOutput: [Service Name]:- ~/gosmileservice.svc ---- [Remote Address]:- 172.27.29.230 ---- [Absolute Uri]:- http://192.168.201.129/SWP_Service/GOSMILEService.svc/FetchPaymentDetails
+-----------------------------------------------------------
+Time: 14/01/2021 01:33:11 PM For RequestMethod: ServiceResponse
+InputOutput: [Status]:- Unsuccess because IP is not allowed.
+-----------------------------------------------------------
+Time: 14/01/2021 01:33:11 PM For RequestMethod: ServiceResponse
+InputOutput: [Status]:- Success
+-----------------------------------------------------------
+Time: 14/01/2021 01:34:11 PM For RequestMethod: ServiceCalling
+InputOutput: [Service Name]:- ~/gosmileservice.svc ---- [Remote Address]:- 172.27.29.230 ---- [Absolute Uri]:- http://192.168.201.129/SWP_Service/GOSMILEService.svc/FetchPaymentDetails
+-----------------------------------------------------------
+Time: 14/01/2021 01:34:11 PM For RequestMethod: ServiceResponse
+InputOutput: [Status]:- Unsuccess because IP is not allowed.
+-----------------------------------------------------------
+Time: 14/01/2021 01:34:11 PM For RequestMethod: ServiceResponse
+InputOutput: [Status]:- Success
+-----------------------------------------------------------
+Time: 14/01/2021 01:35:11 PM For RequestMethod: ServiceCalling
+InputOutput: [Service Name]:- ~/gosmileservice.svc ---- [Remote Address]:- 172.27.29.230 ---- [Absolute Uri]:- http://192.168.201.129/SWP_Service/GOSMILEService.svc/FetchPaymentDetails
+-----------------------------------------------------------
+Time: 14/01/2021 01:35:11 PM For RequestMethod: ServiceResponse
+InputOutput: [Status]:- Unsuccess because IP is not allowed.
+-----------------------------------------------------------
+Time: 14/01/2021 01:35:11 PM For RequestMethod: ServiceResponse
+InputOutput: [Status]:- Success
+-----------------------------------------------------------
+Time: 14/01/2021 01:36:11 PM For RequestMethod: ServiceCalling
+InputOutput: [Service Name]:- ~/gosmileservice.svc ---- [Remote Address]:- 172.27.29.230 ---- [Absolute Uri]:- http://192.168.201.129/SWP_Service/GOSMILEService.svc/FetchPaymentDetails
+-----------------------------------------------------------
+Time: 14/01/2021 01:36:11 PM For RequestMethod: ServiceResponse
+InputOutput: [Status]:- Unsuccess because IP is not allowed.
+-----------------------------------------------------------
+Time: 14/01/2021 01:36:11 PM For RequestMethod: ServiceResponse
+InputOutput: [Status]:- Success
+-----------------------------------------------------------
+Time: 14/01/2021 01:37:11 PM For RequestMethod: ServiceCalling
+InputOutput: [Service Name]:- ~/gosmileservice.svc ---- [Remote Address]:- 172.27.29.230 ---- [Absolute Uri]:- http://192.168.201.129/SWP_Service/GOSMILEService.svc/FetchPaymentDetails
+-----------------------------------------------------------
+Time: 14/01/2021 01:37:11 PM For RequestMethod: ServiceResponse
+InputOutput: [Status]:- Unsuccess because IP is not allowed.
+-----------------------------------------------------------
+Time: 14/01/2021 01:37:11 PM For RequestMethod: ServiceResponse
+InputOutput: [Status]:- Success
+-----------------------------------------------------------
+Time: 14/01/2021 01:38:11 PM For RequestMethod: ServiceCalling
+InputOutput: [Service Name]:- ~/gosmileservice.svc ---- [Remote Address]:- 172.27.29.230 ---- [Absolute Uri]:- http://192.168.201.129/SWP_Service/GOSMILEService.svc/FetchPaymentDetails
+-----------------------------------------------------------
+Time: 14/01/2021 01:38:11 PM For RequestMethod: ServiceResponse
+InputOutput: [Status]:- Unsuccess because IP is not allowed.
+-----------------------------------------------------------
+Time: 14/01/2021 01:38:11 PM For RequestMethod: ServiceResponse
+InputOutput: [Status]:- Success
+-----------------------------------------------------------
+Time: 14/01/2021 01:39:11 PM For RequestMethod: ServiceCalling
+InputOutput: [Service Name]:- ~/gosmileservice.svc ---- [Remote Address]:- 172.27.29.230 ---- [Absolute Uri]:- http://192.168.201.129/SWP_Service/GOSMILEService.svc/FetchPaymentDetails
+-----------------------------------------------------------
+Time: 14/01/2021 01:39:11 PM For RequestMethod: ServiceResponse
+InputOutput: [Status]:- Unsuccess because IP is not allowed.
+-----------------------------------------------------------
+Time: 14/01/2021 01:39:11 PM For RequestMethod: ServiceResponse
+InputOutput: [Status]:- Success
+-----------------------------------------------------------
+Time: 14/01/2021 01:40:11 PM For RequestMethod: ServiceCalling
+InputOutput: [Service Name]:- ~/gosmileservice.svc ---- [Remote Address]:- 172.27.29.230 ---- [Absolute Uri]:- http://192.168.201.129/SWP_Service/GOSMILEService.svc/FetchPaymentDetails
+-----------------------------------------------------------
+Time: 14/01/2021 01:40:11 PM For RequestMethod: ServiceResponse
+InputOutput: [Status]:- Unsuccess because IP is not allowed.
+-----------------------------------------------------------
+Time: 14/01/2021 01:40:11 PM For RequestMethod: ServiceResponse
+InputOutput: [Status]:- Success
+-----------------------------------------------------------
+Time: 14/01/2021 01:41:11 PM For RequestMethod: ServiceCalling
+InputOutput: [Service Name]:- ~/gosmileservice.svc ---- [Remote Address]:- 172.27.29.230 ---- [Absolute Uri]:- http://192.168.201.129/SWP_Service/GOSMILEService.svc/FetchPaymentDetails
+-----------------------------------------------------------
+Time: 14/01/2021 01:41:11 PM For RequestMethod: ServiceResponse
+InputOutput: [Status]:- Unsuccess because IP is not allowed.
+-----------------------------------------------------------
+Time: 14/01/2021 01:41:11 PM For RequestMethod: ServiceResponse
+InputOutput: [Status]:- Success
+-----------------------------------------------------------
+Time: 14/01/2021 01:42:11 PM For RequestMethod: ServiceCalling
+InputOutput: [Service Name]:- ~/gosmileservice.svc ---- [Remote Address]:- 172.27.29.230 ---- [Absolute Uri]:- http://192.168.201.129/SWP_Service/GOSMILEService.svc/FetchPaymentDetails
+-----------------------------------------------------------
+Time: 14/01/2021 01:42:11 PM For RequestMethod: ServiceResponse
+InputOutput: [Status]:- Unsuccess because IP is not allowed.
+-----------------------------------------------------------
+Time: 14/01/2021 01:42:11 PM For RequestMethod: ServiceResponse
+InputOutput: [Status]:- Success
+-----------------------------------------------------------
+Time: 14/01/2021 01:43:11 PM For RequestMethod: ServiceCalling
+InputOutput: [Service Name]:- ~/gosmileservice.svc ---- [Remote Address]:- 172.27.29.230 ---- [Absolute Uri]:- http://192.168.201.129/SWP_Service/GOSMILEService.svc/FetchPaymentDetails
+-----------------------------------------------------------
+Time: 14/01/2021 01:43:11 PM For RequestMethod: ServiceResponse
+InputOutput: [Status]:- Unsuccess because IP is not allowed.
+-----------------------------------------------------------
+Time: 14/01/2021 01:43:11 PM For RequestMethod: ServiceResponse
+InputOutput: [Status]:- Success
+-----------------------------------------------------------
+Time: 14/01/2021 01:44:11 PM For RequestMethod: ServiceCalling
+InputOutput: [Service Name]:- ~/gosmileservice.svc ---- [Remote Address]:- 172.27.29.230 ---- [Absolute Uri]:- http://192.168.201.129/SWP_Service/GOSMILEService.svc/FetchPaymentDetails
+-----------------------------------------------------------
+Time: 14/01/2021 01:44:11 PM For RequestMethod: ServiceResponse
+InputOutput: [Status]:- Unsuccess because IP is not allowed.
+-----------------------------------------------------------
+Time: 14/01/2021 01:44:11 PM For RequestMethod: ServiceResponse
+InputOutput: [Status]:- Success
+-----------------------------------------------------------
+Time: 14/01/2021 01:45:11 PM For RequestMethod: ServiceCalling
+InputOutput: [Service Name]:- ~/gosmileservice.svc ---- [Remote Address]:- 172.27.29.230 ---- [Absolute Uri]:- http://192.168.201.129/SWP_Service/GOSMILEService.svc/FetchPaymentDetails
+-----------------------------------------------------------
+Time: 14/01/2021 01:45:11 PM For RequestMethod: ServiceResponse
+InputOutput: [Status]:- Unsuccess because IP is not allowed.
+-----------------------------------------------------------
+Time: 14/01/2021 01:45:11 PM For RequestMethod: ServiceResponse
+InputOutput: [Status]:- Success
+-----------------------------------------------------------
+Time: 14/01/2021 01:46:11 PM For RequestMethod: ServiceCalling
+InputOutput: [Service Name]:- ~/gosmileservice.svc ---- [Remote Address]:- 172.27.29.230 ---- [Absolute Uri]:- http://192.168.201.129/SWP_Service/GOSMILEService.svc/FetchPaymentDetails
+-----------------------------------------------------------
+Time: 14/01/2021 01:46:11 PM For RequestMethod: ServiceResponse
+InputOutput: [Status]:- Unsuccess because IP is not allowed.
+-----------------------------------------------------------
+Time: 14/01/2021 01:46:11 PM For RequestMethod: ServiceResponse
+InputOutput: [Status]:- Success
+-----------------------------------------------------------
+Time: 14/01/2021 01:47:11 PM For RequestMethod: ServiceCalling
+InputOutput: [Service Name]:- ~/gosmileservice.svc ---- [Remote Address]:- 172.27.29.230 ---- [Absolute Uri]:- http://192.168.201.129/SWP_Service/GOSMILEService.svc/FetchPaymentDetails
+-----------------------------------------------------------
+Time: 14/01/2021 01:47:11 PM For RequestMethod: ServiceResponse
+InputOutput: [Status]:- Unsuccess because IP is not allowed.
+-----------------------------------------------------------
+Time: 14/01/2021 01:47:11 PM For RequestMethod: ServiceResponse
+InputOutput: [Status]:- Success
+-----------------------------------------------------------
+Time: 14/01/2021 01:48:11 PM For RequestMethod: ServiceCalling
+InputOutput: [Service Name]:- ~/gosmileservice.svc ---- [Remote Address]:- 172.27.29.230 ---- [Absolute Uri]:- http://192.168.201.129/SWP_Service/GOSMILEService.svc/FetchPaymentDetails
+-----------------------------------------------------------
+Time: 14/01/2021 01:48:11 PM For RequestMethod: ServiceResponse
+InputOutput: [Status]:- Unsuccess because IP is not allowed.
+-----------------------------------------------------------
+Time: 14/01/2021 01:48:11 PM For RequestMethod: ServiceResponse
+InputOutput: [Status]:- Success
+-----------------------------------------------------------
+Time: 14/01/2021 01:49:11 PM For RequestMethod: ServiceCalling
+InputOutput: [Service Name]:- ~/gosmileservice.svc ---- [Remote Address]:- 172.27.29.230 ---- [Absolute Uri]:- http://192.168.201.129/SWP_Service/GOSMILEService.svc/FetchPaymentDetails
+-----------------------------------------------------------
+Time: 14/01/2021 01:49:11 PM For RequestMethod: ServiceResponse
+InputOutput: [Status]:- Unsuccess because IP is not allowed.
+-----------------------------------------------------------
+Time: 14/01/2021 01:49:11 PM For RequestMethod: ServiceResponse
+InputOutput: [Status]:- Success
+-----------------------------------------------------------
+Time: 14/01/2021 01:50:11 PM For RequestMethod: ServiceCalling
+InputOutput: [Service Name]:- ~/gosmileservice.svc ---- [Remote Address]:- 172.27.29.230 ---- [Absolute Uri]:- http://192.168.201.129/SWP_Service/GOSMILEService.svc/FetchPaymentDetails
+-----------------------------------------------------------
+Time: 14/01/2021 01:50:11 PM For RequestMethod: ServiceResponse
+InputOutput: [Status]:- Unsuccess because IP is not allowed.
+-----------------------------------------------------------
+Time: 14/01/2021 01:50:11 PM For RequestMethod: ServiceResponse
+InputOutput: [Status]:- Success
+-----------------------------------------------------------
+Time: 14/01/2021 01:51:11 PM For RequestMethod: ServiceCalling
+InputOutput: [Service Name]:- ~/gosmileservice.svc ---- [Remote Address]:- 172.27.29.230 ---- [Absolute Uri]:- http://192.168.201.129/SWP_Service/GOSMILEService.svc/FetchPaymentDetails
+-----------------------------------------------------------
+Time: 14/01/2021 01:51:11 PM For RequestMethod: ServiceResponse
+InputOutput: [Status]:- Unsuccess because IP is not allowed.
+-----------------------------------------------------------
+Time: 14/01/2021 01:51:11 PM For RequestMethod: ServiceResponse
+InputOutput: [Status]:- Success
+-----------------------------------------------------------
+Time: 14/01/2021 01:52:11 PM For RequestMethod: ServiceCalling
+InputOutput: [Service Name]:- ~/gosmileservice.svc ---- [Remote Address]:- 172.27.29.230 ---- [Absolute Uri]:- http://192.168.201.129/SWP_Service/GOSMILEService.svc/FetchPaymentDetails
+-----------------------------------------------------------
+Time: 14/01/2021 01:52:11 PM For RequestMethod: ServiceResponse
+InputOutput: [Status]:- Unsuccess because IP is not allowed.
+-----------------------------------------------------------
+Time: 14/01/2021 01:52:11 PM For RequestMethod: ServiceResponse
+InputOutput: [Status]:- Success
+-----------------------------------------------------------
+Time: 14/01/2021 01:53:11 PM For RequestMethod: ServiceCalling
+InputOutput: [Service Name]:- ~/gosmileservice.svc ---- [Remote Address]:- 172.27.29.230 ---- [Absolute Uri]:- http://192.168.201.129/SWP_Service/GOSMILEService.svc/FetchPaymentDetails
+-----------------------------------------------------------
+Time: 14/01/2021 01:53:11 PM For RequestMethod: ServiceResponse
+InputOutput: [Status]:- Unsuccess because IP is not allowed.
+-----------------------------------------------------------
+Time: 14/01/2021 01:53:11 PM For RequestMethod: ServiceResponse
+InputOutput: [Status]:- Success
+-----------------------------------------------------------
+Time: 14/01/2021 03:24:53 PM For RequestMethod: ServiceCalling
+InputOutput: [Service Name]:- ~/pollutioncontrol.svc ---- [Remote Address]:- 192.168.201.129 ---- [Absolute Uri]:- http://192.168.201.129/SWP_Service/PollutionControl.svc/GetUserProfilesPM
+-----------------------------------------------------------
+Time: 14/01/2021 03:24:53 PM For RequestMethod: ServiceResponse
+InputOutput: [Status]:- Success
+-----------------------------------------------------------
+Time: 14/01/2021 03:25:37 PM For RequestMethod: ServiceCalling
+InputOutput: [Service Name]:- ~/pollutioncontrol.svc ---- [Remote Address]:- 192.168.201.129 ---- [Absolute Uri]:- http://192.168.201.129/SWP_Service/PollutionControl.svc/GetUserProfilesPM
+-----------------------------------------------------------
+Time: 14/01/2021 03:25:37 PM For RequestMethod: ServiceResponse
+InputOutput: [Status]:- Unsuccess because IP is not allowed.
+-----------------------------------------------------------
+Time: 14/01/2021 03:26:42 PM For RequestMethod: ServiceCalling
+InputOutput: [Service Name]:- ~/pollutioncontrol.svc ---- [Remote Address]:- 192.168.201.129 ---- [Absolute Uri]:- http://192.168.201.129/SWP_Service/PollutionControl.svc/GetUserProfilesPM
+-----------------------------------------------------------
+Time: 14/01/2021 03:26:42 PM For RequestMethod: ServiceResponse
+InputOutput: [Status]:- Unsuccess because IP is not allowed.
+-----------------------------------------------------------
+Time: 14/01/2021 03:27:00 PM For RequestMethod: ServiceCalling
+InputOutput: [Service Name]:- ~/pollutioncontrol.svc ---- [Remote Address]:- 192.168.201.129 ---- [Absolute Uri]:- http://192.168.201.129/SWP_Service/PollutionControl.svc/GetUserProfilesPM
+-----------------------------------------------------------
+Time: 14/01/2021 03:27:00 PM For RequestMethod: ServiceResponse
+InputOutput: [Status]:- Unsuccess because IP is not allowed.
+-----------------------------------------------------------
+Time: 14/01/2021 03:27:00 PM For RequestMethod: ServiceCalling
+InputOutput: [Service Name]:- ~/pollutioncontrol.svc ---- [Remote Address]:- 192.168.201.129 ---- [Absolute Uri]:- http://192.168.201.129/SWP_Service/PollutionControl.svc/UnAuthorizeAccess.aspx
+-----------------------------------------------------------
+Time: 14/01/2021 03:27:28 PM For RequestMethod: ServiceCalling
+InputOutput: [Service Name]:- ~/pollutioncontrol.svc ---- [Remote Address]:- 192.168.201.129 ---- [Absolute Uri]:- http://192.168.201.129/SWP_Service/PollutionControl.svc/GetUserProfilesPM
+-----------------------------------------------------------
+Time: 14/01/2021 03:27:28 PM For RequestMethod: ServiceResponse
+InputOutput: [Status]:- Unsuccess because IP is not allowed.
+-----------------------------------------------------------
+Time: 14/01/2021 03:27:28 PM For RequestMethod: ServiceCalling
+InputOutput: [Service Name]:- ~/pollutioncontrol.svc ---- [Remote Address]:- 192.168.201.129 ---- [Absolute Uri]:- http://192.168.201.129/SWP_Service/PollutionControl.svc/UnAuthorizeAccess.aspx
+-----------------------------------------------------------
+Time: 14/01/2021 03:29:40 PM For RequestMethod: ServiceCalling
+InputOutput: [Service Name]:- ~/pollutioncontrol.svc ---- [Remote Address]:- 192.168.201.129 ---- [Absolute Uri]:- http://192.168.201.129/SWP_Service/PollutionControl.svc/GetUserProfilesPM
+-----------------------------------------------------------
+Time: 14/01/2021 03:29:47 PM For RequestMethod: ServiceResponse
+InputOutput: [Status]:- Unsuccess because IP is not allowed.
+-----------------------------------------------------------
+Time: 14/01/2021 03:31:57 PM For RequestMethod: ServiceCalling
+InputOutput: [Service Name]:- ~/pollutioncontrol.svc ---- [Remote Address]:- 192.168.201.129 ---- [Absolute Uri]:- http://192.168.201.129/SWP_Service/PollutionControl.svc/UnAuthorizeAccess.aspx
+-----------------------------------------------------------
+Time: 14/01/2021 03:32:57 PM For RequestMethod: ServiceCalling
+InputOutput: [Service Name]:- ~/pollutioncontrol.svc ---- [Remote Address]:- 192.168.201.129 ---- [Absolute Uri]:- http://192.168.201.129/SWP_Service/PollutionControl.svc/GetUserProfilesPM
+-----------------------------------------------------------
+Time: 14/01/2021 03:33:00 PM For RequestMethod: ServiceResponse
+InputOutput: [Status]:- Unsuccess because IP is not allowed.
+-----------------------------------------------------------
+Time: 14/01/2021 03:33:09 PM For RequestMethod: ServiceCalling
+InputOutput: [Service Name]:- ~/pollutioncontrol.svc ---- [Remote Address]:- 192.168.201.129 ---- [Absolute Uri]:- http://192.168.201.129/SWP_Service/PollutionControl.svc/UnAuthorizeAccess.aspx
+-----------------------------------------------------------
+Time: 14/01/2021 04:03:48 PM For RequestMethod: ServiceCalling
+InputOutput: [Service Name]:- ~/pollutioncontrol.svc ---- [Remote Address]:- 192.168.201.129 ---- [Absolute Uri]:- http://192.168.201.129/SWP_Service/PollutionControl.svc/GetUserProfilesPM
+-----------------------------------------------------------
+Time: 14/01/2021 04:03:48 PM For RequestMethod: ServiceResponse
+InputOutput: [Status]:- Success
+-----------------------------------------------------------
+Time: 14/01/2021 05:17:04 PM For RequestMethod: ServiceCalling
+InputOutput: [Service Name]:- ~/pollutioncontrol.svc ---- [Remote Address]:- 192.168.201.129 ---- [Absolute Uri]:- http://192.168.201.129/SWP_Service/PollutionControl.svc/GetUserProfilesPM
+-----------------------------------------------------------
+Time: 14/01/2021 05:17:04 PM For RequestMethod: ServiceResponse
+InputOutput: [Status]:- Success
+-----------------------------------------------------------
+Time: 14/01/2021 06:02:30 PM For RequestMethod: ServiceCalling
+InputOutput: [Service Name]:- ~/pollutioncontrol.svc ---- [Remote Address]:- 192.168.201.129 ---- [Absolute Uri]:- http://192.168.201.129/SWP_Service/PollutionControl.svc/GetUserProfilesPM
+-----------------------------------------------------------
+Time: 14/01/2021 06:02:30 PM For RequestMethod: ServiceResponse
+InputOutput: [Status]:- Success
+-----------------------------------------------------------

@@ -1,0 +1,18 @@
+Time: 06/04/2021 10:05:21 AM For RequestMethod: NSWSLoginAuthentication
+InputOutput: (Request)--- PAN No :- AAABB1234M.  -->>> INPUT JSON STRING :- {"SecurityKey":"6EE32F3E-9B14-4789-9DEF-0EC458F7EB28","PAN":"AAABB1234M","ApplicantName":null,"ApplicantAddress":null,"MobileNo":null,"EmailId":null,"UnitName":null,"InvestmentLevel":0,"SiteLocation":null,"EinIemType":null,"EinIemNo":null,"EinIemDoc":null,"DistrictCode":0,"BlockCode":0,"SectorCode":0,"SubSectorCode":0,"GSTIN":null,"InvestorSWSId":140}
+-----------------------------------------------------------
+Time: 06/04/2021 10:05:25 AM For RequestMethod: NSWSLoginAuthentication
+InputOutput: (Response)--- Status :- 0 OUTPUT JSON STRING:- {"Status":2,"RedirectUrl":"http://192.168.201.129/swp_new/SSOLoginNSWS.aspx?nparam=mhJwmRcCSPR0L/hhwPmRfS/PJFGu40O5AUlV+Q7wf0V0thlPDESmLQ==","OutMessage":"Success."}
+-----------------------------------------------------------
+Time: 06/04/2021 04:50:19 PM For RequestMethod: NSWSLoginAuthentication
+InputOutput: (Request)--- PAN No :- AAABB1234M.  -->>> INPUT JSON STRING :- {"SecurityKey":"6EE32F3E-9B14-4789-9DEF-0EC458F7EB28","PAN":"AAABB1234M","ApplicantName":null,"ApplicantAddress":null,"MobileNo":null,"EmailId":null,"UnitName":null,"InvestmentLevel":0,"SiteLocation":null,"EinIemType":null,"EinIemNo":null,"EinIemDoc":null,"DistrictCode":0,"BlockCode":0,"SectorCode":0,"SubSectorCode":0,"GSTIN":null,"InvestorSWSId":140}
+-----------------------------------------------------------
+Time: 06/04/2021 04:50:28 PM For RequestMethod: NSWSLoginAuthentication
+InputOutput: (Response)--- Status :- 0 OUTPUT JSON STRING:- {"Status":2,"RedirectUrl":"http://192.168.201.129/swp_new/SSOLoginNSWS.aspx?nparam=mhJwmRcCSPR0L/hhwPmRfS/PJFGu40O5hGbFu+UnsG6wmBudna8Brg==","OutMessage":"Success."}
+-----------------------------------------------------------
+Time: 06/04/2021 05:33:09 PM For RequestMethod: NSWSLoginAuthentication
+InputOutput: (Request)--- PAN No :- AAABB1234M.  -->>> INPUT JSON STRING :- {"SecurityKey":"6EE32F3E-9B14-4789-9DEF-0EC458F7EB28","PAN":"AAABB1234M","ApplicantName":null,"ApplicantAddress":null,"MobileNo":null,"EmailId":null,"UnitName":null,"InvestmentLevel":0,"SiteLocation":null,"EinIemType":null,"EinIemNo":null,"EinIemDoc":null,"DistrictCode":0,"BlockCode":0,"SectorCode":0,"SubSectorCode":0,"GSTIN":null,"InvestorSWSId":140}
+-----------------------------------------------------------
+Time: 06/04/2021 05:33:09 PM For RequestMethod: NSWSLoginAuthentication
+InputOutput: (Response)--- Status :- 0 OUTPUT JSON STRING:- {"Status":2,"RedirectUrl":"http://192.168.201.129/swp_new/SSOLoginNSWS.aspx?nparam=mhJwmRcCSPR0L/hhwPmRfS/PJFGu40O5sBd/+jNpMaXWrjSHaC+S2Q==","OutMessage":"Success."}
+-----------------------------------------------------------

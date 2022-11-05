@@ -1,0 +1,6 @@
+Time: 08/04/2021 05:07:40 PM For RequestMethod: NSWSLoginAuthentication
+InputOutput: (Request)--- PAN No :- AKKPH8132K.  -->>> INPUT JSON STRING :- {"SecurityKey":"6EE32F3E-9B14-4789-9DEF-0EC458F7EB28","PAN":"AKKPH8132K","ApplicantName":null,"ApplicantAddress":null,"MobileNo":null,"EmailId":null,"UnitName":null,"InvestmentLevel":0,"SiteLocation":null,"EinIemType":null,"EinIemNo":null,"EinIemDoc":null,"DistrictCode":0,"BlockCode":0,"SectorCode":0,"SubSectorCode":0,"GSTIN":null,"InvestorSWSId":611}
+-----------------------------------------------------------
+Time: 08/04/2021 05:07:55 PM For RequestMethod: NSWSLoginAuthentication
+InputOutput: (Response)--- Status :- 0 OUTPUT JSON STRING:- {"Status":1,"RedirectUrl":null,"OutMessage":"Invalid Credentials."}
+-----------------------------------------------------------

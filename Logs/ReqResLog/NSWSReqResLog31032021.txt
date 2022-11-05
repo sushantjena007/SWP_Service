@@ -1,0 +1,87 @@
+Time: 31/03/2021 02:28:15 PM For RequestMethod: NSWSUserRegistration
+InputOutput: (Request)--- PAN No :- HHHHH1234M.  -->>> INPUT JSON STRING :- {"SecurityKey":"6EE32F3E-9B14-4789-9DEF-0EC458F7EB28","PAN":"HHHHH1234M","ApplicantName":"SUSHANT KUMAR JENA","ApplicantAddress":"Level-6 Ocac Tower,Bhubaneswar","MobileNo":"9778065403","EmailId":"sushant.jena007@gmail.com","UnitName":"MAA MANGALA RICE MILL","InvestmentLevel":1,"SiteLocation":"Near Mancheswar","EinIemType":"EIN","EinIemNo":"EIN/25485/693df48tre5","EinIemDoc":"http://server16/swp/Enclosure/124320210309104246PAN.pdf","DistrictCode":15,"BlockCode":8,"SectorCode":10,"SubSectorCode":5,"GSTIN":"GSTIN25485","InvestorSWSId":null}
+-----------------------------------------------------------
+Time: 31/03/2021 02:28:25 PM For RequestMethod: NSWSUserRegistration
+InputOutput: (Request)--- PAN No :- HHHHH1234M.  -->>> INPUT JSON STRING :- {"SecurityKey":"6EE32F3E-9B14-4789-9DEF-0EC458F7EB28","PAN":"HHHHH1234M","ApplicantName":"SUSHANT KUMAR JENA","ApplicantAddress":"Level-6 Ocac Tower,Bhubaneswar","MobileNo":"9778065403","EmailId":"sushant.jena007@gmail.com","UnitName":"MAA MANGALA RICE MILL","InvestmentLevel":1,"SiteLocation":"Near Mancheswar","EinIemType":"EIN","EinIemNo":"EIN/25485/693df48tre5","EinIemDoc":"http://server16/swp/Enclosure/124320210309104246PAN.pdf","DistrictCode":15,"BlockCode":8,"SectorCode":10,"SubSectorCode":5,"GSTIN":"GSTIN25485","InvestorSWSId":null}
+-----------------------------------------------------------
+Time: 31/03/2021 02:34:44 PM For RequestMethod: NSWSUserRegistration
+InputOutput: (Request)--- PAN No :- HHHHH1234M.  -->>> INPUT JSON STRING :- {"SecurityKey":"6EE32F3E-9B14-4789-9DEF-0EC458F7EB28","PAN":"HHHHH1234M","ApplicantName":"SUSHANT KUMAR JENA","ApplicantAddress":"Level-6 Ocac Tower,Bhubaneswar","MobileNo":"9778065403","EmailId":"sushant.jena007@gmail.com","UnitName":"MAA MANGALA RICE MILL","InvestmentLevel":1,"SiteLocation":"Near Mancheswar","EinIemType":"EIN","EinIemNo":"EIN/25485/693df48tre5","EinIemDoc":"http://server16/swp/Enclosure/124320210309104246PAN.pdf","DistrictCode":15,"BlockCode":8,"SectorCode":10,"SubSectorCode":5,"GSTIN":"GSTIN25485","InvestorSWSId":null}
+-----------------------------------------------------------
+Time: 31/03/2021 02:36:20 PM For RequestMethod: NSWSUserRegistration
+InputOutput: (Request)--- PAN No :- HHHHH1234M.  -->>> INPUT JSON STRING :- {"SecurityKey":"6EE32F3E-9B14-4789-9DEF-0EC458F7EB28","PAN":"HHHHH1234M","ApplicantName":"SUSHANT KUMAR JENA","ApplicantAddress":"Level-6 Ocac Tower,Bhubaneswar","MobileNo":"9778065403","EmailId":"sushant.jena007@gmail.com","UnitName":"MAA MANGALA RICE MILL","InvestmentLevel":1,"SiteLocation":"Near Mancheswar","EinIemType":"EIN","EinIemNo":"EIN/25485/693df48tre5","EinIemDoc":"http://server16/swp/Enclosure/124320210309104246PAN.pdf","DistrictCode":15,"BlockCode":8,"SectorCode":10,"SubSectorCode":5,"GSTIN":"GSTIN25485","InvestorSWSId":null}
+-----------------------------------------------------------
+Time: 31/03/2021 02:36:56 PM For RequestMethod: NSWSUserRegistration
+InputOutput: (Request)--- PAN No :- HHHHH1234M.  -->>> INPUT JSON STRING :- {"SecurityKey":"6EE32F3E-9B14-4789-9DEF-0EC458F7EB28","PAN":"HHHHH1234M","ApplicantName":"SUSHANT KUMAR JENA","ApplicantAddress":"Level-6 Ocac Tower,Bhubaneswar","MobileNo":"9778065403","EmailId":"sushant.jena007@gmail.com","UnitName":"MAA MANGALA RICE MILL","InvestmentLevel":1,"SiteLocation":"Near Mancheswar","EinIemType":"EIN","EinIemNo":"EIN/25485/693df48tre5","EinIemDoc":"http://server16/swp/Enclosure/124320210309104246PAN.pdf","DistrictCode":15,"BlockCode":8,"SectorCode":10,"SubSectorCode":5,"GSTIN":"GSTIN25485","InvestorSWSId":null}
+-----------------------------------------------------------
+Time: 31/03/2021 02:37:43 PM For RequestMethod: NSWSUserRegistration
+InputOutput: (Request)--- PAN No :- HHHHH1234M.  -->>> INPUT JSON STRING :- {"SecurityKey":"6EE32F3E-9B14-4789-9DEF-0EC458F7EB28","PAN":"HHHHH1234M","ApplicantName":"SUSHANT KUMAR JENA","ApplicantAddress":"Level-6 Ocac Tower,Bhubaneswar","MobileNo":"9778065403","EmailId":"sushant.jena007@gmail.com","UnitName":"MAA MANGALA RICE MILL","InvestmentLevel":1,"SiteLocation":"Near Mancheswar","EinIemType":"EIN","EinIemNo":"EIN/25485/693df48tre5","EinIemDoc":"http://server16/swp/Enclosure/124320210309104246PAN.pdf","DistrictCode":15,"BlockCode":8,"SectorCode":10,"SubSectorCode":5,"GSTIN":"GSTIN25485","InvestorSWSId":"127"}
+-----------------------------------------------------------
+Time: 31/03/2021 02:38:44 PM For RequestMethod: NSWSUserRegistration
+InputOutput: (Response)--- Status :- 0 OUTPUT JSON STRING:- {"Status":2,"SSOId":"951E130E-3046-4674-A483-73B1A70F72FB","OutMessage":"Success"}
+-----------------------------------------------------------
+Time: 31/03/2021 02:39:31 PM For RequestMethod: NSWSUserRegistration
+InputOutput: (Request)--- PAN No :- HHHHH1234M.  -->>> INPUT JSON STRING :- {"SecurityKey":"6EE32F3E-9B14-4789-9DEF-0EC458F7EB28","PAN":"HHHHH1234M","ApplicantName":"SUSHANT KUMAR JENA","ApplicantAddress":"Level-6 Ocac Tower,Bhubaneswar","MobileNo":"9778065403","EmailId":"sushant.jena007@gmail.com","UnitName":"MAA MANGALA RICE MILL","InvestmentLevel":1,"SiteLocation":"Near Mancheswar","EinIemType":"EIN","EinIemNo":"EIN/25485/693df48tre5","EinIemDoc":"http://server16/swp/Enclosure/124320210309104246PAN.pdf","DistrictCode":15,"BlockCode":8,"SectorCode":10,"SubSectorCode":5,"GSTIN":"GSTIN25485","InvestorSWSId":"127"}
+-----------------------------------------------------------
+Time: 31/03/2021 02:39:44 PM For RequestMethod: NSWSUserRegistration
+InputOutput: (Response)--- Status :- 0 OUTPUT JSON STRING:- {"Status":5,"SSOId":null,"OutMessage":"The EIN/IEM number is already exists."}
+-----------------------------------------------------------
+Time: 31/03/2021 02:39:51 PM For RequestMethod: NSWSUserRegistration
+InputOutput: (Request)--- PAN No :- HHHHH1234M.  -->>> INPUT JSON STRING :- {"SecurityKey":"6EE32F3E-9B14-4789-9DEF-0EC458F7EB28","PAN":"HHHHH1234M","ApplicantName":"SUSHANT KUMAR JENA","ApplicantAddress":"Level-6 Ocac Tower,Bhubaneswar","MobileNo":"9778065403","EmailId":"sushant.jena007@gmail.com","UnitName":"MAA MANGALA RICE MILL","InvestmentLevel":1,"SiteLocation":"Near Mancheswar","EinIemType":"EIN","EinIemNo":"EIN/254285/693df48tre5","EinIemDoc":"http://server16/swp/Enclosure/124320210309104246PAN.pdf","DistrictCode":15,"BlockCode":8,"SectorCode":10,"SubSectorCode":5,"GSTIN":"GSTIN25485","InvestorSWSId":"127"}
+-----------------------------------------------------------
+Time: 31/03/2021 02:40:00 PM For RequestMethod: NSWSUserRegistration
+InputOutput: (Response)--- Status :- 0 OUTPUT JSON STRING:- {"Status":2,"SSOId":"104EF995-2F24-4F6B-B5A7-7E62C3B1B48F","OutMessage":"Success"}
+-----------------------------------------------------------
+Time: 31/03/2021 02:42:18 PM For RequestMethod: NSWSUserRegistration
+InputOutput: (Request)--- PAN No :- HHHHH1234M.  -->>> INPUT JSON STRING :- {"SecurityKey":"6EE32F3E-9B14-4789-9DEF-0EC458F7EB28","PAN":"HHHHH1234M","ApplicantName":"SUSHANT KUMAR JENA","ApplicantAddress":"Level-6 Ocac Tower,Bhubaneswar","MobileNo":"9778065403","EmailId":"sushant.jena007@gmail.com","UnitName":"MAA MANGALA RICE MILL","InvestmentLevel":1,"SiteLocation":"Near Mancheswar","EinIemType":"EIN","EinIemNo":"EIN/254285/693df48tre5","EinIemDoc":"http://server16/swp/Enclosure/124320210309104246PAN.pdf","DistrictCode":15,"BlockCode":8,"SectorCode":10,"SubSectorCode":5,"GSTIN":"GSTIN25485","InvestorSWSId":"127"}
+-----------------------------------------------------------
+Time: 31/03/2021 02:42:29 PM For RequestMethod: NSWSUserRegistration
+InputOutput: (Response)--- Status :- 0 OUTPUT JSON STRING:- {"Status":4,"SSOId":null,"OutMessage":"The user id is already exists."}
+-----------------------------------------------------------
+Time: 31/03/2021 02:43:32 PM For RequestMethod: NSWSUserRegistration
+InputOutput: (Request)--- PAN No :- HHHHH1234M.  -->>> INPUT JSON STRING :- {"SecurityKey":"6EE32F3E-9B14-4789-9DEF-0EC458F7EB28","PAN":"HHHHH1234M","ApplicantName":"SUSHANT KUMAR JENA","ApplicantAddress":"Level-6 Ocac Tower,Bhubaneswar","MobileNo":"9778065403","EmailId":"sushant.jena007@gmail.com","UnitName":"MAA MANGALA RICE MILL","InvestmentLevel":1,"SiteLocation":"Near Mancheswar","EinIemType":"EIN","EinIemNo":"EIN/254285/693df48tre5","EinIemDoc":"http://server16/swp/Enclosure/124320210309104246PAN.pdf","DistrictCode":15,"BlockCode":8,"SectorCode":10,"SubSectorCode":5,"GSTIN":"GSTIN25485","InvestorSWSId":"127"}
+-----------------------------------------------------------
+Time: 31/03/2021 02:43:33 PM For RequestMethod: NSWSUserRegistration
+InputOutput: (Response)--- Status :- 0 OUTPUT JSON STRING:- {"Status":4,"SSOId":null,"OutMessage":"The investor sws id is already exists."}
+-----------------------------------------------------------
+Time: 31/03/2021 02:44:19 PM For RequestMethod: NSWSUserRegistration
+InputOutput: (Request)--- PAN No :- HHHHH1234M.  -->>> INPUT JSON STRING :- {"SecurityKey":"6EE32F3E-9B14-4789-9DEF-0EC458F7EB28","PAN":"HHHHH1234M","ApplicantName":"SUSHANT KUMAR JENA","ApplicantAddress":"Level-6 Ocac Tower,Bhubaneswar","MobileNo":"9778065403","EmailId":"sushant.jena007@gmail.com","UnitName":"MAA MANGALA RICE MILL","InvestmentLevel":1,"SiteLocation":"Near Mancheswar","EinIemType":"EIN","EinIemNo":"EIN/254285/693df48tre5","EinIemDoc":"http://server16/swp/Enclosure/124320210309104246PAN.pdf","DistrictCode":15,"BlockCode":8,"SectorCode":10,"SubSectorCode":5,"GSTIN":"GSTIN25485","InvestorSWSId":"128"}
+-----------------------------------------------------------
+Time: 31/03/2021 02:44:21 PM For RequestMethod: NSWSUserRegistration
+InputOutput: (Response)--- Status :- 0 OUTPUT JSON STRING:- {"Status":5,"SSOId":null,"OutMessage":"The EIN/IEM number is already exists."}
+-----------------------------------------------------------
+Time: 31/03/2021 02:44:33 PM For RequestMethod: NSWSUserRegistration
+InputOutput: (Request)--- PAN No :- HHHHH1234M.  -->>> INPUT JSON STRING :- {"SecurityKey":"6EE32F3E-9B14-4789-9DEF-0EC458F7EB28","PAN":"HHHHH1234M","ApplicantName":"SUSHANT KUMAR JENA","ApplicantAddress":"Level-6 Ocac Tower,Bhubaneswar","MobileNo":"9778065403","EmailId":"sushant.jena007@gmail.com","UnitName":"MAA MANGALA RICE MILL","InvestmentLevel":1,"SiteLocation":"Near Mancheswar","EinIemType":"EIN","EinIemNo":"EIN/254285/693df48t3re5","EinIemDoc":"http://server16/swp/Enclosure/124320210309104246PAN.pdf","DistrictCode":15,"BlockCode":8,"SectorCode":10,"SubSectorCode":5,"GSTIN":"GSTIN25485","InvestorSWSId":"128"}
+-----------------------------------------------------------
+Time: 31/03/2021 02:44:36 PM For RequestMethod: NSWSUserRegistration
+InputOutput: (Response)--- Status :- 0 OUTPUT JSON STRING:- {"Status":2,"SSOId":"E9CD2FE9-022A-4F9C-8289-3201D8254E6D","OutMessage":"Success"}
+-----------------------------------------------------------
+Time: 31/03/2021 06:44:39 PM For RequestMethod: NSWSUserRegistration
+InputOutput: (Request)--- PAN No :- HHHHH1234M.  -->>> INPUT JSON STRING :- {"SecurityKey":"6EE32F3E-9B14-4789-9DEF-0EC458F7EB28","PAN":"HHHHH1234M","ApplicantName":"SUSHANT KUMAR JENA","ApplicantAddress":"Level-6 Ocac Tower,Bhubaneswar","MobileNo":"9778065403","EmailId":"sushant.jena007@gmail.com","UnitName":"MAA MANGALA RICE MILL","InvestmentLevel":1,"SiteLocation":"Near Mancheswar","EinIemType":"EIN","EinIemNo":"EIN/254285/693df48t3re5","EinIemDoc":"http://server16/swp/Enclosure/124320210309104246PAN.pdf","DistrictCode":15,"BlockCode":8,"SectorCode":10,"SubSectorCode":5,"GSTIN":"GSTIN25485","InvestorSWSId":128}
+-----------------------------------------------------------
+Time: 31/03/2021 06:45:08 PM For RequestMethod: NSWSUserRegistration
+InputOutput: (Response)--- Status :- 0 OUTPUT JSON STRING:- {"Status":4,"SSOId":null,"OutMessage":"The investor sws id is already exists."}
+-----------------------------------------------------------
+Time: 31/03/2021 06:45:23 PM For RequestMethod: NSWSUserRegistration
+InputOutput: (Request)--- PAN No :- HHHHH1234M.  -->>> INPUT JSON STRING :- {"SecurityKey":"6EE32F3E-9B14-4789-9DEF-0EC458F7EB28","PAN":"HHHHH1234M","ApplicantName":"SUSHANT KUMAR JENA","ApplicantAddress":"Level-6 Ocac Tower,Bhubaneswar","MobileNo":"9778065403","EmailId":"sushant.jena007@gmail.com","UnitName":"MAA MANGALA RICE MILL","InvestmentLevel":1,"SiteLocation":"Near Mancheswar","EinIemType":"EIN","EinIemNo":"EIN/254285/693df48t3re5","EinIemDoc":"http://server16/swp/Enclosure/124320210309104246PAN.pdf","DistrictCode":15,"BlockCode":8,"SectorCode":10,"SubSectorCode":5,"GSTIN":"GSTIN25485","InvestorSWSId":129}
+-----------------------------------------------------------
+Time: 31/03/2021 06:45:38 PM For RequestMethod: NSWSUserRegistration
+InputOutput: (Response)--- Status :- 0 OUTPUT JSON STRING:- {"Status":5,"SSOId":null,"OutMessage":"The EIN/IEM number is already exists."}
+-----------------------------------------------------------
+Time: 31/03/2021 06:45:52 PM For RequestMethod: NSWSUserRegistration
+InputOutput: (Request)--- PAN No :- HHHHH1234M.  -->>> INPUT JSON STRING :- {"SecurityKey":"6EE32F3E-9B14-4789-9DEF-0EC458F7EB28","PAN":"HHHHH1234M","ApplicantName":"SUSHANT KUMAR JENA","ApplicantAddress":"Level-6 Ocac Tower,Bhubaneswar","MobileNo":"9778065403","EmailId":"sushant.jena007@gmail.com","UnitName":"MAA MANGALA RICE MILL","InvestmentLevel":1,"SiteLocation":"Near Mancheswar","EinIemType":"EIN","EinIemNo":"EIN/254285/693df48t3gjgfjre5","EinIemDoc":"http://server16/swp/Enclosure/124320210309104246PAN.pdf","DistrictCode":15,"BlockCode":8,"SectorCode":10,"SubSectorCode":5,"GSTIN":"GSTIN25485","InvestorSWSId":129}
+-----------------------------------------------------------
+Time: 31/03/2021 06:46:40 PM For RequestMethod: NSWSUserRegistration
+InputOutput: (Response)--- Status :- 0 OUTPUT JSON STRING:- {"Status":2,"SSOId":"1F8E4500-3BC7-421B-8D0E-C25FECCACB25","OutMessage":"Success"}
+-----------------------------------------------------------
+Time: 31/03/2021 06:49:05 PM For RequestMethod: NSWSUserRegistration
+InputOutput: (Request)--- PAN No :- HHHHH1234M.  -->>> INPUT JSON STRING :- {"SecurityKey":"6EE32F3E-9B14-4789-9DEF-0EC458F7EB28","PAN":"HHHHH1234M","ApplicantName":"SUSHANT KUMAR JENA","ApplicantAddress":"Level-6 Ocac Tower,Bhubaneswar","MobileNo":"9778065403","EmailId":"sushant.jena007@gmail.com","UnitName":"MAA MANGALA RICE MILL","InvestmentLevel":1,"SiteLocation":"Near Mancheswar","EinIemType":"EIN","EinIemNo":"EIN/254285/58745","EinIemDoc":"http://server16/swp/Enclosure/124320210309104246PAN.pdf","DistrictCode":15,"BlockCode":8,"SectorCode":10,"SubSectorCode":5,"GSTIN":"GSTIN25485","InvestorSWSId":130}
+-----------------------------------------------------------
+Time: 31/03/2021 06:49:12 PM For RequestMethod: NSWSUserRegistration
+InputOutput: (Response)--- Status :- 0 OUTPUT JSON STRING:- {"Status":2,"SSOId":"C82FC236-9BCD-43BF-AEB3-CE170D60091B","OutMessage":"Success"}
+-----------------------------------------------------------
+Time: 31/03/2021 06:53:56 PM For RequestMethod: NSWSUserRegistration
+InputOutput: (Request)--- PAN No :- HHHHH1234M.  -->>> INPUT JSON STRING :- {"SecurityKey":"6EE32F3E-9B14-4789-9DEF-0EC458F7EB28","PAN":"HHHHH1234M","ApplicantName":"SUSHANT KUMAR JENA","ApplicantAddress":"Level-6 Ocac Tower,Bhubaneswar","MobileNo":"9778065403","EmailId":"sushant.jena007@gmail.com","UnitName":"MAA MANGALA RICE MILL","InvestmentLevel":1,"SiteLocation":"Near Mancheswar","EinIemType":"EIN","EinIemNo":"EIN/254285/587452","EinIemDoc":"http://server16/swp/Enclosure/124320210309104246PAN.pdf","DistrictCode":15,"BlockCode":8,"SectorCode":10,"SubSectorCode":5,"GSTIN":"GSTIN25485","InvestorSWSId":131}
+-----------------------------------------------------------
+Time: 31/03/2021 06:53:59 PM For RequestMethod: NSWSUserRegistration
+InputOutput: (Response)--- Status :- 0 OUTPUT JSON STRING:- {"Status":2,"SSOId":"CEBD3857-F9BD-437A-B1E9-D71B73617D84","OutMessage":"Success"}
+-----------------------------------------------------------

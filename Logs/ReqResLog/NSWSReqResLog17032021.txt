@@ -1,0 +1,102 @@
+Time: 17/03/2021 09:49:13 AM For RequestMethod: NSWSUserRegistration
+InputOutput: (Request)--- PAN No :- MNMNM1234M.  -->>> INPUT JSON STRING :- {"SecurityKey":"6EE32F3E-9B14-4789-9DEF-0EC458F7EB28","PAN":"MNMNM1234M","ApplicantName":"SUSHANT KUMAR JENA","ApplicantAddress":"Level-6 Ocac Tower,Bhubaneswar","MobileNo":"9778065403","EmailId":"sushant.jena007@gmail.com","UnitName":"MAA MANGALA RICE MILL","InvestmentLevel":1,"SiteLocation":"Near Mancheswar","EinIemType":"EIN","EinIemNo":"EIN/25485/4444","EinIemDoc":"http://server16/swp/Enclosure/124320210309104246PAN.pdf","DistrictCode":15,"BlockCode":0,"SectorCode":10,"SubSectorCode":5,"GSTIN":"GSTIN25485","UserId":"NSWSUID_14","Pwd":"Password@2"}
+-----------------------------------------------------------
+Time: 17/03/2021 09:49:14 AM For RequestMethod: NSWSUserRegistration
+InputOutput: (Response)--- Status :- 1 OUTPUT JSON STRING:- {"Status":1,"SSOId":null,"GOSWIFTUserId":null,"OutMessage":"Block code should not be zero(0)."}
+-----------------------------------------------------------
+Time: 17/03/2021 09:49:44 AM For RequestMethod: NSWSUserRegistration
+InputOutput: (Request)--- PAN No :- MNMNM1234M.  -->>> INPUT JSON STRING :- {"SecurityKey":"6EE32F3E-9B14-4789-9DEF-0EC458F7EB28","PAN":"MNMNM1234M","ApplicantName":"SUSHANT KUMAR JENA","ApplicantAddress":"Level-6 Ocac Tower,Bhubaneswar","MobileNo":"9778065403","EmailId":"sushant.jena007@gmail.com","UnitName":"MAA MANGALA RICE MILL","InvestmentLevel":1,"SiteLocation":"Near Mancheswar","EinIemType":"EIN","EinIemNo":"EIN/25485/4444","EinIemDoc":"http://server16/swp/Enclosure/124320210309104246PAN.pdf","DistrictCode":15,"BlockCode":0,"SectorCode":10,"SubSectorCode":5,"GSTIN":"GSTIN25485","UserId":"NSWSUID_14","Pwd":"Password@2"}
+-----------------------------------------------------------
+Time: 17/03/2021 09:51:05 AM For RequestMethod: NSWSUserRegistration
+InputOutput: (Response)--- Status :- 1 OUTPUT JSON STRING:- {"Status":1,"SSOId":null,"GOSWIFTUserId":null,"OutMessage":"Block code should not be zero(0)."}
+-----------------------------------------------------------
+Time: 17/03/2021 10:06:13 AM For RequestMethod: NSWSUserRegistration
+InputOutput: (Request)--- PAN No :- MNMNM1234M.  -->>> INPUT JSON STRING :- {"SecurityKey":"6EE32F3E-9B14-4789-9DEF-0EC458F7EB28","PAN":"MNMNM1234M","ApplicantName":"SUSHANT KUMAR JENA","ApplicantAddress":"Level-6 Ocac Tower,Bhubaneswar","MobileNo":"9778065403","EmailId":"sushant.jena007@gmail.com","UnitName":"MAA MANGALA RICE MILL","InvestmentLevel":1,"SiteLocation":"Near Mancheswar","EinIemType":"EIN","EinIemNo":"EIN/25485/4444","EinIemDoc":"http://server16/swp/Enclosure/124320210309104246PAN.pdf","DistrictCode":15,"BlockCode":0,"SectorCode":10,"SubSectorCode":5,"GSTIN":"GSTIN25485","UserId":"NSWSUID_14","Pwd":"Password@2"}
+-----------------------------------------------------------
+Time: 17/03/2021 10:06:37 AM For RequestMethod: NSWSUserRegistration
+InputOutput: (Response)--- Status :- 1 OUTPUT JSON STRING:- {"Status":0,"SSOId":null,"GOSWIFTUserId":null,"OutMessage":"Some Error Occured.Please Contact Administrator."}
+-----------------------------------------------------------
+Time: 17/03/2021 10:12:31 AM For RequestMethod: NSWSUserRegistration
+InputOutput: (Request)--- PAN No :- MNMNM1234M.  -->>> INPUT JSON STRING :- {"SecurityKey":"6EE32F3E-9B14-4789-9DEF-0EC458F7EB28","PAN":"MNMNM1234M","ApplicantName":"SUSHANT KUMAR JENA","ApplicantAddress":"Level-6 Ocac Tower,Bhubaneswar","MobileNo":"9778065403","EmailId":"sushant.jena007@gmail.com","UnitName":"MAA MANGALA RICE MILL","InvestmentLevel":1,"SiteLocation":"Near Mancheswar","EinIemType":"EIN","EinIemNo":"EIN/25485/4444","EinIemDoc":"http://server16/swp/Enclosure/124320210309104246PAN.pdf","DistrictCode":15,"BlockCode":0,"SectorCode":10,"SubSectorCode":5,"GSTIN":"GSTIN25485","UserId":"NSWSUID_14","Pwd":"Password@2"}
+-----------------------------------------------------------
+Time: 17/03/2021 10:12:48 AM For RequestMethod: NSWSUserRegistration
+InputOutput: (Response)--- Status :- 1 OUTPUT JSON STRING:- {"Status":1,"SSOId":null,"GOSWIFTUserId":null,"OutMessage":"Block code should not be zero(0)."}
+-----------------------------------------------------------
+Time: 17/03/2021 10:13:10 AM For RequestMethod: NSWSUserRegistration
+InputOutput: (Request)--- PAN No :- MNMNM1234M.  -->>> INPUT JSON STRING :- {"SecurityKey":"6EE32F3E-9B14-4789-9DEF-0EC458F7EB28","PAN":"MNMNM1234M","ApplicantName":"SUSHANT KUMAR JENA","ApplicantAddress":"Level-6 Ocac Tower,Bhubaneswar","MobileNo":"9778065403","EmailId":"sushant.jena007@gmail.com","UnitName":"MAA MANGALA RICE MILL","InvestmentLevel":1,"SiteLocation":"Near Mancheswar","EinIemType":"EIN","EinIemNo":"EIN/25485/4444","EinIemDoc":"http://server16/swp/Enclosure/124320210309104246PAN.pdf","DistrictCode":15,"BlockCode":8,"SectorCode":10,"SubSectorCode":5,"GSTIN":"GSTIN25485","UserId":"NSWSUID_14","Pwd":"Password@2"}
+-----------------------------------------------------------
+Time: 17/03/2021 10:13:50 AM For RequestMethod: NSWSUserRegistration
+InputOutput: (Response)--- Status :- 0 OUTPUT JSON STRING:- {"Status":4,"SSOId":null,"GOSWIFTUserId":null,"OutMessage":"The user id is already exists."}
+-----------------------------------------------------------
+Time: 17/03/2021 10:19:48 AM For RequestMethod: NSWSUserRegistration
+InputOutput: (Request)--- PAN No :- MNMNM1234M.  -->>> INPUT JSON STRING :- {"SecurityKey":"6EE32F3E-9B14-4789-9DEF-0EC458F7EB28","PAN":"MNMNM1234M","ApplicantName":"SUSHANT KUMAR JENA","ApplicantAddress":"Level-6 Ocac Tower,Bhubaneswar","MobileNo":"9778065403","EmailId":"sushant.jena007@gmail.com","UnitName":"MAA MANGALA RICE MILL","InvestmentLevel":1,"SiteLocation":"Near Mancheswar","EinIemType":"EIN","EinIemNo":"EIN/25485/555","EinIemDoc":"http://server16/swp/Enclosure/124320210309104246PAN.pdf","DistrictCode":15,"BlockCode":8,"SectorCode":10,"SubSectorCode":5,"GSTIN":"GSTIN25485","UserId":"NSWSUID_15","Pwd":"Password@2"}
+-----------------------------------------------------------
+Time: 17/03/2021 10:20:36 AM For RequestMethod: NSWSUserRegistration
+InputOutput: (Response)--- Status :- 0 OUTPUT JSON STRING:- {"Status":2,"SSOId":"5ED8DF96-552A-48CD-B208-6FA8C450729B","GOSWIFTUserId":"MNMNM1234M_162004","OutMessage":"Success"}
+-----------------------------------------------------------
+Time: 17/03/2021 11:22:04 AM For RequestMethod: NSWSUserRegistration
+InputOutput: (Request)--- PAN No :- MNMNM1234M.  -->>> INPUT JSON STRING :- {"SecurityKey":"6EE32F3E-9B14-4789-9DEF-0EC458F7EB28","PAN":"MNMNM1234M","ApplicantName":"SUSHANT KUMAR JENA","ApplicantAddress":"Level-6 Ocac Tower,Bhubaneswar","MobileNo":"9778065403","EmailId":"sushant.jena007@gmail.com","UnitName":"MAA MANGALA RICE MILL","InvestmentLevel":1,"SiteLocation":"Near Mancheswar","EinIemType":"EIN","EinIemNo":"EIN/25485/555","EinIemDoc":"http://server16/swp/Enclosure/124320210309104246PAN.pdf","DistrictCode":15,"BlockCode":8,"SectorCode":10,"SubSectorCode":5,"GSTIN":"GSTIN25485","UserId":"NSWSUID_15","Pwd":"password2"}
+-----------------------------------------------------------
+Time: 17/03/2021 11:22:04 AM For RequestMethod: NSWSUserRegistration
+InputOutput: (Response)--- Status :- 1 OUTPUT JSON STRING:- {"Status":1,"SSOId":null,"GOSWIFTUserId":null,"OutMessage":"Invalid password format."}
+-----------------------------------------------------------
+Time: 17/03/2021 11:23:18 AM For RequestMethod: NSWSUserRegistration
+InputOutput: (Request)--- PAN No :- MNMNM1234M.  -->>> INPUT JSON STRING :- {"SecurityKey":"6EE32F3E-9B14-4789-9DEF-0EC458F7EB28","PAN":"MNMNM1234M","ApplicantName":"SUSHANT KUMAR JENA","ApplicantAddress":"Level-6 Ocac Tower,Bhubaneswar","MobileNo":"9778065403","EmailId":"sushant.jena007@gmail.com","UnitName":"MAA MANGALA RICE MILL","InvestmentLevel":1,"SiteLocation":"Near Mancheswar","EinIemType":"EIN","EinIemNo":"EIN/25485/555","EinIemDoc":"http://server16/swp/Enclosure/124320210309104246PAN1.pdf","DistrictCode":15,"BlockCode":8,"SectorCode":10,"SubSectorCode":5,"GSTIN":"GSTIN25485","UserId":"NSWSUID_15","Pwd":"Password@1"}
+-----------------------------------------------------------
+Time: 17/03/2021 11:23:18 AM For RequestMethod: NSWSUserRegistration
+InputOutput: (Response)--- Status :- 1 OUTPUT JSON STRING:- {"Status":1,"SSOId":null,"GOSWIFTUserId":null,"OutMessage":"No file found in remote server."}
+-----------------------------------------------------------
+Time: 17/03/2021 12:06:59 PM For RequestMethod: NSWSUserRegistration
+InputOutput: (Request)--- PAN No :- MNMNM1234M.  -->>> INPUT JSON STRING :- {"SecurityKey":"6EE32F3E-9B14-4789-9DEF-0EC458F7EB28","PAN":"MNMNM1234M","ApplicantName":"SUSHANT KUMAR JENA","ApplicantAddress":"Level-6 Ocac Tower,Bhubaneswar","MobileNo":"9778065403","EmailId":"sushant.jena007@gmail.com","UnitName":"MAA MANGALA RICE MILL","InvestmentLevel":1,"SiteLocation":"Near Mancheswar","EinIemType":"EIN","EinIemNo":"EIN/25485/555","EinIemDoc":"http://server16/swp/Enclosure/124320210309104246PAN1.pdf","DistrictCode":15,"BlockCode":8,"SectorCode":10,"SubSectorCode":5,"GSTIN":"GSTIN25485","UserId":"NSWSUID_15","Pwd":"Password@1"}
+-----------------------------------------------------------
+Time: 17/03/2021 12:06:59 PM For RequestMethod: NSWSUserRegistration
+InputOutput: (Response)--- Status :- 1 OUTPUT JSON STRING:- {"Status":1,"SSOId":null,"GOSWIFTUserId":null,"OutMessage":"No file found in remote server."}
+-----------------------------------------------------------
+Time: 17/03/2021 12:07:28 PM For RequestMethod: NSWSUserRegistration
+InputOutput: (Request)--- PAN No :- MNsMNM1234M.  -->>> INPUT JSON STRING :- {"SecurityKey":"6EE32F3E-9B14-4789-9DEF-0EC458F7EB28","PAN":"MNsMNM1234M","ApplicantName":"SUSHANT KUMAR JENA","ApplicantAddress":"Level-6 Ocac Tower,Bhubaneswar","MobileNo":"9778065403","EmailId":"sushant.jena007@gmail.com","UnitName":"MAA MANGALA RICE MILL","InvestmentLevel":1,"SiteLocation":"Near Mancheswar","EinIemType":"EIN","EinIemNo":"EIN/25485/555","EinIemDoc":"http://server16/swp/Enclosure/124320210309104246PAN1.pdf","DistrictCode":15,"BlockCode":8,"SectorCode":10,"SubSectorCode":5,"GSTIN":"GSTIN25485","UserId":"NSWSUID_15","Pwd":"Password@1"}
+-----------------------------------------------------------
+Time: 17/03/2021 12:07:42 PM For RequestMethod: NSWSUserRegistration
+InputOutput: (Response)--- Status :- 1 OUTPUT JSON STRING:- {"Status":1,"SSOId":null,"GOSWIFTUserId":null,"OutMessage":"Invalid PAN Number."}
+-----------------------------------------------------------
+Time: 17/03/2021 12:07:54 PM For RequestMethod: NSWSUserRegistration
+InputOutput: (Request)--- PAN No :- MNMNM1234M.  -->>> INPUT JSON STRING :- {"SecurityKey":"6EE32F3E-9B14-4789-9DEF-0EC458F7EB28","PAN":"MNMNM1234M","ApplicantName":"SUSHANT KUMAR JENA","ApplicantAddress":"Level-6 Ocac Tower,Bhubaneswar","MobileNo":"9778065403","EmailId":"sushant.jena007@gmail.com","UnitName":"MAA MANGALA RICE MILL","InvestmentLevel":1,"SiteLocation":"Near Mancheswar","EinIemType":"EIN","EinIemNo":"EIN/25485/555","EinIemDoc":"http://server16/swp/Enclosure/124320210309104246PAN1.pdf","DistrictCode":15,"BlockCode":8,"SectorCode":10,"SubSectorCode":5,"GSTIN":"GSTIN25485","UserId":"NSWSUID_15","Pwd":"Password@1"}
+-----------------------------------------------------------
+Time: 17/03/2021 12:08:03 PM For RequestMethod: NSWSUserRegistration
+InputOutput: (Response)--- Status :- 1 OUTPUT JSON STRING:- {"Status":1,"SSOId":null,"GOSWIFTUserId":null,"OutMessage":"No file found in remote server."}
+-----------------------------------------------------------
+Time: 17/03/2021 12:11:39 PM For RequestMethod: NSWSUserRegistration
+InputOutput: (Request)--- PAN No :- MNMNM12234M.  -->>> INPUT JSON STRING :- {"SecurityKey":"6EE32F3E-9B14-4789-9DEF-0EC458F7EB28","PAN":"MNMNM12234M","ApplicantName":"SUSHANT KUMAR JENA","ApplicantAddress":"Level-6 Ocac Tower,Bhubaneswar","MobileNo":"9778065403","EmailId":"sushant.jena007@gmail.com","UnitName":"MAA MANGALA RICE MILL","InvestmentLevel":1,"SiteLocation":"Near Mancheswar","EinIemType":"EIN","EinIemNo":"EIN/25485/555","EinIemDoc":"http://server16/swp/Enclosure/124320210309104246PAN1.pdf","DistrictCode":15,"BlockCode":8,"SectorCode":10,"SubSectorCode":5,"GSTIN":"GSTIN25485","UserId":"NSWSUID_15","Pwd":"Password@1"}
+-----------------------------------------------------------
+Time: 17/03/2021 12:11:52 PM For RequestMethod: NSWSUserRegistration
+InputOutput: (Response)--- Status :- 1 OUTPUT JSON STRING:- {"Status":1,"SSOId":null,"GOSWIFTUserId":null,"OutMessage":"Invalid PAN Number."}
+-----------------------------------------------------------
+Time: 17/03/2021 12:14:02 PM For RequestMethod: NSWSUserRegistration
+InputOutput: (Request)--- PAN No :- MNMNM1234M.  -->>> INPUT JSON STRING :- {"SecurityKey":"6EE32F3E-9B14-4789-9DEF-0EC458F7EB28","PAN":"MNMNM1234M","ApplicantName":"SUSHANT KUMAR JENA","ApplicantAddress":"Level-6 Ocac Tower,Bhubaneswar","MobileNo":"9778065403","EmailId":"sushant.jena007@gmail.com","UnitName":"MAA MANGALA RICE MILL","InvestmentLevel":1,"SiteLocation":"Near Mancheswar","EinIemType":"EIN","EinIemNo":"EIN/25485/555","EinIemDoc":"http://server16/swp/Enclosure/124320210309104246PAN1.pdf","DistrictCode":15,"BlockCode":8,"SectorCode":10,"SubSectorCode":5,"GSTIN":"GSTIN25485","UserId":"NSWSUID_15","Pwd":"Password@1"}
+-----------------------------------------------------------
+Time: 17/03/2021 12:14:19 PM For RequestMethod: NSWSUserRegistration
+InputOutput: (Response)--- Status :- 1 OUTPUT JSON STRING:- {"Status":1,"SSOId":null,"GOSWIFTUserId":null,"OutMessage":"No file found in remote server."}
+-----------------------------------------------------------
+Time: 17/03/2021 12:14:34 PM For RequestMethod: NSWSUserRegistration
+InputOutput: (Request)--- PAN No :- MNMNM1234M.  -->>> INPUT JSON STRING :- {"SecurityKey":"6EE32F3E-9B14-4789-9DEF-0EC458F7EB28","PAN":"MNMNM1234M","ApplicantName":"SUSHANT KUMAR JENA","ApplicantAddress":"Level-6 Ocac Tower,Bhubaneswar","MobileNo":"9778065403","EmailId":"sushant.jena007@gmail.com","UnitName":"MAA MANGALA RICE MILL","InvestmentLevel":1,"SiteLocation":"Near Mancheswar","EinIemType":"EIN","EinIemNo":"EIN/25485/555","EinIemDoc":"http://server16/swp/Enclosure/124320210309104246PAN.pdf","DistrictCode":15,"BlockCode":8,"SectorCode":10,"SubSectorCode":5,"GSTIN":"GSTIN25485","UserId":"NSWSUID_15","Pwd":"Password@1"}
+-----------------------------------------------------------
+Time: 17/03/2021 12:14:42 PM For RequestMethod: NSWSUserRegistration
+InputOutput: (Response)--- Status :- 0 OUTPUT JSON STRING:- {"Status":4,"SSOId":null,"GOSWIFTUserId":null,"OutMessage":"The user id is already exists."}
+-----------------------------------------------------------
+Time: 17/03/2021 12:30:44 PM For RequestMethod: NSWSUserRegistration
+InputOutput: (Request)--- PAN No :- HHHHH1234M.  -->>> INPUT JSON STRING :- {"SecurityKey":"6EE32F3E-9B14-4789-9DEF-0EC458F7EB28","PAN":"HHHHH1234M","ApplicantName":"SUSHANT KUMAR JENA","ApplicantAddress":"Level-6 Ocac Tower,Bhubaneswar","MobileNo":"9778065403","EmailId":"sushant.jena007@gmail.com","UnitName":"MAA MANGALA RICE MILL","InvestmentLevel":1,"SiteLocation":"Near Mancheswar","EinIemType":"EIN","EinIemNo":"EIN/25485/555","EinIemDoc":"http://server16/swp/Enclosure/124320210309104246PAN.pdf","DistrictCode":15,"BlockCode":8,"SectorCode":10,"SubSectorCode":5,"GSTIN":"GSTIN25485","UserId":"NSWSUID_H1","Pwd":"Password@1"}
+-----------------------------------------------------------
+Time: 17/03/2021 12:30:52 PM For RequestMethod: NSWSUserRegistration
+InputOutput: (Response)--- Status :- 0 OUTPUT JSON STRING:- {"Status":5,"SSOId":null,"GOSWIFTUserId":null,"OutMessage":"The EIN/IEM number is already exists."}
+-----------------------------------------------------------
+Time: 17/03/2021 12:31:22 PM For RequestMethod: NSWSUserRegistration
+InputOutput: (Request)--- PAN No :- HHHHH1234M.  -->>> INPUT JSON STRING :- {"SecurityKey":"6EE32F3E-9B14-4789-9DEF-0EC458F7EB28","PAN":"HHHHH1234M","ApplicantName":"SUSHANT KUMAR JENA","ApplicantAddress":"Level-6 Ocac Tower,Bhubaneswar","MobileNo":"9778065403","EmailId":"sushant.jena007@gmail.com","UnitName":"MAA MANGALA RICE MILL","InvestmentLevel":1,"SiteLocation":"Near Mancheswar","EinIemType":"EIN","EinIemNo":"EIN/25485/6985","EinIemDoc":"http://server16/swp/Enclosure/124320210309104246PAN.pdf","DistrictCode":15,"BlockCode":8,"SectorCode":10,"SubSectorCode":5,"GSTIN":"GSTIN25485","UserId":"NSWSUID_H1","Pwd":"Password@1"}
+-----------------------------------------------------------
+Time: 17/03/2021 12:32:14 PM For RequestMethod: NSWSUserRegistration
+InputOutput: (Response)--- Status :- 0 OUTPUT JSON STRING:- {"Status":2,"SSOId":"2291078F-FB48-4459-8F30-A5BB899ACAD4","GOSWIFTUserId":"HHHHH1234M_394000","OutMessage":"Success"}
+-----------------------------------------------------------
+Time: 17/03/2021 12:33:28 PM For RequestMethod: NSWSUserRegistration
+InputOutput: (Request)--- PAN No :- HHHHH1234M.  -->>> INPUT JSON STRING :- {"SecurityKey":"6EE32F3E-9B14-4789-9DEF-0EC458F7EB28","PAN":"HHHHH1234M","ApplicantName":"SUSHANT KUMAR JENA","ApplicantAddress":"Level-6 Ocac Tower,Bhubaneswar","MobileNo":"9778065403","EmailId":"sushant.jena007@gmail.com","UnitName":"MAA MANGALA RICE MILL","InvestmentLevel":1,"SiteLocation":"Near Mancheswar","EinIemType":"EIN","EinIemNo":"EIN/25485/69485","EinIemDoc":"http://server16/swp/Enclosure/124320210309104246PAN.pdf","DistrictCode":15,"BlockCode":8,"SectorCode":10,"SubSectorCode":5,"GSTIN":"GSTIN25485","UserId":"NSWSUID_H2","Pwd":"Password@1"}
+-----------------------------------------------------------
+Time: 17/03/2021 12:33:34 PM For RequestMethod: NSWSUserRegistration
+InputOutput: (Response)--- Status :- 0 OUTPUT JSON STRING:- {"Status":2,"SSOId":"5A100A38-6648-43C7-A21E-1F6366EFAB6B","GOSWIFTUserId":"HHHHH1234M_773001","OutMessage":"Success"}
+-----------------------------------------------------------

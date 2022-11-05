@@ -1,0 +1,30 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Web;
+using System.ServiceModel;
+using TradeLicenceServiceReference;
+using System.ServiceModel.Web;
+
+/// <summary>
+/// Summary description for TradeCheckStatus
+/// </summary>
+
+namespace BusinessLogicLayer.TradeCheckStatusBal
+{
+    [ServiceContract]
+    public interface ITradeCheckStatus
+    {
+        #region "Check Status of Application no"
+        /// <summary>
+        /// Created By Pranay Kumar on 08-Sept-2017 for Fetch User Profile Details For Establish Under Water Act
+        /// </summary>
+        /// <param name="objUser"></param>
+        /// <returns></returns>
+        [OperationContract]
+       
+        TradeLicenseCheckStatusEntity SearchStatus(TradeInput objinpt);
+        #endregion
+
+    }
+}

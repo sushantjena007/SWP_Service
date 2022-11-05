@@ -1,0 +1,80 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Web;
+using TradeLicenceServiceReference;
+using Microsoft.Web.Services3.Design;
+using Microsoft.Web.Services3;
+using System.ServiceModel.Web;
+
+/// <summary>
+/// Summary description for TradeCheckStatus
+/// </summary>
+namespace BusinessLogicLayer.TradeCheckStatusBal
+{
+    public class TradeCheckStatus : ITradeCheckStatus
+    {
+
+        [WebInvoke(Method = "POST", ResponseFormat = WebMessageFormat.Json, UriTemplate = "SearchStatus")]
+        public TradeLicenseCheckStatusEntity SearchStatus(TradeInput objinpt)
+        {
+
+            TradeLicenseCheckStatusEntity obj = new TradeLicenseCheckStatusEntity();
+
+            Tl001LicenceDetailsVO Proptl001LicenceDetailsVO = null;
+
+            Tl001LicenceDetailsVO[] chldDets = null;
+            List<Tl001LicenceDetailsVO> li = new List<Tl001LicenceDetailsVO>();
+
+            Proptl001LicenceDetailsVO = new Tl001LicenceDetailsVO();
+
+
+            Proptl001LicenceDetailsVO.applicationNo = objinpt.applicationNo;
+            Proptl001LicenceDetailsVO.ulbCode = objinpt.UlbCode;
+            Proptl001LicenceDetailsVO.correctionRemark = "NO_WEBSERVICE_ABM";
+            chldDets = childDetails(Proptl001LicenceDetailsVO);
+            obj.applicationstatus = chldDets[0].applicationStatus;
+            obj.applicationstatusId = chldDets[0].applicationStatusCode;
+
+            return obj;
+
+
+
+        }
+        public Tl001LicenceDetailsVO[] childDetails(Tl001LicenceDetailsVO objSearch)
+        {
+            Tl002TradeLicenceServiceWse brthService = null;
+            //Bd004BirthPaymentDetailsVO birthPayment = null; //newly added
+
+            searchLicenceWs searchDet = null;
+            Tl001LicenceDetailsVO chldDets = null;
+            Tl002TraderDetailsVO objTl002TraderDetailsVO = new Tl002TraderDetailsVO();
+            searchLicenceWs serchws = new searchLicenceWs();
+            searchLicenceWsResponse searchRes = null;
+            CustomSecurityAssertion objAss = null;
+            Policy objPol = null;
+            string digitalSignURL = "https://117.240.239.41/";// Databases.DigitalSignURLTCS;
+            objSearch.id = 1;
+            objTl002TraderDetailsVO.id = 1;
+            brthService = new Tl002TradeLicenceServiceWse();
+            brthService.Url = digitalSignURL + "eMunicipality-ws/services/Tl002TradeLicenceService";
+            SoapContext Cntxt = brthService.RequestSoapContext;
+            System.Net.ServicePointManager.CertificatePolicy = new TrustAllCertificatePolicy();
+            objAss = new CustomSecurityAssertion();
+            objPol = new Policy();
+            objPol.Assertions.Add(objAss);
+            brthService.SetPolicy(objPol);
+            searchDet = new searchLicenceWs();
+            searchDet.LicenceVo = objSearch;
+            searchDet.traderVo = objTl002TraderDetailsVO;
+            searchRes = brthService.searchLicenceWs(searchDet);
+            Tl001LicenceDetailsVO[] tl001LicenceDetailsVO1 = searchRes.searchLicenceWsReturn;
+
+            //birthPayment=(Bd004BirthPaymentDetailsVO)  birthPayment;
+
+
+            return tl001LicenceDetailsVO1;
+
+        }
+    }
+}

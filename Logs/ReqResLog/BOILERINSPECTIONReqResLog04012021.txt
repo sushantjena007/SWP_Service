@@ -1,0 +1,66 @@
+Time: 04/01/2021 01:26:18 PM For RequestMethod: FetchPaymentDetails
+InputOutput: (Request)---Application No :- 1234 Security Key:- 
+-----------------------------------------------------------
+Time: 04/01/2021 01:26:25 PM For RequestMethod: FetchPaymentDetails
+InputOutput: (Response)--- Status :- 1 OutputString:- {"ApplicationNo":"","PaymentDate":"","ChallanAmount":"0","BankTransId":"","ChallanRefId":"","Status":"1","OutMessage":"Security key hould not be blank."}
+-----------------------------------------------------------
+Time: 04/01/2021 01:27:02 PM For RequestMethod: FetchPaymentDetails
+InputOutput: (Request)---Application No :- 1234 Security Key:- 03520A0F-9A11-46AC-855B-65C5864B4B31
+-----------------------------------------------------------
+Time: 04/01/2021 01:27:28 PM For RequestMethod: FetchPaymentDetails
+InputOutput: (Response)--- Status :- 0 OutputString:- {"ApplicationNo":null,"PaymentDate":null,"ChallanAmount":null,"BankTransId":null,"ChallanRefId":null,"Status":null,"OutMessage":null}
+-----------------------------------------------------------
+Time: 04/01/2021 01:28:27 PM For RequestMethod: FetchPaymentDetails
+InputOutput: (Request)---Application No :- 201709096 Security Key:- 03520A0F-9A11-46AC-855B-65C5864B4B31
+-----------------------------------------------------------
+Time: 04/01/2021 01:28:34 PM For RequestMethod: FetchPaymentDetails
+InputOutput: (Response)--- Status :- 0 OutputString:- {"ApplicationNo":null,"PaymentDate":null,"ChallanAmount":null,"BankTransId":null,"ChallanRefId":null,"Status":null,"OutMessage":null}
+-----------------------------------------------------------
+Time: 04/01/2021 01:28:52 PM For RequestMethod: FetchPaymentDetails
+InputOutput: (Request)---Application No :- 201710396 Security Key:- 03520A0F-9A11-46AC-855B-65C5864B4B31
+-----------------------------------------------------------
+Time: 04/01/2021 01:28:58 PM For RequestMethod: FetchPaymentDetails
+InputOutput: (Response)--- Status :- 0 OutputString:- {"ApplicationNo":null,"PaymentDate":null,"ChallanAmount":null,"BankTransId":null,"ChallanRefId":null,"Status":null,"OutMessage":null}
+-----------------------------------------------------------
+Time: 04/01/2021 01:30:17 PM For RequestMethod: FetchPaymentDetails
+InputOutput: (Request)---Application No :- 2018032136000001 Security Key:- 03520A0F-9A11-46AC-855B-65C5864B4B31
+-----------------------------------------------------------
+Time: 04/01/2021 01:33:09 PM For RequestMethod: FetchPaymentDetails
+InputOutput: (Request)---Application No :- 2018032136000001 Security Key:- 03520A0F-9A11-46AC-855B-65C5864B4B31
+-----------------------------------------------------------
+Time: 04/01/2021 01:33:58 PM For RequestMethod: FetchPaymentDetails
+InputOutput: (Request)---Application No :- 2018032136000001 Security Key:- 03520A0F-9A11-46AC-855B-65C5864B4B31
+-----------------------------------------------------------
+Time: 04/01/2021 01:34:21 PM For RequestMethod: FetchPaymentDetails
+InputOutput: (Response)--- Status :- 0 OutputString:- {"ApplicationNo":null,"PaymentDate":null,"ChallanAmount":null,"BankTransId":null,"ChallanRefId":null,"Status":null,"OutMessage":null}
+-----------------------------------------------------------
+Time: 04/01/2021 04:04:20 PM For RequestMethod: FetchPaymentDetails
+InputOutput: (Request)---Application No :- 2018032136000001 Security Key:- 03520A0F-9A11-46AC-855B-65C5864B4B31
+-----------------------------------------------------------
+Time: 04/01/2021 04:04:20 PM For RequestMethod: FetchPaymentDetails
+InputOutput: (Response)--- Status :- 0 OutputString:- {"ApplicationNo":null,"PaymentDate":null,"ChallanAmount":null,"BankTransId":null,"ChallanRefId":null,"Status":null,"OutMessage":null}
+-----------------------------------------------------------
+Time: 04/01/2021 04:44:58 PM For RequestMethod: ApplicationStatusUpdate
+InputOutput: (Request)---Application No :- 2018032136000001 Security Key:- 03520A0F-9A11-46AC-855B-65C5864B4B31
+-----------------------------------------------------------
+Time: 04/01/2021 04:45:21 PM For RequestMethod: ApplicationStatusUpdate
+InputOutput: (Request)---Application No :- 2018032136000001 Security Key:- 03520A0F-9A11-46AC-855B-65C5864B4B31
+-----------------------------------------------------------
+Time: 04/01/2021 04:45:59 PM For RequestMethod: ApplicationStatusUpdate
+InputOutput: (Request)---Application No :- 2018032136000001 Security Key:- 03520A0F-9A11-46AC-855B-65C5864B4B31
+-----------------------------------------------------------
+Time: 04/01/2021 04:48:49 PM For RequestMethod: ApplicationStatusUpdate
+InputOutput: (Request)---Application No :- 2018032136000001 Security Key:- 03520A0F-9A11-46AC-855B-65C5864B4B31
+-----------------------------------------------------------
+Time: 04/01/2021 04:51:34 PM For RequestMethod: ApplicationStatusUpdate
+InputOutput: (Request)---Application No :- 2018032136000001 Security Key:- 03520A0F-9A11-46AC-855B-65C5864B4B31
+-----------------------------------------------------------
+Time: 04/01/2021 04:52:43 PM For RequestMethod: ApplicationStatusUpdate
+InputOutput: (Request)---Application No :- 2018032136000001 Security Key:- 03520A0F-9A11-46AC-855B-65C5864B4B31
+-----------------------------------------------------------
+Time: 04/01/2021 04:53:12 PM For RequestMethod: ApplicationStatusUpdate
+InputOutput: (Request)---Application No :- 2018032136000001 Security Key:- 03520A0F-9A11-46AC-855B-65C5864B4B31
+-----------------------------------------------------------
+Time: 04/01/2021 04:54:39 PM For RequestMethod: ApplicationStatusUpdate
+InputOutput: (Request)---Application No :- 2018032136000001 Security Key:- 03520A0F-9A11-46AC-855B-65C5864B4B31
+-----------------------------------------------------------

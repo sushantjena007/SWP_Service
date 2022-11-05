@@ -1,0 +1,12 @@
+Time: 11/04/2021 10:08:56 AM For RequestMethod: NSWSUserRegistration
+InputOutput: (Request)--- PAN No :- AAABB1234M.  -->>> INPUT JSON STRING :- {"SecurityKey":"6EE32F3E-9B14-4789-9DEF-0EC458F7EB28","PAN":"AAABB1234M","ApplicantName":"SUSHANT KUMAR JENA","ApplicantAddress":"Level-6 Ocac Tower,Bhubaneswar","MobileNo":"9778065403","EmailId":"sushant.jena007@gmail.com","UnitName":"CSM TECH PVT LTD","InvestmentLevel":1,"SiteLocation":"Near Mancheswar","EinIemType":"EIN","EinIemNo":"EIN/147585/141433133334","EinIemDoc":"http://server16/swp/Enclosure/124320210309104246PAN1.pdf","DistrictCode":15,"BlockCode":10,"SectorCode":10,"SubSectorCode":5,"GSTIN":"GSTIN25485","InvestorSWSId":1250}
+-----------------------------------------------------------
+Time: 11/04/2021 10:08:57 AM For RequestMethod: NSWSUserRegistration
+InputOutput: (Response)--- Input Validity Status :- 0 OUTPUT JSON STRING:- {"Status":5,"SSOId":null,"OutMessage":"The EIN/IEM number is already exists."}
+-----------------------------------------------------------
+Time: 11/04/2021 10:12:51 AM For RequestMethod: NSWSUserRegistration
+InputOutput: (Request)--- PAN No :- AAABB1234M.  -->>> INPUT JSON STRING :- {"SecurityKey":"6EE32F3E-9B14-4789-9DEF-0EC458F7EB28","PAN":"AAABB1234M","ApplicantName":"SUSHANT KUMAR JENA","ApplicantAddress":"Level-6 Ocac Tower,Bhubaneswar","MobileNo":"9778065403","EmailId":"sushant.jena007@gmail.com","UnitName":"CSM TECH PVT LTD","InvestmentLevel":1,"SiteLocation":"Near Mancheswar","EinIemType":"EIN","EinIemNo":"EIN/147585/141433133334","EinIemDoc":"http://server16/swp/Enclosure/124320210309104246PAN1.pdf","DistrictCode":15,"BlockCode":10,"SectorCode":10,"SubSectorCode":5,"GSTIN":"GSTIN25485","InvestorSWSId":1250}
+-----------------------------------------------------------
+Time: 11/04/2021 10:13:27 AM For RequestMethod: NSWSUserRegistration
+InputOutput: (Response)--- Input Validity Status :- 0 OUTPUT JSON STRING:- {"Status":5,"SSOId":null,"OutMessage":"The EIN/IEM number is already exists."}
+-----------------------------------------------------------

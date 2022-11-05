@@ -1,0 +1,150 @@
+Time: 15/03/2021 12:45:31 PM For RequestMethod: NSWSUserRegistration
+InputOutput: (Request)---PAn No :- MNMNM1234M Security Key:- 6EE32F3E-9B14-4789-9DEF-0EC458F7EB28
+-----------------------------------------------------------
+Time: 15/03/2021 12:46:05 PM For RequestMethod: NSWSUserRegistration
+InputOutput: (Response)--- Status :- 0 OutputString:- {"Status":4,"SSOId":null,"OutMessage":"The user id provided by you is already exists."}
+-----------------------------------------------------------
+Time: 15/03/2021 12:46:24 PM For RequestMethod: NSWSUserRegistration
+InputOutput: (Request)---PAn No :- MNMNM1234M Security Key:- 6EE32F3E-9B14-4789-9DEF-0EC458F7EB28
+-----------------------------------------------------------
+Time: 15/03/2021 12:46:34 PM For RequestMethod: NSWSUserRegistration
+InputOutput: (Response)--- Status :- 0 OutputString:- {"Status":5,"SSOId":null,"OutMessage":"The EIN/IEM number provided by you is already exists"}
+-----------------------------------------------------------
+Time: 15/03/2021 12:46:44 PM For RequestMethod: NSWSUserRegistration
+InputOutput: (Request)---PAn No :- MNMNM1234M Security Key:- 6EE32F3E-9B14-4789-9DEF-0EC458F7EB28
+-----------------------------------------------------------
+Time: 15/03/2021 12:49:34 PM For RequestMethod: NSWSUserRegistration
+InputOutput: (Request)---PAn No :- MNMNM1234M Security Key:- 6EE32F3E-9B14-4789-9DEF-0EC458F7EB28
+-----------------------------------------------------------
+Time: 15/03/2021 12:49:58 PM For RequestMethod: NSWSUserRegistration
+InputOutput: (Response)--- Status :- 0 OutputString:- {"Status":0,"SSOId":null,"OutMessage":"Some Error Occured.Please Contact Administrator."}
+-----------------------------------------------------------
+Time: 15/03/2021 12:50:50 PM For RequestMethod: NSWSUserRegistration
+InputOutput: (Request)---PAn No :- MNMNM1234M Security Key:- 6EE32F3E-9B14-4789-9DEF-0EC458F7EB28
+-----------------------------------------------------------
+Time: 15/03/2021 12:52:33 PM For RequestMethod: NSWSUserRegistration
+InputOutput: (Response)--- Status :- 0 OutputString:- {"Status":0,"SSOId":null,"OutMessage":"Some Error Occured.Please Contact Administrator."}
+-----------------------------------------------------------
+Time: 15/03/2021 12:52:52 PM For RequestMethod: NSWSUserRegistration
+InputOutput: (Request)---PAn No :- MNMNM1234M Security Key:- 6EE32F3E-9B14-4789-9DEF-0EC458F7EB28
+-----------------------------------------------------------
+Time: 15/03/2021 12:58:39 PM For RequestMethod: NSWSUserRegistration
+InputOutput: (Response)--- Status :- 0 OutputString:- {"Status":2,"SSOId":null,"OutMessage":"Success"}
+-----------------------------------------------------------
+Time: 15/03/2021 12:59:06 PM For RequestMethod: NSWSUserRegistration
+InputOutput: (Request)---PAn No :- MNMNM1234M Security Key:- 6EE32F3E-9B14-4789-9DEF-0EC458F7EB28
+-----------------------------------------------------------
+Time: 15/03/2021 01:17:04 PM For RequestMethod: NSWSUserRegistration
+InputOutput: (Response)--- Status :- 0 OutputString:- {"Status":2,"SSOId":null,"OutMessage":"Success"}
+-----------------------------------------------------------
+Time: 15/03/2021 03:32:03 PM For RequestMethod: NSWSUserRegistration
+InputOutput: (Request)---PAn No :- MNMNM1234M Security Key:- 6EE32F3E-9B14-4789-9DEF-0EC458F7EB28
+-----------------------------------------------------------
+Time: 15/03/2021 03:32:06 PM For RequestMethod: NSWSUserRegistration
+InputOutput: (Response)--- Status :- 0 OutputString:- {"Status":0,"SSOId":null,"OutMessage":null}
+-----------------------------------------------------------
+Time: 15/03/2021 03:32:40 PM For RequestMethod: NSWSUserRegistration
+InputOutput: (Request)---PAn No :- MNMNM1234M Security Key:- 6EE32F3E-9B14-4789-9DEF-0EC458F7EB28
+-----------------------------------------------------------
+Time: 15/03/2021 03:32:57 PM For RequestMethod: NSWSUserRegistration
+InputOutput: (Response)--- Status :- 0 OutputString:- {"Status":0,"SSOId":null,"OutMessage":null}
+-----------------------------------------------------------
+Time: 15/03/2021 03:34:46 PM For RequestMethod: NSWSUserRegistration
+InputOutput: (Request)---PAn No :- MNMNM1234M Security Key:- 6EE32F3E-9B14-4789-9DEF-0EC458F7EB28
+-----------------------------------------------------------
+Time: 15/03/2021 03:34:58 PM For RequestMethod: NSWSUserRegistration
+InputOutput: (Response)--- Status :- 0 OutputString:- {"Status":4,"SSOId":null,"OutMessage":"The user id provided by you is already exists."}
+-----------------------------------------------------------
+Time: 15/03/2021 03:35:27 PM For RequestMethod: NSWSUserRegistration
+InputOutput: (Request)---PAn No :- MNMNM1234M Security Key:- 6EE32F3E-9B14-4789-9DEF-0EC458F7EB28
+-----------------------------------------------------------
+Time: 15/03/2021 03:35:48 PM For RequestMethod: NSWSUserRegistration
+InputOutput: (Response)--- Status :- 0 OutputString:- {"Status":0,"SSOId":null,"OutMessage":"Some Error Occured.Please Contact Administrator."}
+-----------------------------------------------------------
+Time: 15/03/2021 03:36:32 PM For RequestMethod: NSWSUserRegistration
+InputOutput: (Request)---PAn No :- MNMNM1234M Security Key:- 6EE32F3E-9B14-4789-9DEF-0EC458F7EB28
+-----------------------------------------------------------
+Time: 15/03/2021 04:07:34 PM For RequestMethod: NSWSUserRegistration
+InputOutput: (Request)---PAn No :- MNMNM1234M Security Key:- 6EE32F3E-9B14-4789-9DEF-0EC458F7EB28
+-----------------------------------------------------------
+Time: 15/03/2021 04:07:35 PM For RequestMethod: NSWSUserRegistration
+InputOutput: (Response)--- Status :- 0 OutputString:- {"Status":4,"SSOId":null,"OutMessage":"The user id provided by you is already exists."}
+-----------------------------------------------------------
+Time: 15/03/2021 04:09:53 PM For RequestMethod: NSWSUserRegistration
+InputOutput: (Request)---PAn No :- MNMNM1234M Security Key:- 6EE32F3E-9B14-4789-9DEF-0EC458F7EB28
+-----------------------------------------------------------
+Time: 15/03/2021 04:09:53 PM For RequestMethod: NSWSUserRegistration
+InputOutput: (Response)--- Status :- 0 OutputString:- {"Status":4,"SSOId":null,"OutMessage":"The user id provided by you is already exists."}
+-----------------------------------------------------------
+Time: 15/03/2021 04:20:42 PM For RequestMethod: NSWSUserRegistration
+InputOutput: (Request)---PAn No :- MNMNM1234M Security Key:- 6EE32F3E-9B14-4789-9DEF-0EC458F7EB28
+-----------------------------------------------------------
+Time: 15/03/2021 04:20:43 PM For RequestMethod: NSWSUserRegistration
+InputOutput: (Response)--- Status :- 0 OutputString:- {"Status":5,"SSOId":null,"OutMessage":"The EIN/IEM number provided by you is already exists"}
+-----------------------------------------------------------
+Time: 15/03/2021 04:21:39 PM For RequestMethod: NSWSUserRegistration
+InputOutput: (Request)---PAn No :- MNMNM1234M Security Key:- 6EE32F3E-9B14-4789-9DEF-0EC458F7EB28
+-----------------------------------------------------------
+Time: 15/03/2021 04:21:54 PM For RequestMethod: NSWSUserRegistration
+InputOutput: (Response)--- Status :- 0 OutputString:- {"Status":5,"SSOId":null,"OutMessage":"The EIN/IEM number provided by you is already exists"}
+-----------------------------------------------------------
+Time: 15/03/2021 04:22:04 PM For RequestMethod: NSWSUserRegistration
+InputOutput: (Request)---PAn No :- MNMNM1234M Security Key:- 6EE32F3E-9B14-4789-9DEF-0EC458F7EB28
+-----------------------------------------------------------
+Time: 15/03/2021 04:24:39 PM For RequestMethod: NSWSUserRegistration
+InputOutput: (Response)--- Status :- 0 OutputString:- {"Status":0,"SSOId":null,"OutMessage":null}
+-----------------------------------------------------------
+Time: 15/03/2021 04:25:20 PM For RequestMethod: NSWSUserRegistration
+InputOutput: (Request)---PAn No :- MNMNM1234M Security Key:- 6EE32F3E-9B14-4789-9DEF-0EC458F7EB28
+-----------------------------------------------------------
+Time: 15/03/2021 04:25:53 PM For RequestMethod: NSWSUserRegistration
+InputOutput: (Response)--- Status :- 0 OutputString:- {"Status":2,"SSOId":"DEB9EA33-110E-442C-AFF1-9393B3A29061","OutMessage":"Success"}
+-----------------------------------------------------------
+Time: 15/03/2021 04:50:45 PM For RequestMethod: NSWSUserRegistration
+InputOutput: (Request)---PAN No :- MNMNM1234M Security Key:- 6EE32F3E-9B14-4789-9DEF-0EC458F7EB28
+-----------------------------------------------------------
+Time: 15/03/2021 04:50:49 PM For RequestMethod: NSWSUserRegistration
+InputOutput: (Response)--- Status :- 0 OutputString:- {"Status":4,"SSOId":null,"OutMessage":"The user id provided by you is already exists."}
+-----------------------------------------------------------
+Time: 15/03/2021 04:52:28 PM For RequestMethod: NSWSUserRegistration
+InputOutput: (Request)---PAN No :- MNMNM1234M Security Key:- 6EE32F3E-9B14-4789-9DEF-0EC458F7EB28
+-----------------------------------------------------------
+Time: 15/03/2021 04:52:44 PM For RequestMethod: NSWSUserRegistration
+InputOutput: (Response)--- Status :- 0 OutputString:- {"Status":4,"SSOId":null,"OutMessage":"The user id provided by you is already exists."}
+-----------------------------------------------------------
+Time: 15/03/2021 04:53:35 PM For RequestMethod: NSWSUserRegistration
+InputOutput: (Request)---PAN No :- MNMNM1234M Security Key:- 6EE32F3E-9B14-4789-9DEF-0EC458F7EB28
+-----------------------------------------------------------
+Time: 15/03/2021 04:53:35 PM For RequestMethod: NSWSUserRegistration
+InputOutput: (Response)--- Status :- 0 OutputString:- {"Status":4,"SSOId":null,"OutMessage":"The user id provided by you is already exists."}
+-----------------------------------------------------------
+Time: 15/03/2021 04:56:05 PM For RequestMethod: NSWSUserRegistration
+InputOutput: (Request)---PAN No :- MNMNM1234M Security Key:- 6EE32F3E-9B14-4789-9DEF-0EC458F7EB28
+-----------------------------------------------------------
+Time: 15/03/2021 04:56:16 PM For RequestMethod: NSWSUserRegistration
+InputOutput: (Response)--- Status :- 0 OutputString:- {"Status":4,"SSOId":null,"OutMessage":"The user id provided by you is already exists."}
+-----------------------------------------------------------
+Time: 15/03/2021 04:57:40 PM For RequestMethod: NSWSUserRegistration
+InputOutput: (Request)---PAN No :- MNMNM1234M JSON STRING:- {"SecurityKey":"6EE32F3E-9B14-4789-9DEF-0EC458F7EB28","PAN":"MNMNM1234M","ApplicantName":"SUSHANT KUMAR JENA","ApplicantAddress":"Level-6 Ocac Tower,Bhubaneswar","MobileNo":"9778065403","EmailId":"sushant.jena007@gmail.com","UnitName":"MAA MANGALA RICE MILL","InvestmentLevel":1,"SiteLocation":"Near Mancheswar","EinIemType":"EIN","EinIemNo":"EIN/25485/2222","EinIemDoc":"http://nsws/ein.pdf","DistrictCode":15,"BlockCode":0,"SectorCode":10,"SubSectorCode":5,"GSTIN":"GSTIN25485","UserId":"NSWSUID_12","Pwd":"Password@1"}
+-----------------------------------------------------------
+Time: 15/03/2021 04:58:25 PM For RequestMethod: NSWSUserRegistration
+InputOutput: (Response)--- Status :- 0 OutputString:- {"Status":4,"SSOId":null,"OutMessage":"The user id provided by you is already exists."}
+-----------------------------------------------------------
+Time: 15/03/2021 04:58:41 PM For RequestMethod: NSWSUserRegistration
+InputOutput: (Request)---PAN No :- MNMNM1234M.  -->>> JSON STRING:- {"SecurityKey":"6EE32F3E-9B14-4789-9DEF-0EC458F7EB28","PAN":"MNMNM1234M","ApplicantName":"SUSHANT KUMAR JENA","ApplicantAddress":"Level-6 Ocac Tower,Bhubaneswar","MobileNo":"9778065403","EmailId":"sushant.jena007@gmail.com","UnitName":"MAA MANGALA RICE MILL","InvestmentLevel":1,"SiteLocation":"Near Mancheswar","EinIemType":"EIN","EinIemNo":"EIN/25485/2222","EinIemDoc":"http://nsws/ein.pdf","DistrictCode":15,"BlockCode":0,"SectorCode":10,"SubSectorCode":5,"GSTIN":"GSTIN25485","UserId":"NSWSUID_12","Pwd":"Password@1"}
+-----------------------------------------------------------
+Time: 15/03/2021 04:58:53 PM For RequestMethod: NSWSUserRegistration
+InputOutput: (Response)--- Status :- 0 OutputString:- {"Status":4,"SSOId":null,"OutMessage":"The user id provided by you is already exists."}
+-----------------------------------------------------------
+Time: 15/03/2021 05:00:26 PM For RequestMethod: NSWSUserRegistration
+InputOutput: (Request)--- PAN No :- MNMNM1234M.  -->>> INPUT JSON STRING :- {"SecurityKey":"6EE32F3E-9B14-4789-9DEF-0EC458F7EB28","PAN":"MNMNM1234M","ApplicantName":"SUSHANT KUMAR JENA","ApplicantAddress":"Level-6 Ocac Tower,Bhubaneswar","MobileNo":"9778065403","EmailId":"sushant.jena007@gmail.com","UnitName":"MAA MANGALA RICE MILL","InvestmentLevel":1,"SiteLocation":"Near Mancheswar","EinIemType":"EIN","EinIemNo":"EIN/25485/2222","EinIemDoc":"http://nsws/ein.pdf","DistrictCode":15,"BlockCode":0,"SectorCode":10,"SubSectorCode":5,"GSTIN":"GSTIN25485","UserId":"NSWSUID_12","Pwd":"Password@1"}
+-----------------------------------------------------------
+Time: 15/03/2021 05:00:28 PM For RequestMethod: NSWSUserRegistration
+InputOutput: (Response)--- Status :- 0 OutputString:- {"Status":4,"SSOId":null,"OutMessage":"The user id provided by you is already exists."}
+-----------------------------------------------------------
+Time: 15/03/2021 05:04:02 PM For RequestMethod: NSWSUserRegistration
+InputOutput: (Request)--- PAN No :- MNMNM1234M.  -->>> INPUT JSON STRING :- {"SecurityKey":"6EE32F3E-9B14-4789-9DEF-0EC458F7EB28","PAN":"MNMNM1234M","ApplicantName":"SUSHANT KUMAR JENA","ApplicantAddress":"Level-6 Ocac Tower,Bhubaneswar","MobileNo":"9778065403","EmailId":"sushant.jena007@gmail.com","UnitName":"MAA MANGALA RICE MILL","InvestmentLevel":1,"SiteLocation":"Near Mancheswar","EinIemType":"EIN","EinIemNo":"EIN/25485/3333","EinIemDoc":"http://nsws/ein.pdf","DistrictCode":15,"BlockCode":0,"SectorCode":10,"SubSectorCode":5,"GSTIN":"GSTIN25485","UserId":"NSWSUID_13","Pwd":"Password@1"}
+-----------------------------------------------------------
+Time: 15/03/2021 05:05:03 PM For RequestMethod: NSWSUserRegistration
+InputOutput: (Response)--- Status :- 0 OutputString:- {"Status":2,"SSOId":"87E3768D-5F14-4FEA-AB28-97C78A32409E","OutMessage":"Success"}
+-----------------------------------------------------------

@@ -1,0 +1,216 @@
+Time: 06/01/2021 06:27:01 PM For RequestMethod: FetchPaymentDetails
+InputOutput: (Request)---Application No :- 2018010536000004 Security Key:- 03520A0F-9A11-46AC-855B-65C5864B4B31
+-----------------------------------------------------------
+Time: 06/01/2021 06:27:01 PM For RequestMethod: FetchPaymentDetails
+InputOutput: (Response)--- Status :- 0 OutputString:- [{"ApplicationNo":"2018010536000004","PaymentDate":"05-Jan-2018","ChallanAmount":"6660","BankTransId":null,"ChallanRefId":null,"Status":0,"OutMessage":"Success"}]
+-----------------------------------------------------------
+Time: 06/01/2021 06:27:01 PM For RequestMethod: FetchPaymentDetails
+InputOutput: (Response)--- Status :- 0 OutputString:- [{"ApplicationNo":"2018010536000004","PaymentDate":"05-Jan-2018","ChallanAmount":"6660","BankTransId":null,"ChallanRefId":null,"Status":0,"OutMessage":"Success"}]
+-----------------------------------------------------------
+Time: 06/01/2021 06:27:01 PM For RequestMethod: FetchPaymentDetails
+InputOutput: (Request)---Application No :- 1897340999 Security Key:- 03520A0F-9A11-46AC-855B-65C5864B4B31
+-----------------------------------------------------------
+Time: 06/01/2021 06:27:01 PM For RequestMethod: FetchPaymentDetails
+InputOutput: (Response)--- Status :- 0 OutputString:- []
+-----------------------------------------------------------
+Time: 06/01/2021 06:27:01 PM For RequestMethod: FetchPaymentDetails
+InputOutput: (Response)--- Status :- 0 OutputString:- []
+-----------------------------------------------------------
+Time: 06/01/2021 06:27:58 PM For RequestMethod: ApplicationStatusUpdate
+InputOutput: (Request)---Application No :- 2021010636000011 Security Key:- 03520A0F-9A11-46AC-855B-65C5864B4B31 Approvrd Link:- http://localhost/CICG/Inspection/CopyFiles1/ReportDetails_3_44196.pdf Reference Link:- 
+-----------------------------------------------------------
+Time: 06/01/2021 06:27:58 PM For RequestMethod: FetchPaymentDetails
+InputOutput: (Request)---Application No :- 1897340999 Security Key:- 03520A0F-9A11-46AC-855B-65C5864B4B31
+-----------------------------------------------------------
+Time: 06/01/2021 06:27:58 PM For RequestMethod: FetchPaymentDetails
+InputOutput: (Response)--- Status :- 0 OutputString:- []
+-----------------------------------------------------------
+Time: 06/01/2021 06:27:58 PM For RequestMethod: FetchPaymentDetails
+InputOutput: (Response)--- Status :- 0 OutputString:- []
+-----------------------------------------------------------
+Time: 06/01/2021 06:28:07 PM For RequestMethod: FetchPaymentDetails
+InputOutput: (Request)---Application No :- 2018010536000004 Security Key:- 03520A0F-9A11-46AC-855B-65C5864B4B31
+-----------------------------------------------------------
+Time: 06/01/2021 06:28:07 PM For RequestMethod: FetchPaymentDetails
+InputOutput: (Response)--- Status :- 0 OutputString:- [{"ApplicationNo":"2018010536000004","PaymentDate":"05-Jan-2018","ChallanAmount":"6660","BankTransId":null,"ChallanRefId":null,"Status":0,"OutMessage":"Success"}]
+-----------------------------------------------------------
+Time: 06/01/2021 06:28:07 PM For RequestMethod: FetchPaymentDetails
+InputOutput: (Response)--- Status :- 0 OutputString:- [{"ApplicationNo":"2018010536000004","PaymentDate":"05-Jan-2018","ChallanAmount":"6660","BankTransId":null,"ChallanRefId":null,"Status":0,"OutMessage":"Success"}]
+-----------------------------------------------------------
+Time: 06/01/2021 06:28:58 PM For RequestMethod: FetchPaymentDetails
+InputOutput: (Request)---Application No :- 1897340999 Security Key:- 03520A0F-9A11-46AC-855B-65C5864B4B31
+-----------------------------------------------------------
+Time: 06/01/2021 06:28:58 PM For RequestMethod: FetchPaymentDetails
+InputOutput: (Response)--- Status :- 0 OutputString:- []
+-----------------------------------------------------------
+Time: 06/01/2021 06:28:58 PM For RequestMethod: FetchPaymentDetails
+InputOutput: (Response)--- Status :- 0 OutputString:- []
+-----------------------------------------------------------
+Time: 06/01/2021 06:29:58 PM For RequestMethod: FetchPaymentDetails
+InputOutput: (Request)---Application No :- 1897340999 Security Key:- 03520A0F-9A11-46AC-855B-65C5864B4B31
+-----------------------------------------------------------
+Time: 06/01/2021 06:29:58 PM For RequestMethod: FetchPaymentDetails
+InputOutput: (Response)--- Status :- 0 OutputString:- []
+-----------------------------------------------------------
+Time: 06/01/2021 06:29:58 PM For RequestMethod: FetchPaymentDetails
+InputOutput: (Response)--- Status :- 0 OutputString:- []
+-----------------------------------------------------------
+Time: 06/01/2021 06:30:45 PM For RequestMethod: ApplicationStatusUpdate
+InputOutput: (Request)---Application No :- 2021010636000011 Security Key:- 03520A0F-9A11-46AC-855B-65C5864B4B31 Approvrd Link:- http://localhost/CICG/Inspection/CopyFiles1/ReportDetails_4_44196.PDF Reference Link:- 
+-----------------------------------------------------------
+Time: 06/01/2021 06:41:48 PM For RequestMethod: FetchPaymentDetails
+InputOutput: (Request)---Application No :- 1897340999 Security Key:- 03520A0F-9A11-46AC-855B-65C5864B4B31
+-----------------------------------------------------------
+Time: 06/01/2021 06:41:48 PM For RequestMethod: FetchPaymentDetails
+InputOutput: (Response)--- Status :- 0 OutputString:- []
+-----------------------------------------------------------
+Time: 06/01/2021 06:41:48 PM For RequestMethod: FetchPaymentDetails
+InputOutput: (Response)--- Status :- 0 OutputString:- []
+-----------------------------------------------------------
+Time: 06/01/2021 06:41:58 PM For RequestMethod: FetchPaymentDetails
+InputOutput: (Request)---Application No :- 1897340999 Security Key:- 03520A0F-9A11-46AC-855B-65C5864B4B31
+-----------------------------------------------------------
+Time: 06/01/2021 06:41:58 PM For RequestMethod: FetchPaymentDetails
+InputOutput: (Response)--- Status :- 0 OutputString:- []
+-----------------------------------------------------------
+Time: 06/01/2021 06:41:58 PM For RequestMethod: FetchPaymentDetails
+InputOutput: (Response)--- Status :- 0 OutputString:- []
+-----------------------------------------------------------
+Time: 06/01/2021 06:44:16 PM For RequestMethod: FetchPaymentDetails
+InputOutput: (Request)---Application No :- 1897340999 Security Key:- 03520A0F-9A11-46AC-855B-65C5864B4B31
+-----------------------------------------------------------
+Time: 06/01/2021 06:44:16 PM For RequestMethod: FetchPaymentDetails
+InputOutput: (Response)--- Status :- 0 OutputString:- []
+-----------------------------------------------------------
+Time: 06/01/2021 06:44:16 PM For RequestMethod: FetchPaymentDetails
+InputOutput: (Response)--- Status :- 0 OutputString:- []
+-----------------------------------------------------------
+Time: 06/01/2021 06:44:57 PM For RequestMethod: ApplicationStatusUpdate
+InputOutput: (Request)---Application No :- 2021010636000011 Security Key:- 03520A0F-9A11-46AC-855B-65C5864B4B31 Approvrd Link:- http://192.168.202.216/CICG/Inspection/CopyFiles1/ReportDetails_2_44190.pdf Reference Link:- 
+-----------------------------------------------------------
+Time: 06/01/2021 06:44:58 PM For RequestMethod: ApplicationStatusUpdate
+InputOutput: (Response)--- Status :- 0 OutputString:- {"Status":2,"OutMessage":"Success"}
+-----------------------------------------------------------
+Time: 06/01/2021 06:45:04 PM For RequestMethod: FetchPaymentDetails
+InputOutput: (Request)---Application No :- 1897340999 Security Key:- 03520A0F-9A11-46AC-855B-65C5864B4B31
+-----------------------------------------------------------
+Time: 06/01/2021 06:45:04 PM For RequestMethod: FetchPaymentDetails
+InputOutput: (Response)--- Status :- 0 OutputString:- []
+-----------------------------------------------------------
+Time: 06/01/2021 06:45:04 PM For RequestMethod: FetchPaymentDetails
+InputOutput: (Response)--- Status :- 0 OutputString:- []
+-----------------------------------------------------------
+Time: 06/01/2021 06:46:00 PM For RequestMethod: ApplicationStatusUpdate
+InputOutput: (Request)---Application No :- 2021010636000011 Security Key:- 03520A0F-9A11-46AC-855B-65C5864B4B31 Approvrd Link:- http://192.168.202.216/CICG/Inspection/CopyFiles1/ReportDetails_3_44190.pdf Reference Link:- 
+-----------------------------------------------------------
+Time: 06/01/2021 06:46:00 PM For RequestMethod: ApplicationStatusUpdate
+InputOutput: (Response)--- Status :- 0 OutputString:- {"Status":2,"OutMessage":"Success"}
+-----------------------------------------------------------
+Time: 06/01/2021 06:46:07 PM For RequestMethod: FetchPaymentDetails
+InputOutput: (Request)---Application No :- 1897340999 Security Key:- 03520A0F-9A11-46AC-855B-65C5864B4B31
+-----------------------------------------------------------
+Time: 06/01/2021 06:46:07 PM For RequestMethod: FetchPaymentDetails
+InputOutput: (Response)--- Status :- 0 OutputString:- []
+-----------------------------------------------------------
+Time: 06/01/2021 06:46:07 PM For RequestMethod: FetchPaymentDetails
+InputOutput: (Response)--- Status :- 0 OutputString:- []
+-----------------------------------------------------------
+Time: 06/01/2021 06:47:07 PM For RequestMethod: FetchPaymentDetails
+InputOutput: (Request)---Application No :- 1897340999 Security Key:- 03520A0F-9A11-46AC-855B-65C5864B4B31
+-----------------------------------------------------------
+Time: 06/01/2021 06:47:07 PM For RequestMethod: FetchPaymentDetails
+InputOutput: (Response)--- Status :- 0 OutputString:- []
+-----------------------------------------------------------
+Time: 06/01/2021 06:47:07 PM For RequestMethod: FetchPaymentDetails
+InputOutput: (Response)--- Status :- 0 OutputString:- []
+-----------------------------------------------------------
+Time: 06/01/2021 06:48:07 PM For RequestMethod: FetchPaymentDetails
+InputOutput: (Request)---Application No :- 1897340999 Security Key:- 03520A0F-9A11-46AC-855B-65C5864B4B31
+-----------------------------------------------------------
+Time: 06/01/2021 06:48:07 PM For RequestMethod: FetchPaymentDetails
+InputOutput: (Response)--- Status :- 0 OutputString:- []
+-----------------------------------------------------------
+Time: 06/01/2021 06:48:07 PM For RequestMethod: FetchPaymentDetails
+InputOutput: (Response)--- Status :- 0 OutputString:- []
+-----------------------------------------------------------
+Time: 06/01/2021 06:49:07 PM For RequestMethod: FetchPaymentDetails
+InputOutput: (Request)---Application No :- 1897340999 Security Key:- 03520A0F-9A11-46AC-855B-65C5864B4B31
+-----------------------------------------------------------
+Time: 06/01/2021 06:49:07 PM For RequestMethod: FetchPaymentDetails
+InputOutput: (Response)--- Status :- 0 OutputString:- []
+-----------------------------------------------------------
+Time: 06/01/2021 06:49:07 PM For RequestMethod: FetchPaymentDetails
+InputOutput: (Response)--- Status :- 0 OutputString:- []
+-----------------------------------------------------------
+Time: 06/01/2021 06:50:07 PM For RequestMethod: FetchPaymentDetails
+InputOutput: (Request)---Application No :- 1897340999 Security Key:- 03520A0F-9A11-46AC-855B-65C5864B4B31
+-----------------------------------------------------------
+Time: 06/01/2021 06:50:07 PM For RequestMethod: FetchPaymentDetails
+InputOutput: (Response)--- Status :- 0 OutputString:- []
+-----------------------------------------------------------
+Time: 06/01/2021 06:50:07 PM For RequestMethod: FetchPaymentDetails
+InputOutput: (Response)--- Status :- 0 OutputString:- []
+-----------------------------------------------------------
+Time: 06/01/2021 06:51:07 PM For RequestMethod: FetchPaymentDetails
+InputOutput: (Request)---Application No :- 1897340999 Security Key:- 03520A0F-9A11-46AC-855B-65C5864B4B31
+-----------------------------------------------------------
+Time: 06/01/2021 06:51:07 PM For RequestMethod: FetchPaymentDetails
+InputOutput: (Response)--- Status :- 0 OutputString:- []
+-----------------------------------------------------------
+Time: 06/01/2021 06:51:07 PM For RequestMethod: FetchPaymentDetails
+InputOutput: (Response)--- Status :- 0 OutputString:- []
+-----------------------------------------------------------
+Time: 06/01/2021 06:52:07 PM For RequestMethod: FetchPaymentDetails
+InputOutput: (Request)---Application No :- 1897340999 Security Key:- 03520A0F-9A11-46AC-855B-65C5864B4B31
+-----------------------------------------------------------
+Time: 06/01/2021 06:52:07 PM For RequestMethod: FetchPaymentDetails
+InputOutput: (Response)--- Status :- 0 OutputString:- []
+-----------------------------------------------------------
+Time: 06/01/2021 06:52:07 PM For RequestMethod: FetchPaymentDetails
+InputOutput: (Response)--- Status :- 0 OutputString:- []
+-----------------------------------------------------------
+Time: 06/01/2021 06:53:07 PM For RequestMethod: FetchPaymentDetails
+InputOutput: (Request)---Application No :- 1897340999 Security Key:- 03520A0F-9A11-46AC-855B-65C5864B4B31
+-----------------------------------------------------------
+Time: 06/01/2021 06:53:07 PM For RequestMethod: FetchPaymentDetails
+InputOutput: (Response)--- Status :- 0 OutputString:- []
+-----------------------------------------------------------
+Time: 06/01/2021 06:53:07 PM For RequestMethod: FetchPaymentDetails
+InputOutput: (Response)--- Status :- 0 OutputString:- []
+-----------------------------------------------------------
+Time: 06/01/2021 06:54:07 PM For RequestMethod: FetchPaymentDetails
+InputOutput: (Request)---Application No :- 1897340999 Security Key:- 03520A0F-9A11-46AC-855B-65C5864B4B31
+-----------------------------------------------------------
+Time: 06/01/2021 06:54:07 PM For RequestMethod: FetchPaymentDetails
+InputOutput: (Response)--- Status :- 0 OutputString:- []
+-----------------------------------------------------------
+Time: 06/01/2021 06:54:07 PM For RequestMethod: FetchPaymentDetails
+InputOutput: (Response)--- Status :- 0 OutputString:- []
+-----------------------------------------------------------
+Time: 06/01/2021 06:55:07 PM For RequestMethod: FetchPaymentDetails
+InputOutput: (Request)---Application No :- 1897340999 Security Key:- 03520A0F-9A11-46AC-855B-65C5864B4B31
+-----------------------------------------------------------
+Time: 06/01/2021 06:55:07 PM For RequestMethod: FetchPaymentDetails
+InputOutput: (Response)--- Status :- 0 OutputString:- []
+-----------------------------------------------------------
+Time: 06/01/2021 06:55:07 PM For RequestMethod: FetchPaymentDetails
+InputOutput: (Response)--- Status :- 0 OutputString:- []
+-----------------------------------------------------------
+Time: 06/01/2021 06:56:07 PM For RequestMethod: FetchPaymentDetails
+InputOutput: (Request)---Application No :- 1897340999 Security Key:- 03520A0F-9A11-46AC-855B-65C5864B4B31
+-----------------------------------------------------------
+Time: 06/01/2021 06:56:07 PM For RequestMethod: FetchPaymentDetails
+InputOutput: (Response)--- Status :- 0 OutputString:- []
+-----------------------------------------------------------
+Time: 06/01/2021 06:56:07 PM For RequestMethod: FetchPaymentDetails
+InputOutput: (Response)--- Status :- 0 OutputString:- []
+-----------------------------------------------------------
+Time: 06/01/2021 06:57:07 PM For RequestMethod: FetchPaymentDetails
+InputOutput: (Request)---Application No :- 1897340999 Security Key:- 03520A0F-9A11-46AC-855B-65C5864B4B31
+-----------------------------------------------------------
+Time: 06/01/2021 06:57:07 PM For RequestMethod: FetchPaymentDetails
+InputOutput: (Response)--- Status :- 0 OutputString:- []
+-----------------------------------------------------------
+Time: 06/01/2021 06:57:07 PM For RequestMethod: FetchPaymentDetails
+InputOutput: (Response)--- Status :- 0 OutputString:- []
+-----------------------------------------------------------

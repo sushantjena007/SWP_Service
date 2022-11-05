@@ -1,0 +1,42 @@
+Time: 12/04/2021 08:52:41 AM For RequestMethod: NSWSLoginAuthentication
+InputOutput: (Request)--- PAN No :- AKAPD2692K.  -->>> INPUT JSON STRING :- {"SecurityKey":"6EE32F3E-9B14-4789-9DEF-0EC458F7EB28","PAN":"AKAPD2692K","ApplicantName":null,"ApplicantAddress":null,"MobileNo":null,"EmailId":null,"UnitName":null,"InvestmentLevel":0,"SiteLocation":null,"EinIemType":null,"EinIemNo":null,"EinIemDoc":null,"DistrictCode":0,"BlockCode":0,"SectorCode":0,"SubSectorCode":0,"GSTIN":null,"InvestorSWSId":1416}
+-----------------------------------------------------------
+Time: 12/04/2021 08:52:42 AM For RequestMethod: NSWSLoginAuthentication
+InputOutput: (Response)--- Status :- 0 OUTPUT JSON STRING:- {"Status":2,"RedirectUrl":"https://uatgoswift.csmpl.com/SSOLoginNSWS.aspx?nparam=bDTLDK05HP5ldkvZzI5lAw==","OutMessage":"Success."}
+-----------------------------------------------------------
+Time: 12/04/2021 09:05:14 AM For RequestMethod: NSWSLoginAuthentication
+InputOutput: (Request)--- PAN No :- AKAPD2692K.  -->>> INPUT JSON STRING :- {"SecurityKey":"6EE32F3E-9B14-4789-9DEF-0EC458F7EB28","PAN":"AKAPD2692K","ApplicantName":null,"ApplicantAddress":null,"MobileNo":null,"EmailId":null,"UnitName":null,"InvestmentLevel":0,"SiteLocation":null,"EinIemType":null,"EinIemNo":null,"EinIemDoc":null,"DistrictCode":0,"BlockCode":0,"SectorCode":0,"SubSectorCode":0,"GSTIN":null,"InvestorSWSId":1416}
+-----------------------------------------------------------
+Time: 12/04/2021 09:05:14 AM For RequestMethod: NSWSLoginAuthentication
+InputOutput: (Response)--- Status :- 0 OUTPUT JSON STRING:- {"Status":2,"RedirectUrl":"https://uatgoswift.csmpl.com/SSOLoginNSWS.aspx?nparam=bDTLDK05HP5ldkvZzI5lAw==","OutMessage":"Success."}
+-----------------------------------------------------------
+Time: 12/04/2021 10:39:00 AM For RequestMethod: NSWSUserRegistration
+InputOutput: (Request)--- PAN No :- AAABB1234M.  -->>> INPUT JSON STRING :- {"SecurityKey":"6EE32F3E-9B14-4789-9DEF-0EC458F7EB28","PAN":"AAABB1234M","ApplicantName":"SUSHANT KUMAR JENA","ApplicantAddress":"Level-6 Ocac Tower,Bhubaneswar","MobileNo":"9778065403","EmailId":"sushant.jena007@gmail.com","UnitName":"CSM TECH PVT LTD","InvestmentLevel":1,"SiteLocation":"Near Mancheswar","EinIemType":"EIN","EinIemNo":"EIN/147585/5000","EinIemDoc":"http://server16/swp/Enclosure/124320210309104246PAN1.pdf","DistrictCode":15,"BlockCode":10,"SectorCode":10,"SubSectorCode":5,"GSTIN":"GSTIN25485","InvestorSWSId":5000}
+-----------------------------------------------------------
+Time: 12/04/2021 10:39:03 AM For RequestMethod: NSWSUserRegistration
+InputOutput: (Response)--- Input Validity Status :- 0 OUTPUT JSON STRING:- {"Status":2,"SSOId":"2D6D8F6D-F09A-4602-B782-62D8849FD9A8","OutMessage":"Data Saved Successfully and Rediection URL not Landed at NSWS !"}
+-----------------------------------------------------------
+Time: 12/04/2021 10:40:22 AM For RequestMethod: NSWSUserRegistration
+InputOutput: (Request)--- PAN No :- AAABB1234M.  -->>> INPUT JSON STRING :- {"SecurityKey":"6EE32F3E-9B14-4789-9DEF-0EC458F7EB28","PAN":"AAABB1234M","ApplicantName":"SUSHANT KUMAR JENA","ApplicantAddress":"Level-6 Ocac Tower,Bhubaneswar","MobileNo":"9778065403","EmailId":"sushant.jena007@gmail.com","UnitName":"CSM TECH PVT LTD","InvestmentLevel":1,"SiteLocation":"Near Mancheswar","EinIemType":"EIN","EinIemNo":"EIN/147585/5000","EinIemDoc":"http://server16/swp/Enclosure/124320210309104246PAN1.pdf","DistrictCode":15,"BlockCode":10,"SectorCode":10,"SubSectorCode":5,"GSTIN":"GSTIN25485","InvestorSWSId":5000}
+-----------------------------------------------------------
+Time: 12/04/2021 10:40:35 AM For RequestMethod: NSWSUserRegistration
+InputOutput: (Response)--- Input Validity Status :- 0 OUTPUT JSON STRING:- {"Status":4,"SSOId":null,"OutMessage":"The investor SWS id is already exists."}
+-----------------------------------------------------------
+Time: 12/04/2021 10:41:10 AM For RequestMethod: NSWSUserRegistration
+InputOutput: (Request)--- PAN No :- AAABB1234M.  -->>> INPUT JSON STRING :- {"SecurityKey":"6EE32F3E-9B14-4789-9DEF-0EC458F7EB28","PAN":"AAABB1234M","ApplicantName":"SUSHANT KUMAR JENA","ApplicantAddress":"Level-6 Ocac Tower,Bhubaneswar","MobileNo":"9778065403","EmailId":"sushant.jena007@gmail.com","UnitName":"CHECK Redirect Url Unit","InvestmentLevel":1,"SiteLocation":"Near Mancheswar","EinIemType":"EIN","EinIemNo":"EIN/147585/5001","EinIemDoc":"http://server16/swp/Enclosure/124320210309104246PAN1.pdf","DistrictCode":15,"BlockCode":10,"SectorCode":10,"SubSectorCode":5,"GSTIN":"GSTIN25485","InvestorSWSId":5001}
+-----------------------------------------------------------
+Time: 12/04/2021 10:43:13 AM For RequestMethod: NSWSUserRegistration
+InputOutput: (Response)--- Input Validity Status :- 0 OUTPUT JSON STRING:- {"Status":2,"SSOId":"E4D4B27F-9AE8-4D52-8B29-BB64AD900E9C","OutMessage":"Data Saved Successfully and Rediection URL not Landed at NSWS !"}
+-----------------------------------------------------------
+Time: 12/04/2021 10:45:31 AM For RequestMethod: NSWSUserRegistration
+InputOutput: (Request)--- PAN No :- AAABB1234M.  -->>> INPUT JSON STRING :- {"SecurityKey":"6EE32F3E-9B14-4789-9DEF-0EC458F7EB28","PAN":"AAABB1234M","ApplicantName":"SUSHANT KUMAR JENA","ApplicantAddress":"Level-6 Ocac Tower,Bhubaneswar","MobileNo":"9778065403","EmailId":"sushant.jena007@gmail.com","UnitName":"CHECK Redirect Url Unit","InvestmentLevel":1,"SiteLocation":"Near Mancheswar","EinIemType":"EIN","EinIemNo":"EIN/147585/5002","EinIemDoc":"http://server16/swp/Enclosure/124320210309104246PAN1.pdf","DistrictCode":15,"BlockCode":10,"SectorCode":10,"SubSectorCode":5,"GSTIN":"GSTIN25485","InvestorSWSId":5002}
+-----------------------------------------------------------
+Time: 12/04/2021 10:46:44 AM For RequestMethod: NSWSUserRegistration
+InputOutput: (Response)--- Input Validity Status :- 0 OUTPUT JSON STRING:- {"Status":2,"SSOId":"735F1F66-5EB3-4BB3-B0CB-9B16D581A0A1","OutMessage":"Data Saved Successfully and Redirection URL Sent Successfully !"}
+-----------------------------------------------------------
+Time: 12/04/2021 01:36:55 PM For RequestMethod: NSWSUserRegistration
+InputOutput: (Request)--- PAN No :- AAABB1234M.  -->>> INPUT JSON STRING :- {"SecurityKey":"6EE32F3E-9B14-4789-9DEF-0EC458F7EB28","PAN":"AAABB1234M","ApplicantName":"SUSHANT KUMAR JENA","ApplicantAddress":"Level-6 Ocac Tower,Bhubaneswar","MobileNo":"9778065403","EmailId":"sushant.jena007@gmail.com","UnitName":"CHECK Redirect Url Unit","InvestmentLevel":1,"SiteLocation":"Near Mancheswar","EinIemType":"EIN","EinIemNo":"EIN/147585/5005","EinIemDoc":"http://server16/swp/Enclosure/124320210309104246PAN1.pdf","DistrictCode":15,"BlockCode":10,"SectorCode":10,"SubSectorCode":5,"GSTIN":"GSTIN25485","InvestorSWSId":5005}
+-----------------------------------------------------------
+Time: 12/04/2021 01:37:01 PM For RequestMethod: NSWSUserRegistration
+InputOutput: (Response)--- Input Validity Status :- 0 OUTPUT JSON STRING:- {"Status":2,"SSOId":"243DEDD8-77F3-4582-9F50-0147D7F9E9AA","OutMessage":"Data Saved Successfully and Rediection URL not Landed at NSWS !"}
+-----------------------------------------------------------

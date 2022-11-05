@@ -1,0 +1,12 @@
+Time: 28/08/2019 03:37:58 PM For RequestMethod: getServiceInfo
+InputOutput: (Request)---SSO ID :- 44A2EEA2-E454-4A0A-843A-6183C8BE2E06 Security Key:- 4FA78FE4-EB41-40DB-9BE2-7DE6DF6B99CC1
+-----------------------------------------------------------
+Time: 28/08/2019 03:37:58 PM For RequestMethod: getServiceInfo
+InputOutput: (Response)---Valid Status :- 1 OutputString:- {"strStatusMsg":"Invalid Security Key.","intStatus":2,"CRMServiceDetails":null}
+-----------------------------------------------------------
+Time: 28/08/2019 03:38:30 PM For RequestMethod: getServiceInfo
+InputOutput: (Request)---SSO ID :- 44A2EEA2-E454-4A0A-843A-6183C8BE2E06 Security Key:- 4FA78FE4-EB41-40DB-9BE2-7DE6DF6B99CC
+-----------------------------------------------------------
+Time: 28/08/2019 03:38:30 PM For RequestMethod: getServiceInfo
+InputOutput: (Response)---Valid Status :- 0 OutputString:- {"strStatusMsg":"Success","intStatus":3,"CRMServiceDetails":[{"strApplicationNo":"2018040216000016","intServiceId":16,"intApplicationStatus":12,"intQueryStatus":0,"strAppliedDate":"2018/04/02","strApprovalDate":""},{"strApplicationNo":"201805151068000001","intServiceId":1068,"intApplicationStatus":1,"intQueryStatus":0,"strAppliedDate":"2018/05/15","strApprovalDate":""},{"strApplicationNo":"201811154000019","intServiceId":4,"intApplicationStatus":1,"intQueryStatus":0,"strAppliedDate":"2018/11/15","strApprovalDate":""}]}
+-----------------------------------------------------------

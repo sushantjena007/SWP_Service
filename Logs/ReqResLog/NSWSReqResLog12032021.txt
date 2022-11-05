@@ -1,0 +1,96 @@
+Time: 12/03/2021 03:47:28 PM For RequestMethod: NSWSUserRegistration
+InputOutput: (Request)---PAn No :- String content Security Key:- String content
+-----------------------------------------------------------
+Time: 12/03/2021 03:47:28 PM For RequestMethod: NSWSUserRegistration
+InputOutput: (Response)--- Status :- 1 OutputString:- {"Status":1,"SSOId":null,"OutMessage":"Invalid security key."}
+-----------------------------------------------------------
+Time: 12/03/2021 03:50:26 PM For RequestMethod: NSWSUserRegistration
+InputOutput: (Request)---PAn No :- String content Security Key:- String content
+-----------------------------------------------------------
+Time: 12/03/2021 03:50:36 PM For RequestMethod: NSWSUserRegistration
+InputOutput: (Response)--- Status :- 1 OutputString:- {"Status":1,"SSOId":null,"OutMessage":"Invalid security key."}
+-----------------------------------------------------------
+Time: 12/03/2021 03:51:10 PM For RequestMethod: NSWSUserRegistration
+InputOutput: (Request)---PAn No :- String content Security Key:- 6EE32F3E-9B14-4789-9DEF-0EC458F7EB28
+-----------------------------------------------------------
+Time: 12/03/2021 03:51:21 PM For RequestMethod: NSWSUserRegistration
+InputOutput: (Response)--- Status :- 1 OutputString:- {"Status":1,"SSOId":null,"OutMessage":"Invalid investment level."}
+-----------------------------------------------------------
+Time: 12/03/2021 03:51:36 PM For RequestMethod: NSWSUserRegistration
+InputOutput: (Request)---PAn No :- String content Security Key:- 6EE32F3E-9B14-4789-9DEF-0EC458F7EB28
+-----------------------------------------------------------
+Time: 12/03/2021 03:51:49 PM For RequestMethod: NSWSUserRegistration
+InputOutput: (Response)--- Status :- 1 OutputString:- {"Status":1,"SSOId":null,"OutMessage":"Invalid investment level."}
+-----------------------------------------------------------
+Time: 12/03/2021 03:52:11 PM For RequestMethod: NSWSUserRegistration
+InputOutput: (Request)---PAn No :- String content Security Key:- 6EE32F3E-9B14-4789-9DEF-0EC458F7EB28
+-----------------------------------------------------------
+Time: 12/03/2021 03:52:42 PM For RequestMethod: NSWSUserRegistration
+InputOutput: (Response)--- Status :- 0 OutputString:- {"Status":2,"SSOId":null,"OutMessage":"Success"}
+-----------------------------------------------------------
+Time: 12/03/2021 03:59:09 PM For RequestMethod: NSWSUserRegistration
+InputOutput: (Request)---PAn No :- JJJJJ1414J Security Key:- 6EE32F3E-9B14-4789-9DEF-0EC458F7EB28
+-----------------------------------------------------------
+Time: 12/03/2021 03:59:16 PM For RequestMethod: NSWSUserRegistration
+InputOutput: (Response)--- Status :- 1 OutputString:- {"Status":1,"SSOId":null,"OutMessage":"Invalid district code."}
+-----------------------------------------------------------
+Time: 12/03/2021 03:59:29 PM For RequestMethod: NSWSUserRegistration
+InputOutput: (Request)---PAn No :- JJJJJ1414J Security Key:- 6EE32F3E-9B14-4789-9DEF-0EC458F7EB28
+-----------------------------------------------------------
+Time: 12/03/2021 03:59:40 PM For RequestMethod: NSWSUserRegistration
+InputOutput: (Response)--- Status :- 0 OutputString:- {"Status":2,"SSOId":null,"OutMessage":"Success"}
+-----------------------------------------------------------
+Time: 12/03/2021 04:03:59 PM For RequestMethod: NSWSUserRegistration
+InputOutput: (Request)---PAn No :- JJJJJ1414J Security Key:- 6EE32F3E-9B14-4789-9DEF-0EC458F7EB28
+-----------------------------------------------------------
+Time: 12/03/2021 04:04:01 PM For RequestMethod: NSWSUserRegistration
+InputOutput: (Response)--- Status :- 0 OutputString:- {"Status":2,"SSOId":null,"OutMessage":"Success"}
+-----------------------------------------------------------
+Time: 12/03/2021 04:05:03 PM For RequestMethod: NSWSUserRegistration
+InputOutput: (Request)---PAn No :- JJJJJ1414J Security Key:- 6EE32F3E-9B14-4789-9DEF-0EC458F7EB28
+-----------------------------------------------------------
+Time: 12/03/2021 04:05:03 PM For RequestMethod: NSWSUserRegistration
+InputOutput: (Response)--- Status :- 0 OutputString:- {"Status":4,"SSOId":null,"OutMessage":"The user id provided by you is already exists."}
+-----------------------------------------------------------
+Time: 12/03/2021 04:05:33 PM For RequestMethod: NSWSUserRegistration
+InputOutput: (Request)---PAn No :- JJJJJ1414J Security Key:- 6EE32F3E-9B14-4789-9DEF-0EC458F7EB28
+-----------------------------------------------------------
+Time: 12/03/2021 04:05:33 PM For RequestMethod: NSWSUserRegistration
+InputOutput: (Response)--- Status :- 0 OutputString:- {"Status":5,"SSOId":null,"OutMessage":"The EIN/IEM number provided by you is already exists"}
+-----------------------------------------------------------
+Time: 12/03/2021 04:06:00 PM For RequestMethod: NSWSUserRegistration
+InputOutput: (Request)---PAn No :- JJJJJ1414J Security Key:- 6EE32F3E-9B14-4789-9DEF-0EC458F7EB28
+-----------------------------------------------------------
+Time: 12/03/2021 04:06:01 PM For RequestMethod: NSWSUserRegistration
+InputOutput: (Response)--- Status :- 0 OutputString:- {"Status":2,"SSOId":null,"OutMessage":"Success"}
+-----------------------------------------------------------
+Time: 12/03/2021 04:11:47 PM For RequestMethod: NSWSUserRegistration
+InputOutput: (Request)---PAn No :- JJJJJ1414J Security Key:- 6EE32F3E-9B14-4789-9DEF-0EC458F7EB28
+-----------------------------------------------------------
+Time: 12/03/2021 04:11:48 PM For RequestMethod: NSWSUserRegistration
+InputOutput: (Response)--- Status :- 0 OutputString:- {"Status":4,"SSOId":null,"OutMessage":"The user id provided by you is already exists."}
+-----------------------------------------------------------
+Time: 12/03/2021 04:14:07 PM For RequestMethod: NSWSUserRegistration
+InputOutput: (Request)---PAn No :- JJJJJ1414J Security Key:- 6EE32F3E-9B14-4789-9DEF-0EC458F7EB28
+-----------------------------------------------------------
+Time: 12/03/2021 04:14:08 PM For RequestMethod: NSWSUserRegistration
+InputOutput: (Response)--- Status :- 0 OutputString:- {"Status":4,"SSOId":null,"OutMessage":"The user id provided by you is already exists."}
+-----------------------------------------------------------
+Time: 12/03/2021 04:14:25 PM For RequestMethod: NSWSUserRegistration
+InputOutput: (Request)---PAn No :- JJJJJ1414J Security Key:- 6EE32F3E-9B14-4789-9DEF-0EC458F7EB28
+-----------------------------------------------------------
+Time: 12/03/2021 04:14:25 PM For RequestMethod: NSWSUserRegistration
+InputOutput: (Response)--- Status :- 0 OutputString:- {"Status":4,"SSOId":null,"OutMessage":"The user id provided by you is already exists."}
+-----------------------------------------------------------
+Time: 12/03/2021 04:14:32 PM For RequestMethod: NSWSUserRegistration
+InputOutput: (Request)---PAn No :- JJJJJ1414J Security Key:- 6EE32F3E-9B14-4789-9DEF-0EC458F7EB28
+-----------------------------------------------------------
+Time: 12/03/2021 04:14:32 PM For RequestMethod: NSWSUserRegistration
+InputOutput: (Response)--- Status :- 0 OutputString:- {"Status":5,"SSOId":null,"OutMessage":"The EIN/IEM number provided by you is already exists"}
+-----------------------------------------------------------
+Time: 12/03/2021 04:14:40 PM For RequestMethod: NSWSUserRegistration
+InputOutput: (Request)---PAn No :- JJJJJ1414J Security Key:- 6EE32F3E-9B14-4789-9DEF-0EC458F7EB28
+-----------------------------------------------------------
+Time: 12/03/2021 04:14:40 PM For RequestMethod: NSWSUserRegistration
+InputOutput: (Response)--- Status :- 0 OutputString:- {"Status":2,"SSOId":null,"OutMessage":"Success"}
+-----------------------------------------------------------
